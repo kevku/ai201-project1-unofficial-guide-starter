@@ -10,6 +10,7 @@
 ## Domain
 
 <!-- What domain did you choose? Why is this knowledge valuable and hard to find through official channels? -->
+I choose UCSD Dining hall menus, services, and dining plans as the domain. It may be hard to find specific information about UCSD dining services because their dining system works differently were most other univiersities have a buffet-style dining model, where students pay with a meal plan and can take multiple servings during a meal period. Additionally, UCSD menus can be very extensive.
 
 ---
 
@@ -18,18 +19,19 @@
 <!-- List your specific sources: URLs, subreddit names, forum threads, or file descriptions.
      Aim for at least 10 sources that together cover different subtopics or perspectives within your domain. -->
 
-| # | Source | Description | URL or location |
-|---|--------|-------------|-----------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
+| # | Source | Type | URL or file path |
+|---|--------|------|-----------------|
+| 1 |Places to Eat at UCSD|Official Website|https://blink.ucsd.edu/facilities/services/general/personal/dining.html|
+| 2 |Incoming Student Dining Plan
+|Official Website|https://hdhdining.ucsd.edu/dining-plans/incoming.html|
+| 3 |Continuing Student Dining Plan|Official Website|https://hdhdining.ucsd.edu/dining-plans/continuing.html|
+| 4 |64 Degrees|Official Website|https://hdh-web.ucsd.edu/dining/apps/diningservices/Restaurants/Venue_V3?locId=64&subLocNum=00&locDetID=18&dayNum=0|
+| 5 |Restaurants at Sixth College|Official Website|https://hdh-web.ucsd.edu/dining/apps/diningservices/Restaurants/Venue_V3?locId=37&subLocNum=00&locDetID=24&dayNum=0|
+| 6 |Canyon Vista Marketplace|Official Website|https://hdh-web.ucsd.edu/dining/apps/diningservices/Restaurants/Venue_V3?locId=24&subLocNum=00&locDetID=11&dayNum=0|
+| 7 |Ventanas|Official Website|https://hdh-web.ucsd.edu/dining/apps/diningservices/Restaurants/Venue_V3?locId=18&subLocNum=00&locDetID=8&dayNum=0|
+| 8 |Triton2Go Mobile Ordering|Official Website|https://hdhdining.ucsd.edu/triton2go/index.html|
+| 9 |Dining Accommodations|Official Website|https://hdhdining.ucsd.edu/nutrition-services/accommodations.html|
+| 10 |Need food recommendations from dining halls.|UCSD Subreddit|https://www.reddit.com/r/UCSD/comments/1gsvgjl/need_food_recommendations_from_dining_halls/|
 
 ---
 
