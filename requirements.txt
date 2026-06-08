@@ -9,6 +9,8 @@ beautifulsoup4==4.12.3
 lxml>=5.0.0
 pdfplumber==0.11.4
 
-# Query interface — add whichever you use for Milestone 5:
-# gradio>=6.9.0
-# streamlit>=1.40.0
+# Chunking (Milestone 3 — chunker.py)
+tiktoken>=0.8.0
+
+# Query interface (Milestone 5 — app.py)
+gradio>=6.9.0
