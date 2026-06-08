@@ -22,8 +22,7 @@ I choose UCSD Dining hall menus, services, and dining plans as the domain. It ma
 | # | Source | Type | URL or file path |
 |---|--------|------|-----------------|
 | 1 |Places to Eat at UCSD|PDF of Official Website|documents/Places to Eat at UCSD.pdf|
-| 2 |Incoming Student Dining Plan
-|Official Website|https://hdhdining.ucsd.edu/dining-plans/incoming.html|
+| 2 |Incoming Student Dining Plan|Official Website|https://hdhdining.ucsd.edu/dining-plans/incoming.html|
 | 3 |Continuing Student Dining Plan|Official Website|https://hdhdining.ucsd.edu/dining-plans/continuing.html|
 | 4 |64 Degrees|Official Website|https://hdh-web.ucsd.edu/dining/apps/diningservices/Restaurants/Venue_V3?locId=64&subLocNum=00&locDetID=18&dayNum=0|
 | 5 |Restaurants at Sixth College|Official Website|https://hdh-web.ucsd.edu/dining/apps/diningservices/Restaurants/Venue_V3?locId=37&subLocNum=00&locDetID=24&dayNum=0|

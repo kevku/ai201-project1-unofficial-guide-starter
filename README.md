@@ -26,8 +26,7 @@
 | # | Source | Type | URL or file path |
 |---|--------|------|-----------------|
 | 1 |Places to Eat at UCSD|PDF of Official Website|documents/Places to Eat at UCSD.pdf|
-| 2 |Incoming Student Dining Plan
-|Official Website|https://hdhdining.ucsd.edu/dining-plans/incoming.html|
+| 2 |Incoming Student Dining Plan|Official Website|https://hdhdining.ucsd.edu/dining-plans/incoming.html|
 | 3 |Continuing Student Dining Plan|Official Website|https://hdhdining.ucsd.edu/dining-plans/continuing.html|
 | 4 |64 Degrees|Official Website|https://hdh-web.ucsd.edu/dining/apps/diningservices/Restaurants/Venue_V3?locId=64&subLocNum=00&locDetID=18&dayNum=0|
 | 5 |Restaurants at Sixth College|Official Website|https://hdh-web.ucsd.edu/dining/apps/diningservices/Restaurants/Venue_V3?locId=37&subLocNum=00&locDetID=24&dayNum=0|
@@ -239,10 +238,8 @@ Retrieved from: clean_blink.json
 | 1 |I only eat 1–2 meals a day, what dining plan should I get?|Triton plan ($5,350) — lowest daily spend estimate at $20/day|I do not have that information in my current sources.|Off-target|Inaccurate|
 | 2 |What is good at Ventanas?|Chicken and Waffles and a Buffalo fried chicken plate, and Indian Food|At Ventanas, the Indian options are good, and it's also mentioned that you can't go wrong with Ventanas in general.|Relevant|Accurate|
 | 3 |Where can I get Poke?|Makai/Restaurants at Sixth College|You can get Poke at Makai.|Relevant|Accurate|
-| 4 |What if I lose my to go container?|You will not be able to get your $5 deposit back for that container. You can continue to check out additional containers by paying the $5 refundable deposit.|If you lose your container, you will not be able to get your $5 deposit back for that container. You can continue to check out additional containers by paying the $5 refundable deposit.
-|Relevant|Accurate|
-| 5 |What can I get if I'm allergic to peanuts?|all dining locations are peanut-free; pre-packaged peanuts sold in markets only; cross-contact in outside facilities not guaranteed|All of our dining locations are peanut-free. Peanuts are only sold pre-packaged in the markets. If you have a peanut allergy and are registered with the Office for Students with Disabilities (OSD), you may also be eligible to order meals from the Reduced Allergen Dining (RAD) Menu, which is free from the FDA's Top 9 Allergens, including peanuts.
-|Relevant|Accurate|
+| 4 |What if I lose my to go container?|You will not be able to get your $5 deposit back for that container. You can continue to check out additional containers by paying the $5 refundable deposit.|If you lose your container, you will not be able to get your $5 deposit back for that container. You can continue to check out additional containers by paying the $5 refundable deposit.|Relevant|Accurate|
+| 5 |What can I get if I'm allergic to peanuts?|all dining locations are peanut-free; pre-packaged peanuts sold in markets only; cross-contact in outside facilities not guaranteed|All of our dining locations are peanut-free. Peanuts are only sold pre-packaged in the markets. If you have a peanut allergy and are registered with the Office for Students with Disabilities (OSD), you may also be eligible to order meals from the Reduced Allergen Dining (RAD) Menu, which is free from the FDA's Top 9 Allergens, including peanuts.|Relevant|Accurate|
 
 **Retrieval quality:** Relevant / Partially relevant / Off-target  
 **Response accuracy:** Accurate / Partially accurate / Inaccurate
