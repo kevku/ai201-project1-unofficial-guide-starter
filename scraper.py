@@ -280,8 +280,10 @@ def scrape_reddit(url: str) -> dict:
     """
     Extract the post title and every comment from an old.reddit.com thread.
 
-    Returns: {url, post_title, comments: [{body, upvotes, date, is_reply}, ...]}
-    A comment is is_reply=True when nested inside another comment.
+    Returns: {url, post_title, comments: [{id, parent_id, body, upvotes, date, is_reply}, ...]}
+    A comment is is_reply=True when nested inside another comment; parent_id is the
+    enclosing comment's id (None for top-level), which lets the chunker bundle
+    a reply with its parent.
     """
     # old.reddit serves full HTML; rewrite www/new reddit hosts so this works.
     parsed = urlparse(url)
@@ -305,10 +307,14 @@ def scrape_reddit(url: str) -> dict:
         time_el = comment.select_one("time")
         date = time_el.get("datetime") if time_el else None
 
-        # Nested inside another div.comment => it's a reply.
-        is_reply = comment.find_parent("div", class_="comment") is not None
+        # Nested inside another div.comment => it's a reply; capture the parent's id.
+        parent = comment.find_parent("div", class_="comment")
+        is_reply = parent is not None
+        parent_id = parent.get("data-fullname") if parent else None
 
         comments.append({
+            "id": comment.get("data-fullname"),
+            "parent_id": parent_id,
             "body": body,
             "upvotes": _comment_score(comment),
             "date": date,

@@ -198,6 +198,8 @@ def clean_reddit(data: list) -> list:
             continue
 
         cleaned.append({
+            "id": c.get("id"),
+            "parent_id": c.get("parent_id"),
             "body": body,
             "upvotes": upvotes,
             "date": c.get("date"),
