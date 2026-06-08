@@ -1,0 +1,4753 @@
+[
+  {
+    "name": "Farfalle Arrabbiata Primavera",
+    "description": "Rotini pasta cooked with onions, broccoli, zucchini, and topped with an arrabbiata sauce and parmesan cheese.",
+    "station": "Al Dente",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Vegetarian",
+      "Contains Dairy",
+      "Contains Wheat",
+      "Contains Gluten",
+      "Sustainability"
+    ],
+    "calories": 543,
+    "price": "$9.00",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Gnocchi al Pesto Pomodorini",
+    "description": "Gnocchi (small potato dumplings) with cherry tomatoes, spinach, crimini mushrooms, shredded parmesan, pesto sauce and choice of protein",
+    "station": "Al Dente",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Vegetarian",
+      "Contains Dairy",
+      "Contains Wheat",
+      "Contains Gluten",
+      "Sustainability"
+    ],
+    "calories": 426,
+    "price": "$10.00",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Roasted Garlic Alfredo Fettuccine",
+    "description": "Fettucine pasta with broccoli, spinach and roasted garlic alfredo sauce topped with shredded parmesan cheese and parsley",
+    "station": "Al Dente",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Vegetarian",
+      "Contains Dairy",
+      "Contains Wheat",
+      "Contains Gluten"
+    ],
+    "calories": 804,
+    "price": "$10.00",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Hot Italian Sausage",
+    "description": "Pork, Hot Italian Sausage",
+    "station": "Al Dente",
+    "meal_period": "Lunch",
+    "allergens": [],
+    "calories": 355,
+    "price": null,
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Lemon Oregano Chicken",
+    "description": "Chicken, Lemon Oregano",
+    "station": "Al Dente",
+    "meal_period": "Lunch",
+    "allergens": [],
+    "calories": 238,
+    "price": null,
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Plant Based Bolognese",
+    "description": "Sauce, Plant Based Bolognese",
+    "station": "Al Dente",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Contains Soy",
+      "Sustainability"
+    ],
+    "calories": 122,
+    "price": null,
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Turkey Meatballs",
+    "description": "Meatball, Turkey",
+    "station": "Al Dente",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten"
+    ],
+    "calories": 160,
+    "price": null,
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Pesto Pasta Side Salad",
+    "description": "Rotini tossed with arugula, cherry tomatoes, garbanzo beans, pepitas, parmesan cheese, and pesto sauce",
+    "station": "Al Dente",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Vegetarian",
+      "Contains Dairy",
+      "Contains Wheat",
+      "Contains Gluten",
+      "Sustainability"
+    ],
+    "calories": 317,
+    "price": "$4.50",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Caesar Side Salad",
+    "description": "Romaine and spring greens with parmesan cheese, croutons, and caesar dressing",
+    "station": "Al Dente",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Fish",
+      "Contains Eggs",
+      "Contains Gluten",
+      "Sustainability"
+    ],
+    "calories": 200,
+    "price": "$3.00",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Roasted Garlic Breadsticks",
+    "description": "Bread sticks baked with garlic aioli spread and parmesan cheese",
+    "station": "Al Dente",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten",
+      "Sustainability"
+    ],
+    "calories": 209,
+    "price": "$2.25",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "64 Caesar Salad",
+    "description": "Baby kale, tomato and blistered bell pepper blend, edamame, parmesan crisps, roasted chickpeas and caesar dressing",
+    "station": "Garden Bar",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Fish",
+      "Contains Eggs"
+    ],
+    "calories": 520,
+    "price": "$8.50",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Asian Chopped Salad",
+    "description": "Red and green cabbage tossed with red bell pepper, carrot, snap peas, edamame, green onion, and sliced almonds tossed with sesame ginger vinaigrette and garnished with cilantro, crispy yakisoba, and sesame seeds",
+    "station": "Garden Bar",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Vegan",
+      "Contains TreeNuts",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten",
+      "Contains Sesame",
+      "Sustainability"
+    ],
+    "calories": 389,
+    "price": "$8.00",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Blackened Chicken Taco Salad",
+    "description": "Romaine lettuce, cherry tomatoes, black beans, pepitas, shredded cheddar jack cheese, and blackened chicken tossed in jalapeno ranch dressing topped with tortilla strips and avocado salsa",
+    "station": "Garden Bar",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Eggs"
+    ],
+    "calories": 578,
+    "price": "$9.00",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Chicken Pecan Salad",
+    "description": "Spring greens, roasted chicken, grapes, toasted pecans, pickled onion and green beans tossed in a lemon shallot vinaigrette",
+    "station": "Garden Bar",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Contains TreeNuts"
+    ],
+    "calories": 593,
+    "price": "$11.00",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Southwest Grain Bowl",
+    "description": "Quinoa, baby kale, black beans, corn and pepper blend, roasted carrots, pickled onions, marianted peppers and tomatoes, queso fresco, pepitas and charred scallion cilantro dressing",
+    "station": "Garden Bar",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Vegetarian",
+      "Contains Dairy",
+      "Sustainability"
+    ],
+    "calories": 643,
+    "price": "$10.00",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Chicken Club Sandwich",
+    "description": "Carved roasted chicken breast, bacon, lettuce, tomato, onion,  and roasted garlic aioli on multigrain bread",
+    "station": "Garden Bar",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten",
+      "Contains Sesame"
+    ],
+    "calories": 972,
+    "price": "$12.00",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Pines BLT Sandwich",
+    "description": "Bacon, napa cabbage and arugula blend, and tomato with peppered mayo on bread of customer's choice",
+    "station": "Garden Bar",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten",
+      "Contains Sesame"
+    ],
+    "calories": 584,
+    "price": "$8.50",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Sandwich, Turkey Pesto Aioli",
+    "description": "Sliced turkey on a hoagie roll with pesto aioli, tomato, cucumber, and seasoned lettuce",
+    "station": "Garden Bar",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten"
+    ],
+    "calories": 619,
+    "price": "$11.00",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Thai Tempeh Sandwich",
+    "description": "5 spice seared tempeh served on a hoagie roll with sweet and spicy spread, cucumber, pickled daikon-carrots, green leaf lettuce, mint and cilantro",
+    "station": "Garden Bar",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Vegan",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten",
+      "Contains Sesame",
+      "Sustainability"
+    ],
+    "calories": 679,
+    "price": "$9.00",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Caesar Side Salad",
+    "description": "Romaine and spring greens with parmesan cheese, croutons, and caesar dressing",
+    "station": "Garden Bar",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Fish",
+      "Contains Eggs",
+      "Contains Gluten",
+      "Sustainability"
+    ],
+    "calories": 200,
+    "price": "$3.00",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Tomato and Red Pepper Bisque",
+    "description": "Red bell pepper pureed with roma tomatoes, heavy cream, tomato paste, celery, carrot, onion",
+    "station": "Garden Bar",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Vegetarian",
+      "Contains Dairy"
+    ],
+    "calories": 350,
+    "price": "$4.75",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Birria Bowl",
+    "description": "Shredded beef birria over Mexican red rice and cantina beans with lettuce, pico de gallo, chipotle-lime crema, and cotija cheese.",
+    "station": "Taqueria",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten"
+    ],
+    "calories": 484,
+    "price": "$9.75",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Carnitas Bowl",
+    "description": "Pork carnitas over Mexican red rice and cantina beans with lettuce, pico de gallo, cotija cheese, and chipotle lime crema",
+    "station": "Taqueria",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy"
+    ],
+    "calories": 552,
+    "price": "$9.75",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Chicken Al Pastor Bowl",
+    "description": "Tangy chicken al pastor over Mexican red rice and cantina beans with lettuce, pico de gallo, chipotle-lime crema, and cotija cheese",
+    "station": "Taqueria",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy"
+    ],
+    "calories": 437,
+    "price": "$9.75",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Mushroom Asada Bowl",
+    "description": "Mushroom carnitas over Mexican red rice and cantina beans with lettuce, pico de gallo, chipotle lime crema, and cotija cheese",
+    "station": "Taqueria",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Vegetarian",
+      "Contains Dairy",
+      "Contains Soy",
+      "Sustainability"
+    ],
+    "calories": 398,
+    "price": "$8.00",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Baja Fish Burrito",
+    "description": "Crispy battered fish with green cabbage, pico de gallo, cantina beans, Mexican red rice, salsa verde in a tortilla",
+    "station": "Taqueria",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Fish",
+      "Contains Gluten",
+      "Sustainability"
+    ],
+    "calories": 868,
+    "price": "$11.25",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Beans and Cheese Burrito",
+    "description": "Cantina beans and shredded cheddar jack cheese wrapped in a 12\" tortilla",
+    "station": "Taqueria",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Vegetarian",
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten"
+    ],
+    "calories": 801,
+    "price": "$6.75",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Birria Burrito",
+    "description": "Shredded beef birria, cantina beans, Mexican red rice, lettuce, pico de gallo, and cotija cheese in a 12\" tortilla",
+    "station": "Taqueria",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten"
+    ],
+    "calories": 725,
+    "price": "$9.50",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Chicken Al Pastor Burrito",
+    "description": "Tangy chicken al pastor, Mexican red rice, cantina beans, lettuce, pico de gallo, and chipotle-lime crema in a 12\" tortilla.",
+    "station": "Taqueria",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten"
+    ],
+    "calories": 693,
+    "price": "$9.75",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Mushroom Asada Burrito",
+    "description": "Mushroom carnitas, Mexican red rice, cantina beans, lettuce, pico de gallo, in a tortilla.",
+    "station": "Taqueria",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Vegan",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten",
+      "Sustainability"
+    ],
+    "calories": 608,
+    "price": "$9.00",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Pork Carnitas Burrito",
+    "description": "Shredded pork carnitas, cantina beans, Mexican red rice, lettuce, pico de gallo, and cotija cheese in a tortilla",
+    "station": "Taqueria",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten"
+    ],
+    "calories": 754,
+    "price": "$9.75",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Flan",
+    "description": "Mexican custard made with caramel, cream, condensed milk, and egg",
+    "station": "Taqueria",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Vegetarian",
+      "Contains Dairy",
+      "Contains Eggs"
+    ],
+    "calories": 411,
+    "price": "$3.00",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Grandmas Chocolate Cheesecake",
+    "description": "Sweet & spicy Mexican chocolate cheesecake tart",
+    "station": "Taqueria",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Vegetarian",
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten"
+    ],
+    "calories": 499,
+    "price": "$4.50",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Birria Fries",
+    "description": "Crispy fries with shredded beef birria, spicy jalapeno cheese sauce, lime crema, guacamole, pico de gallo, and cotija cheese",
+    "station": "Taqueria",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten"
+    ],
+    "calories": 752,
+    "price": "$12.25",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Carnitas Fries",
+    "description": "Crispy fries with juicy home made carnitas, guac, spicy jalapeno cheese sauce, lime crema, guac, pico and cotija cheese",
+    "station": "Taqueria",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy"
+    ],
+    "calories": 784,
+    "price": "$12.25",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Cheese Fries",
+    "description": "Cheese fries with guacamole, chipotle lime crema, and pico de gallo",
+    "station": "Taqueria",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Vegetarian",
+      "Contains Dairy",
+      "Contains Soy"
+    ],
+    "calories": 581,
+    "price": "$7.50",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Chicken Al Pastor Fries",
+    "description": "Crispy fries with tangy chicken al pastor, spicy jalapeno cheese sauce, lime crema, guacamole, pico de gallo, and cotija cheese",
+    "station": "Taqueria",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy"
+    ],
+    "calories": 683,
+    "price": "$11.25",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Mushroom Asada Fries",
+    "description": "Crispy fries with mushroom carnitas, spicy jalapeno cheese sauce, lime crema, guacamole, and pico de gallo",
+    "station": "Taqueria",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Vegetarian",
+      "Contains Dairy",
+      "Contains Soy"
+    ],
+    "calories": 642,
+    "price": "$11.25",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Birria Quesadilla",
+    "description": "Grilled tortilla with shredded quesadilla cheese and shredded beef birria served with lettuce, guacamole, and birria consomme",
+    "station": "Taqueria",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten"
+    ],
+    "calories": 938,
+    "price": "$11.00",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Carnitas Quesadilla",
+    "description": "Grilled tortilla with pork carnitas and melted cheese served with lettuce and guacamole",
+    "station": "Taqueria",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Wheat",
+      "Contains Gluten"
+    ],
+    "calories": 948,
+    "price": "$10.00",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Cheese Quesadilla",
+    "description": "Grilled tortilla with melted quesadilla cheese served with lettuce and guacamole",
+    "station": "Taqueria",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Vegetarian",
+      "Contains Dairy",
+      "Contains Wheat",
+      "Contains Gluten"
+    ],
+    "calories": 746,
+    "price": "$6.50",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Chicken Al Pastor Quesadilla",
+    "description": "Grilled tortilla with shredded quesadilla cheese and tangy chicken al pastor served with lettuce and guacamole",
+    "station": "Taqueria",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Wheat",
+      "Contains Gluten"
+    ],
+    "calories": 842,
+    "price": "$10.00",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Mushroom Asada Quesadilla",
+    "description": "Grilled tortilla with seasoned sauteed mushrooms and shredded queso quesadilla cheese served with lettuce and guacamole",
+    "station": "Taqueria",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Wheat",
+      "Contains Gluten"
+    ],
+    "calories": 806,
+    "price": "$9.00",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Cantina Beans",
+    "description": "Pinto and refried beans stewed with onion, jalapeno, tomato, soyrizo, and spices",
+    "station": "Taqueria",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Vegan",
+      "Contains Soy",
+      "Sustainability"
+    ],
+    "calories": 118,
+    "price": "$3.75",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Chips and Salsa",
+    "description": "Crispy fried corn tortillas with salsa of customer's choice",
+    "station": "Taqueria",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Vegan",
+      "Sustainability"
+    ],
+    "calories": 190,
+    "price": "$3.00",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Mexican Red Rice",
+    "description": "Classic Mexican red rice",
+    "station": "Taqueria",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Vegan",
+      "Sustainability"
+    ],
+    "calories": 201,
+    "price": "$2.50",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Beef Birria Tacos",
+    "description": "2 tacos with shredded beef birria, avocado, onion, and cilantro on corn tortillas, served with tortilla chips and birria consomme",
+    "station": "Taqueria",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten"
+    ],
+    "calories": 490,
+    "price": "$7.00",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Carnitas Tacos",
+    "description": "2 tacos of pork carnitas with guacamole, onion and cilantro on corn tortilla served with tortilla chips",
+    "station": "Taqueria",
+    "meal_period": "Lunch",
+    "allergens": [],
+    "calories": 490,
+    "price": "$7.00",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Chicken Al Pastor Tacos",
+    "description": "2 tacos with tangy chicken al pastor, guacamole, onion, and cilantro on corn tortillas, served with tortilla chips",
+    "station": "Taqueria",
+    "meal_period": "Lunch",
+    "allergens": [],
+    "calories": 413,
+    "price": "$7.00",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Mushroom Asada Tacos",
+    "description": "2 tacos of mushroom carnitas, guacamole and cilantro and onion relish in corn tortillas served with tortilla chips",
+    "station": "Taqueria",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Vegan",
+      "Sustainability"
+    ],
+    "calories": 399,
+    "price": "$5.50",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "San Diego Fish Tacos",
+    "description": "San Diego style fish tacos with seared zarandeado fish, cabbage, pickled onion, and cilantro served with tortilla chips",
+    "station": "Taqueria",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Eggs",
+      "Sustainability"
+    ],
+    "calories": 515,
+    "price": "$8.00",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Bacon Slice",
+    "description": "Pork bacon",
+    "station": "TritonGrill",
+    "meal_period": "Lunch",
+    "allergens": [],
+    "calories": 156,
+    "price": "$1.75",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Fried Egg",
+    "description": "Whole egg, cooked to order.",
+    "station": "TritonGrill",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Vegetarian",
+      "Contains Eggs"
+    ],
+    "calories": 78,
+    "price": "$2.25",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "American Cheese",
+    "description": "American Cheese",
+    "station": "TritonGrill",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Vegetarian",
+      "Contains Dairy"
+    ],
+    "calories": 75,
+    "price": "$1.00",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Chipotle Black Bean Patty",
+    "description": "Chipotle Black Bean Patty",
+    "station": "TritonGrill",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten",
+      "Sustainability"
+    ],
+    "calories": 170,
+    "price": null,
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Grilled Chicken Breast",
+    "description": "Cooked chicken marinated in oil with garlic, salt and pepper.",
+    "station": "TritonGrill",
+    "meal_period": "Lunch",
+    "allergens": [],
+    "calories": 269,
+    "price": "$6.75",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Turkey Patty",
+    "description": "Pepper Garlic Turkey Burger",
+    "station": "TritonGrill",
+    "meal_period": "Lunch",
+    "allergens": [],
+    "calories": 240,
+    "price": null,
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "California Burger",
+    "description": "Brioche bun with a smashed beef patty, jalapeno crème, avocado, crispy fried onions, and tomato jam",
+    "station": "TritonGrill",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten"
+    ],
+    "calories": 966,
+    "price": "$11.00",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Black Bean Chipotle Burger",
+    "description": "Chipotle black bean patty with lettuce, tomato, pickle and tangy burger sauce on a vegan bun.",
+    "station": "TritonGrill",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Vegan",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten",
+      "Sustainability"
+    ],
+    "calories": 496,
+    "price": "$9.75",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Mediterranean Burger",
+    "description": "Burger topped with tomato, pickled onion, feta cheese, fresh cucumbers and tzatziki sauce on customer choice of bun",
+    "station": "TritonGrill",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten"
+    ],
+    "calories": 779,
+    "price": "$10.00",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Plant Based Crispy Chikn Sandwich",
+    "description": "Crispy breaded beyond chickn with pickles and vegan chipotle aioli on a bun",
+    "station": "TritonGrill",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Vegan",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten",
+      "Sustainability"
+    ],
+    "calories": 582,
+    "price": "$9.00",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Triton Cheeseburger",
+    "description": "Brioche bun with tangy sauce, a smashed beef patty, American cheese, lettuce, tomato and pickles",
+    "station": "TritonGrill",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten"
+    ],
+    "calories": 872,
+    "price": "$9.75",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Black Bean Chipotle Burger Combo",
+    "description": "Chipotle black bean patty with lettuce, tomato, pickle and tangy burger sauce on a plant based bun served with a side of lattice cut fries and a fountain drink.",
+    "station": "TritonGrill",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Vegan",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten",
+      "Sustainability"
+    ],
+    "calories": 920,
+    "price": "$14.00",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Chicken Tender Combo",
+    "description": "Crispy breaded chicken tenders served with a side of lattice cut fries and a fountain drink",
+    "station": "TritonGrill",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten"
+    ],
+    "calories": 942,
+    "price": "$12.00",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Crispy Chicken Sandwich Combo",
+    "description": "Crispy breaded chicken breast with tangy sauce, pickles, and tomato on a brioche bun served with a side of lattice cut fries and a fountain drink",
+    "station": "TritonGrill",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten"
+    ],
+    "calories": 1458,
+    "price": "$14.00",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Triton Cheeseburger Combo",
+    "description": "Brioche bun with tangy sauce, a smashed beef patty, American cheese, lettuce, tomato and pickles served with a side of lattice cut fries and a fountain drink",
+    "station": "TritonGrill",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten"
+    ],
+    "calories": 1301,
+    "price": "$14.00",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Chocolate Cake Cone",
+    "description": "Chocolate soft serve ice cream in a small cake cone",
+    "station": "TritonGrill",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Vegetarian",
+      "Contains Dairy",
+      "Contains Wheat",
+      "Contains Gluten"
+    ],
+    "calories": 145,
+    "price": "$2.25",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Chocolate Chunk Cookie",
+    "description": "David's Double Chocolate Chip Cookie",
+    "station": "TritonGrill",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Vegetarian",
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten"
+    ],
+    "calories": 369,
+    "price": "$2.75",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Chocolate Ice Cream Shake",
+    "description": "Chocolate soft serve ice cream shake",
+    "station": "TritonGrill",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Vegetarian",
+      "Contains Dairy"
+    ],
+    "calories": 335,
+    "price": "$5.50",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Chocolate Waffle Cone",
+    "description": "Chocolate soft serve ice cream in a waffle cone",
+    "station": "TritonGrill",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Vegetarian",
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten"
+    ],
+    "calories": 319,
+    "price": "$3.50",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Mud Milkshake",
+    "description": "Blended chocolate soft serve, graham crackers and oreos topped with whipped cream, gummi worms, graham cracker crumbs and oreo crumbles",
+    "station": "TritonGrill",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten"
+    ],
+    "calories": 829,
+    "price": "$6.50",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Oatmeal Raisin Cookie",
+    "description": "David's Oatmeal Raisin Cookie",
+    "station": "TritonGrill",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Vegetarian",
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten"
+    ],
+    "calories": 350,
+    "price": "$2.75",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Vanilla Cake Cone",
+    "description": "Vanilla soft serve ice cream in a small cake cone",
+    "station": "TritonGrill",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Vegetarian",
+      "Contains Dairy",
+      "Contains Wheat",
+      "Contains Gluten"
+    ],
+    "calories": 145,
+    "price": "$2.25",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Vanilla Ice Cream Shake",
+    "description": "Vanilla ice cream shake",
+    "station": "TritonGrill",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Vegetarian",
+      "Contains Dairy"
+    ],
+    "calories": 335,
+    "price": "$5.50",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Vanilla Waffle Cone",
+    "description": "Vanilla soft serve ice cream in a waffle cone",
+    "station": "TritonGrill",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Vegetarian",
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten"
+    ],
+    "calories": 319,
+    "price": "$3.50",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "White Chocolate Macadamia Cookie",
+    "description": "David's White Chocolate Chip Macadamia Nut Cookie",
+    "station": "TritonGrill",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Vegetarian",
+      "Contains Dairy",
+      "Contains TreeNuts",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten"
+    ],
+    "calories": 400,
+    "price": "$2.75",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Avocado",
+    "description": "Avocado, Pulp",
+    "station": "TritonGrill",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Sustainability"
+    ],
+    "calories": 62,
+    "price": "$1.50",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Hot Italian Sausage",
+    "description": "Pork, Hot Italian Sausage",
+    "station": "TritonGrill",
+    "meal_period": "Lunch",
+    "allergens": [],
+    "calories": 355,
+    "price": null,
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Lemon Oregano Chicken",
+    "description": "Chicken, Lemon Oregano",
+    "station": "TritonGrill",
+    "meal_period": "Lunch",
+    "allergens": [],
+    "calories": 238,
+    "price": null,
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Plant Based Bolognese",
+    "description": "Sauce, Plant Based Bolognese",
+    "station": "TritonGrill",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Contains Soy",
+      "Sustainability"
+    ],
+    "calories": 122,
+    "price": null,
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Turkey Meatballs",
+    "description": "Meatball, Turkey",
+    "station": "TritonGrill",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten"
+    ],
+    "calories": 160,
+    "price": null,
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Buffalo Chicken Wing Basket",
+    "description": "Crispy fried wings tossed in buffalo sauce served with a side of fried potato wedges and ranch dressing",
+    "station": "TritonGrill",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Eggs"
+    ],
+    "calories": 1038,
+    "price": "$12.00",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Chipotle Pesto Chicken Sandwich",
+    "description": "Brioche bun with a crispy fried chicken patty, chipotle pesto aioli, swiss cheese and roasted tomato.",
+    "station": "TritonGrill",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten"
+    ],
+    "calories": 1075,
+    "price": "$9.25",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Crispy Chicken Sandwich",
+    "description": "Crispy breaded chicken breast with pickles, tangy Pines sauce and tomato on a brioche bun.",
+    "station": "TritonGrill",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten"
+    ],
+    "calories": 1034,
+    "price": "$9.25",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Fish and Chips",
+    "description": "Crispy battered fish filets and fried potato wedges served with roasted garlic aioli and lemon wedge.",
+    "station": "TritonGrill",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Fish",
+      "Contains Gluten",
+      "Sustainability"
+    ],
+    "calories": 834,
+    "price": "$10.00",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Three Cheese Grilled Cheese",
+    "description": "Grilled herb buttered sourdough with pepper jack, provolone, and cheddar cheeses, pickles and garlic aioli.",
+    "station": "TritonGrill",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten"
+    ],
+    "calories": 808,
+    "price": "$6.50",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Triton Hot Dog",
+    "description": "Grilled beef hot dog served on a bun.",
+    "station": "TritonGrill",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten",
+      "Contains Sesame"
+    ],
+    "calories": 285,
+    "price": "$5.50",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Caesar Side Salad",
+    "description": "Romaine and spring greens with parmesan cheese, croutons, and caesar dressing",
+    "station": "TritonGrill",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Fish",
+      "Contains Eggs",
+      "Contains Gluten",
+      "Sustainability"
+    ],
+    "calories": 200,
+    "price": "$3.00",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Chicken Tenders",
+    "description": "Crispy breaded chicken tenders",
+    "station": "TritonGrill",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten"
+    ],
+    "calories": 536,
+    "price": "$9.00",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Cilantro Garlic Spring Vegetables",
+    "description": "Seared snap peas, broccolini, sweet mini peppers, and asparagus drizzled with cilantro garlic sauce",
+    "station": "TritonGrill",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Vegan",
+      "Sustainability"
+    ],
+    "calories": 142,
+    "price": null,
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Curly Fries",
+    "description": "Side, Curly Fries",
+    "station": "TritonGrill",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Vegan",
+      "Contains Soy",
+      "Sustainability"
+    ],
+    "calories": 474,
+    "price": "$4.00",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Lattice Cut French Fries",
+    "description": "Crispy criss cut potato fries",
+    "station": "TritonGrill",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Vegan",
+      "Contains Soy",
+      "Sustainability"
+    ],
+    "calories": 393,
+    "price": "$4.00",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "TJ Baja Dog",
+    "description": "Bacon wrapped hot dog, nacho cheese sauce, fresno onion garnish, pico de gallo in a warm hotdog bun",
+    "station": "TritonGrill",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten",
+      "Contains Sesame"
+    ],
+    "calories": 612,
+    "price": "$9.50",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Half Rice and Half Noodles",
+    "description": "Base, Half & Half Chinese",
+    "station": "Wok",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten",
+      "Contains Sesame",
+      "Sustainability"
+    ],
+    "calories": 352,
+    "price": "$3.75",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Jasmine Rice",
+    "description": "Steamed Jasmine Rice",
+    "station": "Wok",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Vegan",
+      "Sustainability"
+    ],
+    "calories": 196,
+    "price": "$3.00",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Matcha Milk Tea Boba",
+    "description": "Sweetened matcha tea with milk and boba pearls served over ice",
+    "station": "Wok",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Vegetarian",
+      "Contains Dairy"
+    ],
+    "calories": 293,
+    "price": "$5.75",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Milk Tea Boba",
+    "description": "Sweet black tea with milk and boba pearls served over ice",
+    "station": "Wok",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Contains Dairy"
+    ],
+    "calories": 254,
+    "price": "$5.00",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Oat Milk Tea Boba",
+    "description": "Sweet black tea with oat milk and boba pearls served over ice",
+    "station": "Wok",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Vegan",
+      "Sustainability"
+    ],
+    "calories": 249,
+    "price": "$5.50",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Taro Milk Tea Boba",
+    "description": "Sweetened taro milk and boba pearls served over ice",
+    "station": "Wok",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Vegetarian",
+      "Contains Dairy",
+      "Contains Soy"
+    ],
+    "calories": 245,
+    "price": "$5.75",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Manchurian Tofu Bowl with Noodles",
+    "description": "Sweet and spicy fried tofu served with wok fried vegetables over fried noodles with choice of finishing sauce",
+    "station": "Wok",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten",
+      "Contains Sesame",
+      "Sustainability"
+    ],
+    "calories": 828,
+    "price": "$7.50",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Manchurian Tofu Bowl with Rice",
+    "description": "Sweet and spicy fried tofu served with wok fried vegetables over rice with choice of finishing sauce",
+    "station": "Wok",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Contains Soy",
+      "Contains Sesame",
+      "Sustainability"
+    ],
+    "calories": 647,
+    "price": "$7.50",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Orange Chicken Bowl with Noodles",
+    "description": "Crispy orange chile chicken served with wok fried vegetables over fried noodles with choice of finishing sauce",
+    "station": "Wok",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten",
+      "Contains Sesame"
+    ],
+    "calories": 776,
+    "price": "$8.50",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Orange Chicken Bowl with Rice",
+    "description": "Crispy orange chile chicken served with wok fried vegetables over rice with choice of finishing sauce",
+    "station": "Wok",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten"
+    ],
+    "calories": 594,
+    "price": "$8.50",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Peppered Beef Bowl with Noodles",
+    "description": "Peppered beef served with wok fried vegetables over fried noodles with choice of finishing sauce",
+    "station": "Wok",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten",
+      "Contains Sesame"
+    ],
+    "calories": 761,
+    "price": "$9.00",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Peppered Beef Bowl with Rice",
+    "description": "Peppered beef served with wok fried vegetables over rice with choice of finishing sauce",
+    "station": "Wok",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten",
+      "Contains Sesame"
+    ],
+    "calories": 579,
+    "price": "$9.00",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Chinese Egg Tart",
+    "description": "Hong Kong egg tart made with flaky pastry filled with smooth lightly sweetened egg custard",
+    "station": "Wok",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Vegetarian",
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten"
+    ],
+    "calories": 272,
+    "price": "$3.75",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Chicken Potstickers",
+    "description": "2 fried chicken potstickers",
+    "station": "Wok",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten",
+      "Contains Sesame"
+    ],
+    "calories": 89,
+    "price": "$3.75",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Pan Fried Noodles",
+    "description": "Wok fried noodles with vegetables and stir fry sauce",
+    "station": "Wok",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Vegan",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten",
+      "Contains Sesame",
+      "Sustainability"
+    ],
+    "calories": 340,
+    "price": "$3.75",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Spring Wok Vegetables",
+    "description": "Spring wok fried vegetables tossed in our house wok soy sauce",
+    "station": "Wok",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Vegan",
+      "Contains Soy",
+      "Sustainability"
+    ],
+    "calories": 166,
+    "price": "$3.75",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Steamed Pork Bun",
+    "description": "Steamed BBQ pork bun topped with garlic chili oil and green onion",
+    "station": "Wok",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Shellfish",
+      "Contains Gluten",
+      "Contains Sesame"
+    ],
+    "calories": 329,
+    "price": "$6.00",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Vegetable Spring Rolls",
+    "description": "2 crispy fried vegetable spring rolls",
+    "station": "Wok",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten",
+      "Sustainability"
+    ],
+    "calories": 81,
+    "price": "$3.00",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Salt and Pepper Wings",
+    "description": "Chicken wings tossed in salt, pepper, garlic and green onion",
+    "station": "Wok",
+    "meal_period": "Lunch",
+    "allergens": [],
+    "calories": 643,
+    "price": "$9.50",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Dragon Sauce",
+    "description": "Sweet garlic soy sauce with chilies",
+    "station": "Wok",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Vegan",
+      "Contains Soy",
+      "Sustainability"
+    ],
+    "calories": 36,
+    "price": null,
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Lemongrass Ponzu Sauce",
+    "description": "Sauce, Lemongrass Ponzu",
+    "station": "Wok",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Vegan",
+      "Contains Soy",
+      "Contains Sesame",
+      "Sustainability"
+    ],
+    "calories": 25,
+    "price": null,
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Classic Rigatoni Bolognese Bowl",
+    "description": "Rigatoni with bolognese sauce  garnished with basil and parsley",
+    "station": "Al Dente",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Wheat",
+      "Contains Gluten"
+    ],
+    "calories": 396,
+    "price": "$8.00",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Farfalle Arrabbiata Primavera",
+    "description": "Rotini pasta cooked with onions, broccoli, zucchini, and topped with an arrabbiata sauce and parmesan cheese.",
+    "station": "Al Dente",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegetarian",
+      "Contains Dairy",
+      "Contains Wheat",
+      "Contains Gluten",
+      "Sustainability"
+    ],
+    "calories": 543,
+    "price": "$9.00",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Gnocchi al Pesto Pomodorini",
+    "description": "Gnocchi (small potato dumplings) with cherry tomatoes, spinach, crimini mushrooms, shredded parmesan, pesto sauce and choice of protein",
+    "station": "Al Dente",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegetarian",
+      "Contains Dairy",
+      "Contains Wheat",
+      "Contains Gluten",
+      "Sustainability"
+    ],
+    "calories": 426,
+    "price": "$10.00",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Roasted Garlic Alfredo Fettuccine",
+    "description": "Fettucine pasta with broccoli, spinach and roasted garlic alfredo sauce topped with shredded parmesan cheese and parsley",
+    "station": "Al Dente",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegetarian",
+      "Contains Dairy",
+      "Contains Wheat",
+      "Contains Gluten"
+    ],
+    "calories": 804,
+    "price": "$10.00",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Hot Italian Sausage",
+    "description": "Pork, Hot Italian Sausage",
+    "station": "Al Dente",
+    "meal_period": "Dinner",
+    "allergens": [],
+    "calories": 355,
+    "price": null,
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Lemon Oregano Chicken",
+    "description": "Chicken, Lemon Oregano",
+    "station": "Al Dente",
+    "meal_period": "Dinner",
+    "allergens": [],
+    "calories": 238,
+    "price": null,
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Plant Based Bolognese",
+    "description": "Sauce, Plant Based Bolognese",
+    "station": "Al Dente",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Soy",
+      "Sustainability"
+    ],
+    "calories": 122,
+    "price": null,
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Turkey Meatballs",
+    "description": "Meatball, Turkey",
+    "station": "Al Dente",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten"
+    ],
+    "calories": 160,
+    "price": null,
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Pesto Pasta Side Salad",
+    "description": "Rotini tossed with arugula, cherry tomatoes, garbanzo beans, pepitas, parmesan cheese, and pesto sauce",
+    "station": "Al Dente",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegetarian",
+      "Contains Dairy",
+      "Contains Wheat",
+      "Contains Gluten",
+      "Sustainability"
+    ],
+    "calories": 317,
+    "price": "$4.50",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Caesar Side Salad",
+    "description": "Romaine and spring greens with parmesan cheese, croutons, and caesar dressing",
+    "station": "Al Dente",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Fish",
+      "Contains Eggs",
+      "Contains Gluten",
+      "Sustainability"
+    ],
+    "calories": 200,
+    "price": "$3.00",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Roasted Garlic Breadsticks",
+    "description": "Bread sticks baked with garlic aioli spread and parmesan cheese",
+    "station": "Al Dente",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten",
+      "Sustainability"
+    ],
+    "calories": 209,
+    "price": "$2.25",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Blackened Chicken Taco Salad",
+    "description": "Romaine lettuce, cherry tomatoes, black beans, pepitas, shredded cheddar jack cheese, and blackened chicken tossed in jalapeno ranch dressing topped with tortilla strips and avocado salsa",
+    "station": "Garden Bar",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Eggs"
+    ],
+    "calories": 578,
+    "price": "$9.00",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Chicken Pecan Salad",
+    "description": "Spring greens, roasted chicken, grapes, toasted pecans, pickled onion and green beans tossed in a lemon shallot vinaigrette",
+    "station": "Garden Bar",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains TreeNuts"
+    ],
+    "calories": 593,
+    "price": "$11.00",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Southwest Grain Bowl",
+    "description": "Quinoa, baby kale, black beans, corn and pepper blend, roasted carrots, pickled onions, marianted peppers and tomatoes, queso fresco, pepitas and charred scallion cilantro dressing",
+    "station": "Garden Bar",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegetarian",
+      "Contains Dairy",
+      "Sustainability"
+    ],
+    "calories": 643,
+    "price": "$10.00",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "64 Caesar Salad",
+    "description": "Baby kale, tomato and blistered bell pepper blend, edamame, parmesan crisps, roasted chickpeas and caesar dressing",
+    "station": "Garden Bar",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Fish",
+      "Contains Eggs"
+    ],
+    "calories": 520,
+    "price": "$8.50",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Asian Chopped Salad",
+    "description": "Red and green cabbage tossed with red bell pepper, carrot, snap peas, edamame, green onion, and sliced almonds tossed with sesame ginger vinaigrette and garnished with cilantro, crispy yakisoba, and sesame seeds",
+    "station": "Garden Bar",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegan",
+      "Contains TreeNuts",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten",
+      "Contains Sesame",
+      "Sustainability"
+    ],
+    "calories": 389,
+    "price": "$8.00",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Thai Tempeh Sandwich",
+    "description": "5 spice seared tempeh served on a hoagie roll with sweet and spicy spread, cucumber, pickled daikon-carrots, green leaf lettuce, mint and cilantro",
+    "station": "Garden Bar",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegan",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten",
+      "Contains Sesame",
+      "Sustainability"
+    ],
+    "calories": 679,
+    "price": "$9.00",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Chicken Club Sandwich",
+    "description": "Carved roasted chicken breast, bacon, lettuce, tomato, onion,  and roasted garlic aioli on multigrain bread",
+    "station": "Garden Bar",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten",
+      "Contains Sesame"
+    ],
+    "calories": 972,
+    "price": "$12.00",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Pines BLT Sandwich",
+    "description": "Bacon, napa cabbage and arugula blend, and tomato with peppered mayo on bread of customer's choice",
+    "station": "Garden Bar",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten",
+      "Contains Sesame"
+    ],
+    "calories": 584,
+    "price": "$8.50",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Sandwich, Turkey Pesto Aioli",
+    "description": "Sliced turkey on a hoagie roll with pesto aioli, tomato, cucumber, and seasoned lettuce",
+    "station": "Garden Bar",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten"
+    ],
+    "calories": 619,
+    "price": "$11.00",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Caesar Side Salad",
+    "description": "Romaine and spring greens with parmesan cheese, croutons, and caesar dressing",
+    "station": "Garden Bar",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Fish",
+      "Contains Eggs",
+      "Contains Gluten",
+      "Sustainability"
+    ],
+    "calories": 200,
+    "price": "$3.00",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Tomato and Red Pepper Bisque",
+    "description": "Red bell pepper pureed with roma tomatoes, heavy cream, tomato paste, celery, carrot, onion",
+    "station": "Garden Bar",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegetarian",
+      "Contains Dairy"
+    ],
+    "calories": 350,
+    "price": "$4.75",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Birria Bowl",
+    "description": "Shredded beef birria over Mexican red rice and cantina beans with lettuce, pico de gallo, chipotle-lime crema, and cotija cheese.",
+    "station": "Taqueria",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten"
+    ],
+    "calories": 484,
+    "price": "$9.75",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Carnitas Bowl",
+    "description": "Pork carnitas over Mexican red rice and cantina beans with lettuce, pico de gallo, cotija cheese, and chipotle lime crema",
+    "station": "Taqueria",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy"
+    ],
+    "calories": 552,
+    "price": "$9.75",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Chicken Al Pastor Bowl",
+    "description": "Tangy chicken al pastor over Mexican red rice and cantina beans with lettuce, pico de gallo, chipotle-lime crema, and cotija cheese",
+    "station": "Taqueria",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy"
+    ],
+    "calories": 437,
+    "price": "$9.75",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Mushroom Asada Bowl",
+    "description": "Mushroom carnitas over Mexican red rice and cantina beans with lettuce, pico de gallo, chipotle lime crema, and cotija cheese",
+    "station": "Taqueria",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegetarian",
+      "Contains Dairy",
+      "Contains Soy",
+      "Sustainability"
+    ],
+    "calories": 398,
+    "price": "$8.00",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Mushroom Asada Burrito",
+    "description": "Mushroom carnitas, Mexican red rice, cantina beans, lettuce, pico de gallo, in a tortilla.",
+    "station": "Taqueria",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegan",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten",
+      "Sustainability"
+    ],
+    "calories": 608,
+    "price": "$9.00",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Pork Carnitas Burrito",
+    "description": "Shredded pork carnitas, cantina beans, Mexican red rice, lettuce, pico de gallo, and cotija cheese in a tortilla",
+    "station": "Taqueria",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten"
+    ],
+    "calories": 754,
+    "price": "$9.75",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Baja Fish Burrito",
+    "description": "Crispy battered fish with green cabbage, pico de gallo, cantina beans, Mexican red rice, salsa verde in a tortilla",
+    "station": "Taqueria",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Fish",
+      "Contains Gluten",
+      "Sustainability"
+    ],
+    "calories": 868,
+    "price": "$11.25",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Beans and Cheese Burrito",
+    "description": "Cantina beans and shredded cheddar jack cheese wrapped in a 12\" tortilla",
+    "station": "Taqueria",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegetarian",
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten"
+    ],
+    "calories": 801,
+    "price": "$6.75",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Birria Burrito",
+    "description": "Shredded beef birria, cantina beans, Mexican red rice, lettuce, pico de gallo, and cotija cheese in a 12\" tortilla",
+    "station": "Taqueria",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten"
+    ],
+    "calories": 725,
+    "price": "$9.50",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Chicken Al Pastor Burrito",
+    "description": "Tangy chicken al pastor, Mexican red rice, cantina beans, lettuce, pico de gallo, and chipotle-lime crema in a 12\" tortilla.",
+    "station": "Taqueria",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten"
+    ],
+    "calories": 693,
+    "price": "$9.75",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Flan",
+    "description": "Mexican custard made with caramel, cream, condensed milk, and egg",
+    "station": "Taqueria",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegetarian",
+      "Contains Dairy",
+      "Contains Eggs"
+    ],
+    "calories": 411,
+    "price": "$3.00",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Grandmas Chocolate Cheesecake",
+    "description": "Sweet & spicy Mexican chocolate cheesecake tart",
+    "station": "Taqueria",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegetarian",
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten"
+    ],
+    "calories": 499,
+    "price": "$4.50",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Cheese Fries",
+    "description": "Cheese fries with guacamole, chipotle lime crema, and pico de gallo",
+    "station": "Taqueria",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegetarian",
+      "Contains Dairy",
+      "Contains Soy"
+    ],
+    "calories": 581,
+    "price": "$7.50",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Chicken Al Pastor Fries",
+    "description": "Crispy fries with tangy chicken al pastor, spicy jalapeno cheese sauce, lime crema, guacamole, pico de gallo, and cotija cheese",
+    "station": "Taqueria",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy"
+    ],
+    "calories": 683,
+    "price": "$11.25",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Mushroom Asada Fries",
+    "description": "Crispy fries with mushroom carnitas, spicy jalapeno cheese sauce, lime crema, guacamole, and pico de gallo",
+    "station": "Taqueria",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegetarian",
+      "Contains Dairy",
+      "Contains Soy"
+    ],
+    "calories": 642,
+    "price": "$11.25",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Birria Fries",
+    "description": "Crispy fries with shredded beef birria, spicy jalapeno cheese sauce, lime crema, guacamole, pico de gallo, and cotija cheese",
+    "station": "Taqueria",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten"
+    ],
+    "calories": 752,
+    "price": "$12.25",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Carnitas Fries",
+    "description": "Crispy fries with juicy home made carnitas, guac, spicy jalapeno cheese sauce, lime crema, guac, pico and cotija cheese",
+    "station": "Taqueria",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy"
+    ],
+    "calories": 784,
+    "price": "$12.25",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Birria Quesadilla",
+    "description": "Grilled tortilla with shredded quesadilla cheese and shredded beef birria served with lettuce, guacamole, and birria consomme",
+    "station": "Taqueria",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten"
+    ],
+    "calories": 938,
+    "price": "$11.00",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Carnitas Quesadilla",
+    "description": "Grilled tortilla with pork carnitas and melted cheese served with lettuce and guacamole",
+    "station": "Taqueria",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Wheat",
+      "Contains Gluten"
+    ],
+    "calories": 948,
+    "price": "$10.00",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Cheese Quesadilla",
+    "description": "Grilled tortilla with melted quesadilla cheese served with lettuce and guacamole",
+    "station": "Taqueria",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegetarian",
+      "Contains Dairy",
+      "Contains Wheat",
+      "Contains Gluten"
+    ],
+    "calories": 746,
+    "price": "$6.50",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Chicken Al Pastor Quesadilla",
+    "description": "Grilled tortilla with shredded quesadilla cheese and tangy chicken al pastor served with lettuce and guacamole",
+    "station": "Taqueria",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Wheat",
+      "Contains Gluten"
+    ],
+    "calories": 842,
+    "price": "$10.00",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Mushroom Asada Quesadilla",
+    "description": "Grilled tortilla with seasoned sauteed mushrooms and shredded queso quesadilla cheese served with lettuce and guacamole",
+    "station": "Taqueria",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Wheat",
+      "Contains Gluten"
+    ],
+    "calories": 806,
+    "price": "$9.00",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Cantina Beans",
+    "description": "Pinto and refried beans stewed with onion, jalapeno, tomato, soyrizo, and spices",
+    "station": "Taqueria",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegan",
+      "Contains Soy",
+      "Sustainability"
+    ],
+    "calories": 118,
+    "price": "$3.75",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Chips and Salsa",
+    "description": "Crispy fried corn tortillas with salsa of customer's choice",
+    "station": "Taqueria",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegan",
+      "Sustainability"
+    ],
+    "calories": 190,
+    "price": "$3.00",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Mexican Red Rice",
+    "description": "Classic Mexican red rice",
+    "station": "Taqueria",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegan",
+      "Sustainability"
+    ],
+    "calories": 201,
+    "price": "$2.50",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Beef Birria Tacos",
+    "description": "2 tacos with shredded beef birria, avocado, onion, and cilantro on corn tortillas, served with tortilla chips and birria consomme",
+    "station": "Taqueria",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten"
+    ],
+    "calories": 490,
+    "price": "$7.00",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Quesabirria Tacos",
+    "description": "2 braised beef tacos on corn tortillas with cheese, onion and cilantro, served with tortilla chips, a lime wedge, and braising broth for dipping",
+    "station": "Taqueria",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten"
+    ],
+    "calories": 850,
+    "price": "$9.75",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "San Diego Fish Tacos",
+    "description": "San Diego style fish tacos with seared zarandeado fish, cabbage, pickled onion, and cilantro served with tortilla chips",
+    "station": "Taqueria",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Eggs",
+      "Sustainability"
+    ],
+    "calories": 515,
+    "price": "$8.00",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Carnitas Tacos",
+    "description": "2 tacos of pork carnitas with guacamole, onion and cilantro on corn tortilla served with tortilla chips",
+    "station": "Taqueria",
+    "meal_period": "Dinner",
+    "allergens": [],
+    "calories": 490,
+    "price": "$7.00",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Chicken Al Pastor Tacos",
+    "description": "2 tacos with tangy chicken al pastor, guacamole, onion, and cilantro on corn tortillas, served with tortilla chips",
+    "station": "Taqueria",
+    "meal_period": "Dinner",
+    "allergens": [],
+    "calories": 413,
+    "price": "$7.00",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Mushroom Asada Tacos",
+    "description": "2 tacos of mushroom carnitas, guacamole and cilantro and onion relish in corn tortillas served with tortilla chips",
+    "station": "Taqueria",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegan",
+      "Sustainability"
+    ],
+    "calories": 399,
+    "price": "$5.50",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Bacon Slice",
+    "description": "Pork bacon",
+    "station": "TritonGrill",
+    "meal_period": "Dinner",
+    "allergens": [],
+    "calories": 156,
+    "price": "$1.75",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Fried Egg",
+    "description": "Whole egg, cooked to order.",
+    "station": "TritonGrill",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegetarian",
+      "Contains Eggs"
+    ],
+    "calories": 78,
+    "price": "$2.25",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "American Cheese",
+    "description": "American Cheese",
+    "station": "TritonGrill",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegetarian",
+      "Contains Dairy"
+    ],
+    "calories": 75,
+    "price": "$1.00",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Chipotle Black Bean Patty",
+    "description": "Chipotle Black Bean Patty",
+    "station": "TritonGrill",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten",
+      "Sustainability"
+    ],
+    "calories": 170,
+    "price": null,
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Grilled Chicken Breast",
+    "description": "Cooked chicken marinated in oil with garlic, salt and pepper.",
+    "station": "TritonGrill",
+    "meal_period": "Dinner",
+    "allergens": [],
+    "calories": 269,
+    "price": "$6.75",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Turkey Patty",
+    "description": "Pepper Garlic Turkey Burger",
+    "station": "TritonGrill",
+    "meal_period": "Dinner",
+    "allergens": [],
+    "calories": 240,
+    "price": null,
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "California Burger",
+    "description": "Brioche bun with a smashed beef patty, jalapeno crème, avocado, crispy fried onions, and tomato jam",
+    "station": "TritonGrill",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten"
+    ],
+    "calories": 966,
+    "price": "$11.00",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Black Bean Chipotle Burger",
+    "description": "Chipotle black bean patty with lettuce, tomato, pickle and tangy burger sauce on a vegan bun.",
+    "station": "TritonGrill",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegan",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten",
+      "Sustainability"
+    ],
+    "calories": 496,
+    "price": "$9.75",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Mediterranean Burger",
+    "description": "Burger topped with tomato, pickled onion, feta cheese, fresh cucumbers and tzatziki sauce on customer choice of bun",
+    "station": "TritonGrill",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten"
+    ],
+    "calories": 779,
+    "price": "$10.00",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Plant Based Crispy Chikn Sandwich",
+    "description": "Crispy breaded beyond chickn with pickles and vegan chipotle aioli on a bun",
+    "station": "TritonGrill",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegan",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten",
+      "Sustainability"
+    ],
+    "calories": 582,
+    "price": "$9.00",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Triton Cheeseburger",
+    "description": "Brioche bun with tangy sauce, a smashed beef patty, American cheese, lettuce, tomato and pickles",
+    "station": "TritonGrill",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten"
+    ],
+    "calories": 872,
+    "price": "$9.75",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Black Bean Chipotle Burger Combo",
+    "description": "Chipotle black bean patty with lettuce, tomato, pickle and tangy burger sauce on a plant based bun served with a side of lattice cut fries and a fountain drink.",
+    "station": "TritonGrill",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegan",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten",
+      "Sustainability"
+    ],
+    "calories": 920,
+    "price": "$14.00",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Chicken Tender Combo",
+    "description": "Crispy breaded chicken tenders served with a side of lattice cut fries and a fountain drink",
+    "station": "TritonGrill",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten"
+    ],
+    "calories": 942,
+    "price": "$12.00",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Crispy Chicken Sandwich Combo",
+    "description": "Crispy breaded chicken breast with tangy sauce, pickles, and tomato on a brioche bun served with a side of lattice cut fries and a fountain drink",
+    "station": "TritonGrill",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten"
+    ],
+    "calories": 1458,
+    "price": "$14.00",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Triton Cheeseburger Combo",
+    "description": "Brioche bun with tangy sauce, a smashed beef patty, American cheese, lettuce, tomato and pickles served with a side of lattice cut fries and a fountain drink",
+    "station": "TritonGrill",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten"
+    ],
+    "calories": 1301,
+    "price": "$14.00",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Vanilla Waffle Cone",
+    "description": "Vanilla soft serve ice cream in a waffle cone",
+    "station": "TritonGrill",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegetarian",
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten"
+    ],
+    "calories": 319,
+    "price": "$3.50",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "White Chocolate Macadamia Cookie",
+    "description": "David's White Chocolate Chip Macadamia Nut Cookie",
+    "station": "TritonGrill",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegetarian",
+      "Contains Dairy",
+      "Contains TreeNuts",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten"
+    ],
+    "calories": 400,
+    "price": "$2.75",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Chocolate Ice Cream Shake",
+    "description": "Chocolate soft serve ice cream shake",
+    "station": "TritonGrill",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegetarian",
+      "Contains Dairy"
+    ],
+    "calories": 335,
+    "price": "$5.50",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Chocolate Waffle Cone",
+    "description": "Chocolate soft serve ice cream in a waffle cone",
+    "station": "TritonGrill",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegetarian",
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten"
+    ],
+    "calories": 319,
+    "price": "$3.50",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Mud Milkshake",
+    "description": "Blended chocolate soft serve, graham crackers and oreos topped with whipped cream, gummi worms, graham cracker crumbs and oreo crumbles",
+    "station": "TritonGrill",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten"
+    ],
+    "calories": 829,
+    "price": "$6.50",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Oatmeal Raisin Cookie",
+    "description": "David's Oatmeal Raisin Cookie",
+    "station": "TritonGrill",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegetarian",
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten"
+    ],
+    "calories": 350,
+    "price": "$2.75",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Chocolate Cake Cone",
+    "description": "Chocolate soft serve ice cream in a small cake cone",
+    "station": "TritonGrill",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegetarian",
+      "Contains Dairy",
+      "Contains Wheat",
+      "Contains Gluten"
+    ],
+    "calories": 145,
+    "price": "$2.25",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Chocolate Chunk Cookie",
+    "description": "David's Double Chocolate Chip Cookie",
+    "station": "TritonGrill",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegetarian",
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten"
+    ],
+    "calories": 369,
+    "price": "$2.75",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Vanilla Cake Cone",
+    "description": "Vanilla soft serve ice cream in a small cake cone",
+    "station": "TritonGrill",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegetarian",
+      "Contains Dairy",
+      "Contains Wheat",
+      "Contains Gluten"
+    ],
+    "calories": 145,
+    "price": "$2.25",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Vanilla Ice Cream Shake",
+    "description": "Vanilla ice cream shake",
+    "station": "TritonGrill",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegetarian",
+      "Contains Dairy"
+    ],
+    "calories": 335,
+    "price": "$5.50",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Avocado",
+    "description": "Avocado, Pulp",
+    "station": "TritonGrill",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Sustainability"
+    ],
+    "calories": 62,
+    "price": "$1.50",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Hot Italian Sausage",
+    "description": "Pork, Hot Italian Sausage",
+    "station": "TritonGrill",
+    "meal_period": "Dinner",
+    "allergens": [],
+    "calories": 355,
+    "price": null,
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Lemon Oregano Chicken",
+    "description": "Chicken, Lemon Oregano",
+    "station": "TritonGrill",
+    "meal_period": "Dinner",
+    "allergens": [],
+    "calories": 238,
+    "price": null,
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Plant Based Bolognese",
+    "description": "Sauce, Plant Based Bolognese",
+    "station": "TritonGrill",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Soy",
+      "Sustainability"
+    ],
+    "calories": 122,
+    "price": null,
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Turkey Meatballs",
+    "description": "Meatball, Turkey",
+    "station": "TritonGrill",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten"
+    ],
+    "calories": 160,
+    "price": null,
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Buffalo Chicken Wing Basket",
+    "description": "Crispy fried wings tossed in buffalo sauce served with a side of fried potato wedges and ranch dressing",
+    "station": "TritonGrill",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Eggs"
+    ],
+    "calories": 1038,
+    "price": "$12.00",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Chipotle Pesto Chicken Sandwich",
+    "description": "Brioche bun with a crispy fried chicken patty, chipotle pesto aioli, swiss cheese and roasted tomato.",
+    "station": "TritonGrill",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten"
+    ],
+    "calories": 1075,
+    "price": "$9.25",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Crispy Chicken Sandwich",
+    "description": "Crispy breaded chicken breast with pickles, tangy Pines sauce and tomato on a brioche bun.",
+    "station": "TritonGrill",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten"
+    ],
+    "calories": 1034,
+    "price": "$9.25",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Fish and Chips",
+    "description": "Crispy battered fish filets and fried potato wedges served with roasted garlic aioli and lemon wedge.",
+    "station": "TritonGrill",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Fish",
+      "Contains Gluten",
+      "Sustainability"
+    ],
+    "calories": 834,
+    "price": "$10.00",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Three Cheese Grilled Cheese",
+    "description": "Grilled herb buttered sourdough with pepper jack, provolone, and cheddar cheeses, pickles and garlic aioli.",
+    "station": "TritonGrill",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten"
+    ],
+    "calories": 808,
+    "price": "$6.50",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Triton Hot Dog",
+    "description": "Grilled beef hot dog served on a bun.",
+    "station": "TritonGrill",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten",
+      "Contains Sesame"
+    ],
+    "calories": 285,
+    "price": "$5.50",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Caesar Side Salad",
+    "description": "Romaine and spring greens with parmesan cheese, croutons, and caesar dressing",
+    "station": "TritonGrill",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Fish",
+      "Contains Eggs",
+      "Contains Gluten",
+      "Sustainability"
+    ],
+    "calories": 200,
+    "price": "$3.00",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Chicken Tenders",
+    "description": "Crispy breaded chicken tenders",
+    "station": "TritonGrill",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten"
+    ],
+    "calories": 536,
+    "price": "$9.00",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Cilantro Garlic Spring Vegetables",
+    "description": "Seared snap peas, broccolini, sweet mini peppers, and asparagus drizzled with cilantro garlic sauce",
+    "station": "TritonGrill",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegan",
+      "Sustainability"
+    ],
+    "calories": 142,
+    "price": null,
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Curly Fries",
+    "description": "Side, Curly Fries",
+    "station": "TritonGrill",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegan",
+      "Contains Soy",
+      "Sustainability"
+    ],
+    "calories": 474,
+    "price": "$4.00",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Lattice Cut French Fries",
+    "description": "Crispy criss cut potato fries",
+    "station": "TritonGrill",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegan",
+      "Contains Soy",
+      "Sustainability"
+    ],
+    "calories": 393,
+    "price": "$4.00",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "TJ Baja Dog",
+    "description": "Bacon wrapped hot dog, nacho cheese sauce, fresno onion garnish, pico de gallo in a warm hotdog bun",
+    "station": "TritonGrill",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten",
+      "Contains Sesame"
+    ],
+    "calories": 612,
+    "price": "$9.50",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Ahi Salmon Chirashi Bowl",
+    "description": "Togarashi seared ahi and salmon with rice, furikake seasoning, daikon root, avocado, roasted shiitake, cucumber, green onions, and sprouts",
+    "station": "Umi",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Fish",
+      "Contains Sesame",
+      "Sustainability"
+    ],
+    "calories": 410,
+    "price": "$13.00",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Salmon Belly and Hamachi Chirashi Bowl",
+    "description": "Hamachi and salmon with rice, furikake seasoning, daikon root, avocado, roasted shiitake, cucumber, green onions, and sprouts",
+    "station": "Umi",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Fish",
+      "Contains Sesame",
+      "Sustainability"
+    ],
+    "calories": 421,
+    "price": "$13.00",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Dessert, Yuzu Tart",
+    "description": "Yuzu tart topped with whipped cream",
+    "station": "Umi",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegetarian",
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten"
+    ],
+    "calories": 350,
+    "price": "$7.00",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Edamame",
+    "description": "Steamed edamame seasoned with sea salt",
+    "station": "Umi",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegan",
+      "Contains Soy",
+      "Sustainability"
+    ],
+    "calories": 95,
+    "price": "$3.00",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Kimchi Cucumbers",
+    "description": "Hot house cucumbers with sweet chili sauce & spicy gochujang",
+    "station": "Umi",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegan",
+      "Contains Soy",
+      "Contains Sesame",
+      "Sustainability"
+    ],
+    "calories": 44,
+    "price": "$4.50",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Miso Salmon Inari",
+    "description": "Tofu pocket filled with rice, charred shishito aioli, avocado, fresh miso salmon, cucumber, and daikon",
+    "station": "Umi",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Fish",
+      "Contains Eggs",
+      "Contains Gluten",
+      "Sustainability"
+    ],
+    "calories": 374,
+    "price": "$5.50",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Spicy Tuna Inari",
+    "description": "Tofu pocket filled with rice, spicy Umi mayo, avocado, spicy ahi tuna, cucumber, and daikon",
+    "station": "Umi",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Fish",
+      "Contains Eggs",
+      "Contains Gluten",
+      "Contains Sesame",
+      "Sustainability"
+    ],
+    "calories": 309,
+    "price": "$4.75",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Albacore Nigiri",
+    "description": "Sushi rice topped with albacore, lemongrass ponzu, and green onion",
+    "station": "Umi",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Soy",
+      "Contains Fish",
+      "Contains Sesame",
+      "Sustainability"
+    ],
+    "calories": 137,
+    "price": "$5.25",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Hamachi Nigiri",
+    "description": "Sushi rice topped with hamachi and green onions",
+    "station": "Umi",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Sustainability"
+    ],
+    "calories": 145,
+    "price": "$5.25",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Mixed Nigiri",
+    "description": "Mixed nigiri box with 2 piece salmon, 2 piece albacore, and 1 piece hamachi",
+    "station": "Umi",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Soy",
+      "Contains Fish",
+      "Contains Sesame",
+      "Sustainability"
+    ],
+    "calories": 406,
+    "price": "$9.00",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Salmon Nigiri",
+    "description": "Sushi rice topped with salmon, and lemongrass ponzu",
+    "station": "Umi",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Soy",
+      "Contains Fish",
+      "Contains Sesame",
+      "Sustainability"
+    ],
+    "calories": 164,
+    "price": "$5.25",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Miso Soup",
+    "description": "Hot miso soup with tofu and green onions",
+    "station": "Umi",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Soy",
+      "Contains Fish",
+      "Sustainability"
+    ],
+    "calories": 54,
+    "price": "$3.50",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Mushroom Asparagus Roll",
+    "description": "Avocado, grilled asparagus and tempura batter and fried enoki mushrooms wrapped in rice and nori topped with avocado and garnished with umi sauce, candied fresno chiles, basil cilantro oil and sesame seeds",
+    "station": "Umi",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegetarian",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten",
+      "Contains Sesame",
+      "Sustainability"
+    ],
+    "calories": 596,
+    "price": "$10.00",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Rainbow Roll",
+    "description": "Krab and cucumber wrapped in rice and nori, topped  with avocado, salmon, seared ahi, and hamachi",
+    "station": "Umi",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Soy",
+      "Contains Fish",
+      "Contains Shellfish",
+      "Contains Eggs",
+      "Contains Sesame",
+      "Sustainability"
+    ],
+    "calories": 441,
+    "price": "$13.00",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Sea King Roll",
+    "description": "Spicy tuna, cucumber, and avocado wrapped in rice and nori topped with albacore, rayu oil, UMI spicy mayo, jalapeno, togarashi, and seasme seeds",
+    "station": "Umi",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Soy",
+      "Contains Fish",
+      "Contains Eggs",
+      "Contains Sesame",
+      "Sustainability"
+    ],
+    "calories": 701,
+    "price": "$12.00",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Spicy Salmon Roll",
+    "description": "Spicy salmon, cucumber and daikon sprouts wrapped in rice and nori topped with sesame seeds",
+    "station": "Umi",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Fish",
+      "Contains Sesame",
+      "Sustainability"
+    ],
+    "calories": 457,
+    "price": "$10.00",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Spicy Tuna Shrimp Roll",
+    "description": "Spicy tuna, shrimp tempura, cucumber, and avocado wrapped in rice and nori topped with chili crunch oil and sesame seeds",
+    "station": "Umi",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Soy",
+      "Contains Fish",
+      "Contains Shellfish",
+      "Contains Sesame",
+      "Sustainability"
+    ],
+    "calories": 616,
+    "price": "$13.00",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Sweet Heat Roll",
+    "description": "Spicy salmon, cucumber, and daikon wrapped in rice and nori topped with UMI spicy mayo, tare sauce, and candied fresno chiles",
+    "station": "Umi",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Soy",
+      "Contains Fish",
+      "Contains Eggs",
+      "Contains Sesame",
+      "Sustainability"
+    ],
+    "calories": 648,
+    "price": "$11.00",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Umi Roll",
+    "description": "Spicy tuna, tempura shrimp wrapped in rice and nori, topped with seared steak, tare sauce, shishito aioli, micro cilantro, and sesame seeds",
+    "station": "Umi",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Soy",
+      "Contains Fish",
+      "Contains Shellfish",
+      "Contains Eggs",
+      "Contains Sesame"
+    ],
+    "calories": 718,
+    "price": "$13.50",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Half Rice and Half Noodles",
+    "description": "Base, Half & Half Chinese",
+    "station": "Wok",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten",
+      "Contains Sesame",
+      "Sustainability"
+    ],
+    "calories": 352,
+    "price": "$3.75",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Jasmine Rice",
+    "description": "Steamed Jasmine Rice",
+    "station": "Wok",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegan",
+      "Sustainability"
+    ],
+    "calories": 196,
+    "price": "$3.00",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Matcha Milk Tea Boba",
+    "description": "Sweetened matcha tea with milk and boba pearls served over ice",
+    "station": "Wok",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegetarian",
+      "Contains Dairy"
+    ],
+    "calories": 293,
+    "price": "$5.75",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Milk Tea Boba",
+    "description": "Sweet black tea with milk and boba pearls served over ice",
+    "station": "Wok",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Dairy"
+    ],
+    "calories": 254,
+    "price": "$5.00",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Oat Milk Tea Boba",
+    "description": "Sweet black tea with oat milk and boba pearls served over ice",
+    "station": "Wok",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegan",
+      "Sustainability"
+    ],
+    "calories": 249,
+    "price": "$5.50",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Taro Milk Tea Boba",
+    "description": "Sweetened taro milk and boba pearls served over ice",
+    "station": "Wok",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegetarian",
+      "Contains Dairy",
+      "Contains Soy"
+    ],
+    "calories": 245,
+    "price": "$5.75",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Manchurian Tofu Bowl with Rice",
+    "description": "Sweet and spicy fried tofu served with wok fried vegetables over rice with choice of finishing sauce",
+    "station": "Wok",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Soy",
+      "Contains Sesame",
+      "Sustainability"
+    ],
+    "calories": 647,
+    "price": "$7.50",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Orange Chicken Bowl with Rice",
+    "description": "Crispy orange chile chicken served with wok fried vegetables over rice with choice of finishing sauce",
+    "station": "Wok",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten"
+    ],
+    "calories": 594,
+    "price": "$8.50",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Peppered Beef Bowl with Rice",
+    "description": "Peppered beef served with wok fried vegetables over rice with choice of finishing sauce",
+    "station": "Wok",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten",
+      "Contains Sesame"
+    ],
+    "calories": 579,
+    "price": "$9.00",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Manchurian Tofu Bowl with Noodles",
+    "description": "Sweet and spicy fried tofu served with wok fried vegetables over fried noodles with choice of finishing sauce",
+    "station": "Wok",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten",
+      "Contains Sesame",
+      "Sustainability"
+    ],
+    "calories": 828,
+    "price": "$7.50",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Orange Chicken Bowl with Noodles",
+    "description": "Crispy orange chile chicken served with wok fried vegetables over fried noodles with choice of finishing sauce",
+    "station": "Wok",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten",
+      "Contains Sesame"
+    ],
+    "calories": 776,
+    "price": "$8.50",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Peppered Beef Bowl with Noodles",
+    "description": "Peppered beef served with wok fried vegetables over fried noodles with choice of finishing sauce",
+    "station": "Wok",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten",
+      "Contains Sesame"
+    ],
+    "calories": 761,
+    "price": "$9.00",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Chinese Egg Tart",
+    "description": "Hong Kong egg tart made with flaky pastry filled with smooth lightly sweetened egg custard",
+    "station": "Wok",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegetarian",
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten"
+    ],
+    "calories": 272,
+    "price": "$3.75",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Steamed Pork Bun",
+    "description": "Steamed BBQ pork bun topped with garlic chili oil and green onion",
+    "station": "Wok",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Shellfish",
+      "Contains Gluten",
+      "Contains Sesame"
+    ],
+    "calories": 329,
+    "price": "$6.00",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Vegetable Spring Rolls",
+    "description": "2 crispy fried vegetable spring rolls",
+    "station": "Wok",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten",
+      "Sustainability"
+    ],
+    "calories": 81,
+    "price": "$3.00",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Chicken Potstickers",
+    "description": "2 fried chicken potstickers",
+    "station": "Wok",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten",
+      "Contains Sesame"
+    ],
+    "calories": 89,
+    "price": "$3.75",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Pan Fried Noodles",
+    "description": "Wok fried noodles with vegetables and stir fry sauce",
+    "station": "Wok",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegan",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten",
+      "Contains Sesame",
+      "Sustainability"
+    ],
+    "calories": 340,
+    "price": "$3.75",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Spring Wok Vegetables",
+    "description": "Spring wok fried vegetables tossed in our house wok soy sauce",
+    "station": "Wok",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegan",
+      "Contains Soy",
+      "Sustainability"
+    ],
+    "calories": 166,
+    "price": "$3.75",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Salt and Pepper Wings",
+    "description": "Chicken wings tossed in salt, pepper, garlic and green onion",
+    "station": "Wok",
+    "meal_period": "Dinner",
+    "allergens": [],
+    "calories": 643,
+    "price": "$9.50",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Dragon Sauce",
+    "description": "Sweet garlic soy sauce with chilies",
+    "station": "Wok",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegan",
+      "Contains Soy",
+      "Sustainability"
+    ],
+    "calories": 36,
+    "price": null,
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Lemongrass Ponzu Sauce",
+    "description": "Sauce, Lemongrass Ponzu",
+    "station": "Wok",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegan",
+      "Contains Soy",
+      "Contains Sesame",
+      "Sustainability"
+    ],
+    "calories": 25,
+    "price": null,
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Bacon",
+    "description": "Side, Bacon (2)",
+    "station": "Taqueria",
+    "meal_period": "Brunch",
+    "allergens": [],
+    "calories": 313,
+    "price": "$3.50",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Fresh Fruit Salad",
+    "description": "Mix of fresh seasonal fruits",
+    "station": "Taqueria",
+    "meal_period": "Brunch",
+    "allergens": [
+      "Vegan",
+      "Sustainability"
+    ],
+    "calories": 44,
+    "price": "$3.75",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Fried Egg",
+    "description": "Whole egg, cooked to order.",
+    "station": "Taqueria",
+    "meal_period": "Brunch",
+    "allergens": [
+      "Vegetarian",
+      "Contains Eggs"
+    ],
+    "calories": 78,
+    "price": "$2.25",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "JUST Scrambled Vegan Eggs",
+    "description": "Vegan scrambled 'JUST' eggs",
+    "station": "Taqueria",
+    "meal_period": "Brunch",
+    "allergens": [
+      "Vegan",
+      "Sustainability"
+    ],
+    "calories": 169,
+    "price": "$4.00",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Pork Sausage Links",
+    "description": "Ground pork, herbs and spices in a natural casing.",
+    "station": "Taqueria",
+    "meal_period": "Brunch",
+    "allergens": [],
+    "calories": 171,
+    "price": "$2.00",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Scrambled Egg Whites",
+    "description": "Scrambled egg whites",
+    "station": "Taqueria",
+    "meal_period": "Brunch",
+    "allergens": [
+      "Vegetarian",
+      "Contains Eggs"
+    ],
+    "calories": 51,
+    "price": "$3.00",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Scrambled Eggs",
+    "description": "Scrambled Eggs",
+    "station": "Taqueria",
+    "meal_period": "Brunch",
+    "allergens": [
+      "Vegetarian",
+      "Contains Eggs"
+    ],
+    "calories": 132,
+    "price": "$3.00",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Tater Tots",
+    "description": "Side, Fried Tater Tots",
+    "station": "Taqueria",
+    "meal_period": "Brunch",
+    "allergens": [
+      "Vegan",
+      "Contains Soy",
+      "Sustainability"
+    ],
+    "calories": 398,
+    "price": "$4.00",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Bacon Green Chile Breakfast Burrito",
+    "description": "Breakfast burrito with bacon, cantina beans, scrambled eggs, tater tots, cheddar jack cheese, and green hatch chili salsa.",
+    "station": "Taqueria",
+    "meal_period": "Brunch",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten"
+    ],
+    "calories": 1011,
+    "price": "$9.00",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Green Chile Breakfast Burrito",
+    "description": "Breakfast burrito with cantina beans, scrambled eggs, tater tots, cheddar jack cheese, and green hatch chili salsa.",
+    "station": "Taqueria",
+    "meal_period": "Brunch",
+    "allergens": [
+      "Vegetarian",
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten"
+    ],
+    "calories": 889,
+    "price": "$7.50",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Sausage Green Chile Breakfast Burrito",
+    "description": "Breakfast burrito with sausage, cantina beans, scrambled eggs, tater tots, cheddar jack cheese, and green hatch chili salsa.",
+    "station": "Taqueria",
+    "meal_period": "Brunch",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten"
+    ],
+    "calories": 1061,
+    "price": "$9.00",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Soyrizo Potato Breakfast Burrito",
+    "description": "Breakfast burrito w/ soyrizo potatoes, vegan cheese, Just Eggs, cantina beans, pico and sala chile de árbol.",
+    "station": "Taqueria",
+    "meal_period": "Brunch",
+    "allergens": [
+      "Vegetarian",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten",
+      "Sustainability"
+    ],
+    "calories": 739,
+    "price": "$9.00",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Buttermilk Pancakes",
+    "description": "3 Buttermilk Pancakes",
+    "station": "Taqueria",
+    "meal_period": "Brunch",
+    "allergens": [
+      "Vegetarian",
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten"
+    ],
+    "calories": 92,
+    "price": "$6.00",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Breakfast Torta",
+    "description": "Breakfast torta with melted cheese, cantina beans, fried eggs, guacamole, and pico de gallo",
+    "station": "Taqueria",
+    "meal_period": "Brunch",
+    "allergens": [
+      "Vegetarian",
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten"
+    ],
+    "calories": 838,
+    "price": "$6.50",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Pambazo Breakfast Sandwich",
+    "description": "Telera bread with cantina beans and soyrizo potato filling, dipped in pambazo sauce then griddled and topped with lettuce, lime crema, queso fresco cheese and a fried egg",
+    "station": "Taqueria",
+    "meal_period": "Brunch",
+    "allergens": [
+      "Vegetarian",
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten"
+    ],
+    "calories": 700,
+    "price": "$7.00",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Café Breakfast Combo",
+    "description": "2 eggs cooked your way with tater tots, choice of protein, and toast",
+    "station": "Taqueria",
+    "meal_period": "Brunch",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten",
+      "Contains Sesame"
+    ],
+    "calories": 936,
+    "price": "$9.50",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Triton Breakfast Combo",
+    "description": "2 eggs your way with 2 buttermilk pancakes and your choice of meat.",
+    "station": "Taqueria",
+    "meal_period": "Brunch",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten"
+    ],
+    "calories": 612,
+    "price": "$9.00",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Cantina Beans",
+    "description": "Pinto and refried beans stewed with onion, jalapeno, tomato, soyrizo, and spices",
+    "station": "Taqueria",
+    "meal_period": "Brunch",
+    "allergens": [
+      "Vegan",
+      "Contains Soy",
+      "Sustainability"
+    ],
+    "calories": 29,
+    "price": "$3.75",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Mexican Red Rice",
+    "description": "Classic Mexican red rice",
+    "station": "Taqueria",
+    "meal_period": "Brunch",
+    "allergens": [
+      "Vegan",
+      "Sustainability"
+    ],
+    "calories": 213,
+    "price": "$2.50",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Bacon Green Chile Tacos",
+    "description": "Breakfast tacos with scrambled eggs, bacon, cheddar jack cheese, green hatch chile salsa, and crema.",
+    "station": "Taqueria",
+    "meal_period": "Brunch",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Eggs"
+    ],
+    "calories": 791,
+    "price": "$7.50",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Mushroom Breakfast Tacos",
+    "description": "Breakfast tacos with scrambled egg, cheddar jack cheese, mushroom corn mix, crema, and cilantro.",
+    "station": "Taqueria",
+    "meal_period": "Brunch",
+    "allergens": [
+      "Vegetarian",
+      "Contains Dairy",
+      "Contains Eggs"
+    ],
+    "calories": 675,
+    "price": "$6.50",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Bacon",
+    "description": "Side, Bacon (2)",
+    "station": "TritonGrill",
+    "meal_period": "Brunch",
+    "allergens": [],
+    "calories": 313,
+    "price": "$3.50",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Fresh Fruit Salad",
+    "description": "Mix of fresh seasonal fruits",
+    "station": "TritonGrill",
+    "meal_period": "Brunch",
+    "allergens": [
+      "Vegan",
+      "Sustainability"
+    ],
+    "calories": 44,
+    "price": "$3.75",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "JUST Scrambled Vegan Eggs",
+    "description": "Vegan scrambled 'JUST' eggs",
+    "station": "TritonGrill",
+    "meal_period": "Brunch",
+    "allergens": [
+      "Vegan",
+      "Sustainability"
+    ],
+    "calories": 169,
+    "price": "$4.00",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Pork Sausage Links",
+    "description": "Ground pork, herbs and spices in a natural casing.",
+    "station": "TritonGrill",
+    "meal_period": "Brunch",
+    "allergens": [],
+    "calories": 171,
+    "price": "$2.00",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Scrambled Egg Whites",
+    "description": "Scrambled egg whites",
+    "station": "TritonGrill",
+    "meal_period": "Brunch",
+    "allergens": [
+      "Vegetarian",
+      "Contains Eggs"
+    ],
+    "calories": 51,
+    "price": "$3.00",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Scrambled Eggs",
+    "description": "Scrambled Eggs",
+    "station": "TritonGrill",
+    "meal_period": "Brunch",
+    "allergens": [
+      "Vegetarian",
+      "Contains Eggs"
+    ],
+    "calories": 132,
+    "price": "$3.00",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Steel Cut Oatmeal",
+    "description": "Hot steel cut oats with your choice of toppings",
+    "station": "TritonGrill",
+    "meal_period": "Brunch",
+    "allergens": [
+      "Vegan",
+      "Sustainability"
+    ],
+    "calories": 115,
+    "price": "$3.50",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Tater Tots",
+    "description": "Side, Fried Tater Tots",
+    "station": "TritonGrill",
+    "meal_period": "Brunch",
+    "allergens": [
+      "Vegan",
+      "Contains Soy",
+      "Sustainability"
+    ],
+    "calories": 398,
+    "price": "$4.00",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Toast (Sourdough, Wheat, English Muffin)",
+    "description": "Side, Assorted Toast",
+    "station": "TritonGrill",
+    "meal_period": "Brunch",
+    "allergens": [
+      "Vegan",
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten",
+      "Contains Sesame",
+      "Sustainability"
+    ],
+    "calories": 114,
+    "price": "$1.50",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Veggie Sausage",
+    "description": "Vegan sausage patty.",
+    "station": "TritonGrill",
+    "meal_period": "Brunch",
+    "allergens": [
+      "Vegan",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten",
+      "Sustainability"
+    ],
+    "calories": 139,
+    "price": "$2.00",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Fried Egg",
+    "description": "Whole egg, cooked to order.",
+    "station": "TritonGrill",
+    "meal_period": "Brunch",
+    "allergens": [
+      "Vegetarian",
+      "Contains Eggs"
+    ],
+    "calories": 78,
+    "price": "$2.25",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "House Potatoes",
+    "description": "Diced potatoes with garlic, onion, peppers, onion, and herbs",
+    "station": "TritonGrill",
+    "meal_period": "Brunch",
+    "allergens": [
+      "Vegan",
+      "Sustainability"
+    ],
+    "calories": 109,
+    "price": "$4.00",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Buttermilk Pancakes",
+    "description": "3 Buttermilk Pancakes",
+    "station": "TritonGrill",
+    "meal_period": "Brunch",
+    "allergens": [
+      "Vegetarian",
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten"
+    ],
+    "calories": 92,
+    "price": "$6.00",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Challah French Toast",
+    "description": "Grilled custard battered Challah French toast with a sprinkle of powdered sugar.",
+    "station": "TritonGrill",
+    "meal_period": "Brunch",
+    "allergens": [
+      "Vegetarian",
+      "Contains Dairy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten"
+    ],
+    "calories": 486,
+    "price": "$6.00",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Cucumber Avocado Toast",
+    "description": "Avocado toast with seasoned cucumbers, tomato, feta cheese",
+    "station": "TritonGrill",
+    "meal_period": "Brunch",
+    "allergens": [
+      "Vegetarian",
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten",
+      "Contains Sesame",
+      "Sustainability"
+    ],
+    "calories": 502,
+    "price": "$6.50",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Funky Monkey Pancakes Plate",
+    "description": "Banana pancakes topped with sliced bananas, chocolate chips, coconut flakes and drizzled with caramel sauce",
+    "station": "TritonGrill",
+    "meal_period": "Brunch",
+    "allergens": [
+      "Vegetarian",
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten"
+    ],
+    "calories": 715,
+    "price": "$7.00",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Loco Moco Plate",
+    "description": "Beef patty served over steamed Calrose rice then topped with an over easy egg and Loco Moco gravy.",
+    "station": "TritonGrill",
+    "meal_period": "Brunch",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten"
+    ],
+    "calories": 703,
+    "price": "$9.50",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Smores French Toast",
+    "description": "French toast topped with chocolate chips, mini marshmallows, graham cracker crumbs, and chocolate syrup",
+    "station": "TritonGrill",
+    "meal_period": "Brunch",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten"
+    ],
+    "calories": 706,
+    "price": "$6.50",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Breakfast Torta",
+    "description": "Breakfast torta with melted cheese, cantina beans, fried eggs, guacamole, and pico de gallo",
+    "station": "TritonGrill",
+    "meal_period": "Brunch",
+    "allergens": [
+      "Vegetarian",
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten"
+    ],
+    "calories": 838,
+    "price": "$6.50",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Pambazo Breakfast Sandwich",
+    "description": "Telera bread with cantina beans and soyrizo potato filling, dipped in pambazo sauce then griddled and topped with lettuce, lime crema, queso fresco cheese and a fried egg",
+    "station": "TritonGrill",
+    "meal_period": "Brunch",
+    "allergens": [
+      "Vegetarian",
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten"
+    ],
+    "calories": 700,
+    "price": "$7.00",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Bacon King Triton Sandwich",
+    "description": "Hawaiian bun with fried egg, bacon, fried hashbrown triangle, American cheese, and our signature Triton sauce",
+    "station": "TritonGrill",
+    "meal_period": "Brunch",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten"
+    ],
+    "calories": 1048,
+    "price": "$9.50",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "King Triton Breakfast Sandwich",
+    "description": "Hawaiian bun with a fried egg, fried hash brown triangle, American cheese and our signature Triton sauce",
+    "station": "TritonGrill",
+    "meal_period": "Brunch",
+    "allergens": [
+      "Vegetarian",
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten"
+    ],
+    "calories": 774,
+    "price": "$8.00",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Sausage King Triton Sandwich",
+    "description": "Hawaiian bun with fried egg, turkey sausage patty, fried hashbrown triangle, american cheese and our signature Triton sauce served with a choice of side.",
+    "station": "TritonGrill",
+    "meal_period": "Brunch",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten"
+    ],
+    "calories": 824,
+    "price": "$9.50",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Veggie Sausage King Triton Sandwich",
+    "description": "Hawaiian bun with a fried egg, veggie sausage patty, fried hashbrown triangle, American cheese and our signature Triton sauce",
+    "station": "TritonGrill",
+    "meal_period": "Brunch",
+    "allergens": [
+      "Vegetarian",
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten"
+    ],
+    "calories": 874,
+    "price": "$9.50",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Café Breakfast Combo",
+    "description": "2 eggs cooked your way with tater tots, choice of protein, and toast",
+    "station": "TritonGrill",
+    "meal_period": "Brunch",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten",
+      "Contains Sesame"
+    ],
+    "calories": 936,
+    "price": "$9.50",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Triton Breakfast Combo",
+    "description": "2 eggs your way with 2 buttermilk pancakes and your choice of meat.",
+    "station": "TritonGrill",
+    "meal_period": "Brunch",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten"
+    ],
+    "calories": 612,
+    "price": "$9.00",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Bacon Green Chile Breakfast Burrito",
+    "description": "Breakfast burrito with bacon, cantina beans, scrambled eggs, tater tots, cheddar jack cheese, and green hatch chili salsa.",
+    "station": "Taqueria",
+    "meal_period": "Late Night",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten"
+    ],
+    "calories": 1011,
+    "price": "$9.00",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Green Chile Breakfast Burrito",
+    "description": "Breakfast burrito with cantina beans, scrambled eggs, tater tots, cheddar jack cheese, and green hatch chili salsa.",
+    "station": "Taqueria",
+    "meal_period": "Late Night",
+    "allergens": [
+      "Vegetarian",
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten"
+    ],
+    "calories": 889,
+    "price": "$7.50",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Pork Belly Verde Breakfast Burrito",
+    "description": "Pork belly simmered in salsa verde with scrambled eggs, tater tots, and cheddar jack cheese in a tortilla",
+    "station": "Taqueria",
+    "meal_period": "Late Night",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten"
+    ],
+    "calories": 931,
+    "price": "$8.00",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Soyrizo Potato Breakfast Burrito",
+    "description": "Breakfast burrito w/ soyrizo potatoes, vegan cheese, Just Eggs, cantina beans, pico and sala chile de árbol.",
+    "station": "Taqueria",
+    "meal_period": "Late Night",
+    "allergens": [
+      "Vegetarian",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten",
+      "Sustainability"
+    ],
+    "calories": 739,
+    "price": "$9.00",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Quesabirria Burrito",
+    "description": "Burrito with crispy cheese, birria, Mexican red rice, guacamole, pico de gallo, and crema served with birria consomme",
+    "station": "Taqueria",
+    "meal_period": "Late Night",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten"
+    ],
+    "calories": 1048,
+    "price": "$11.00",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Taquito Burrito",
+    "description": "Tortilla with fried chicken taquitos, lettuce, guacamole, cotija cheese, spicy lime crema and chile de arbol salsa",
+    "station": "Taqueria",
+    "meal_period": "Late Night",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten"
+    ],
+    "calories": 868,
+    "price": "$9.50",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Birria Nachos",
+    "description": "Fried tortilla chips topped with shredded beef birria, spicy jalapeno cheese sauce, cantina beans, chipotle-lime crema, pico de gallo, guacamole, and cotija cheese",
+    "station": "Taqueria",
+    "meal_period": "Late Night",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten"
+    ],
+    "calories": 673,
+    "price": "$11.25",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Cheese Nachos",
+    "description": "Cheese nachos with cantina beans, jalapeno cheese sauce, chipotle lime crema, pico de gallo, guacamole, and cotija cheese served over crispy tortilla chips",
+    "station": "Taqueria",
+    "meal_period": "Late Night",
+    "allergens": [
+      "Vegetarian",
+      "Contains Dairy",
+      "Contains Soy"
+    ],
+    "calories": 547,
+    "price": "$7.25",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Pollo Al Pastor Nachos",
+    "description": "Fried tortilla chips topped with tangy chicken al pastor, spicy jalapeno cheese sauce, cantina beans, chipotle-lime crema, pico de gallo, guacamole, and cotija cheese",
+    "station": "Taqueria",
+    "meal_period": "Late Night",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy"
+    ],
+    "calories": 565,
+    "price": "$10.25",
+    "location": "64 Degrees",
+    "date": "Sunday, June 07 2026"
+  }
+]

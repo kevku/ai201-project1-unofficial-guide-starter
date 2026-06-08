@@ -1,0 +1,3461 @@
+[
+  {
+    "name": "Spring Mix",
+    "description": "Greens, Spring Mix",
+    "station": "Fresh",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Sustainability"
+    ],
+    "calories": 4,
+    "price": null,
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Steamed Calrose Rice",
+    "description": "Steamed Calrose Rice",
+    "station": "Fresh",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Vegan",
+      "Sustainability"
+    ],
+    "calories": 295,
+    "price": null,
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "BYO Poke Bowl",
+    "description": "choose your own base, protein, toppings and sauce",
+    "station": "Fresh",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Contains Soy",
+      "Contains Fish",
+      "Contains Sesame",
+      "Sustainability"
+    ],
+    "calories": 872,
+    "price": "$13.00",
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Avocado",
+    "description": "Side Of Avocado (1/4 of a whole avocado or 2 oz.)",
+    "station": "Fresh",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Vegan",
+      "Sustainability"
+    ],
+    "calories": 90,
+    "price": "$1.50",
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Corn Kernels",
+    "description": "Corn, Kernels",
+    "station": "Fresh",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Vegan",
+      "Sustainability"
+    ],
+    "calories": 24,
+    "price": null,
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Crispy Onions",
+    "description": "Onion, Crispy Topping",
+    "station": "Fresh",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Vegan",
+      "Contains Wheat",
+      "Contains Gluten",
+      "Sustainability"
+    ],
+    "calories": 162,
+    "price": null,
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Edamame",
+    "description": "Edamame, Shell Off",
+    "station": "Fresh",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Vegan",
+      "Contains Soy",
+      "Sustainability"
+    ],
+    "calories": 30,
+    "price": null,
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Mango Chunks",
+    "description": "Mango, Chunks",
+    "station": "Fresh",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Sustainability"
+    ],
+    "calories": 16,
+    "price": null,
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Pickle, Daikon and Carrots",
+    "description": "Pickle, Daikon and Carrots",
+    "station": "Fresh",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Vegan",
+      "Sustainability"
+    ],
+    "calories": 12,
+    "price": null,
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Pickled Red Onion",
+    "description": "Onion, Pickled Red",
+    "station": "Fresh",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Vegan",
+      "Sustainability"
+    ],
+    "calories": 13,
+    "price": null,
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Roasted Red Beets",
+    "description": "Beet, Roasted Red",
+    "station": "Fresh",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Sustainability"
+    ],
+    "calories": 25,
+    "price": null,
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Shredded Radish",
+    "description": "Radish, Side",
+    "station": "Fresh",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Vegan",
+      "Sustainability"
+    ],
+    "calories": 4,
+    "price": null,
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Shredded Red Cabbage",
+    "description": "Cabbage, Red Shredded",
+    "station": "Fresh",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Vegan",
+      "Sustainability"
+    ],
+    "calories": 8,
+    "price": null,
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Sliced Cucumber",
+    "description": "Cucumbers, Sliced",
+    "station": "Fresh",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Vegan",
+      "Sustainability"
+    ],
+    "calories": 2,
+    "price": null,
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Sliced Green Onion",
+    "description": "Green Onion, Sliced",
+    "station": "Fresh",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Vegan",
+      "Sustainability"
+    ],
+    "calories": 9,
+    "price": null,
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Sliced Jalapeno",
+    "description": "Jalapeno, Sliced Fresh",
+    "station": "Fresh",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Sustainability"
+    ],
+    "calories": 8,
+    "price": null,
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Soy Crunchy Seeds",
+    "description": "Seeds, Crunchy Soy",
+    "station": "Fresh",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Vegan",
+      "Contains Soy",
+      "Sustainability"
+    ],
+    "calories": 168,
+    "price": null,
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Wonton Strips",
+    "description": "Topping, Wonton Strips",
+    "station": "Fresh",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten",
+      "Sustainability"
+    ],
+    "calories": 14,
+    "price": null,
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Bibingka",
+    "description": "Rice flour cake stuffed with a spiced mango topping",
+    "station": "Fresh",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Vegetarian",
+      "Contains Dairy",
+      "Contains Eggs",
+      "Sustainability"
+    ],
+    "calories": 487,
+    "price": "$3.25",
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Smores Pie",
+    "description": "Graham cracker crust filled with creamy chocolate ganache and topped with marshmallow meringue",
+    "station": "Fresh",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten"
+    ],
+    "calories": 431,
+    "price": "$3.75",
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Makai Ahi Tuna",
+    "description": "Cubed Ahi Yellowfin Tuna",
+    "station": "Fresh",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Contains Fish",
+      "Sustainability"
+    ],
+    "calories": 30,
+    "price": "$5.00",
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Salmon Poke",
+    "description": "Add On, Atlantic Salmon Cubes",
+    "station": "Fresh",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Contains Fish",
+      "Sustainability"
+    ],
+    "calories": 59,
+    "price": "$5.00",
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Sunomono Tofu",
+    "description": "Tofu, Sunomono",
+    "station": "Fresh",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Contains Soy",
+      "Sustainability"
+    ],
+    "calories": 43,
+    "price": null,
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Kale Caesar Salad",
+    "description": "Kale & romaine topped with shredded parmesan and croutons. Dressed in a creamy caesar before being finished with cherry tomatoes.",
+    "station": "Fresh",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Vegetarian",
+      "Contains Dairy",
+      "Contains Wheat",
+      "Contains Gluten",
+      "Sustainability"
+    ],
+    "calories": 626,
+    "price": "$8.00",
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Salad, Char Siu Chicken Chop Salad",
+    "description": "Romaine with edamame, red cabbage, broccolini, carrots, green onion, sesame seeds, toarashi wontons, and char siu chicken tossed with sesame dressing",
+    "station": "Fresh",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten",
+      "Contains Sesame"
+    ],
+    "calories": 441,
+    "price": "$9.00",
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Salmon Chop Salad",
+    "description": "Chopped romaine lettuce, tomatoes, white corn, cucumber, hardboiled egg, red onion and salmon tossed in buttermilk ranch dressing",
+    "station": "Fresh",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Fish",
+      "Contains Eggs"
+    ],
+    "calories": 570,
+    "price": "$13.00",
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Vietnamese Rice Noodle Salad",
+    "description": "Rice noodles tossed with spring mix, napa cabbage, red onion, cucumber, bean sprouts, carrots, mint, and cilantro in goi ga dressing then topped with toasted cashews and thai basil",
+    "station": "Fresh",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Vegan",
+      "Contains TreeNuts",
+      "Contains Soy",
+      "Sustainability"
+    ],
+    "calories": 20,
+    "price": "$7.50",
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Beef Salpicon Sandwich",
+    "description": "Salpicon beef with tomatillo sauce, avocado, lettuce, tomato, and pickled jalapenos on multigrain bread",
+    "station": "Fresh",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten",
+      "Contains Sesame"
+    ],
+    "calories": 825,
+    "price": "$12.00",
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Char Siu Chicken Banh Mi",
+    "description": "Char siu chicken with spring mix, cucumber, jalapenos, pickled carrots and daikon, cilantro, and spicy mayo on a Hawaiian bun",
+    "station": "Fresh",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten",
+      "Contains Sesame"
+    ],
+    "calories": 402,
+    "price": "$10.00",
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Huli Huli Tofu Sandwich",
+    "description": "Huli huli tofu with grilled pineapple, napa slaw, and spicy mayo on a Hawaiian bun",
+    "station": "Fresh",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Vegetarian",
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten",
+      "Contains Sesame",
+      "Sustainability"
+    ],
+    "calories": 717,
+    "price": "$9.00",
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Pastrami Crusted Chicken Sandwich",
+    "description": "Pastrami crusted chicken with apple napa slaw, cucumber, spicy mustard mayo, and Swiss cheese on toasted rye bread",
+    "station": "Fresh",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten"
+    ],
+    "calories": 782,
+    "price": "$12.00",
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Salpicon Beef Lettuce Wrap",
+    "description": "Salpicon beef with tomatillo sauce, avocado, tomato, pickled jalapenos, tortilla strips, and lime crema in a lettuce wrap",
+    "station": "Fresh",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Eggs"
+    ],
+    "calories": 419,
+    "price": "$12.00",
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Lava Sauce",
+    "description": "Sweet chile and garlic soy.",
+    "station": "Fresh",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Vegan",
+      "Contains Soy",
+      "Sustainability"
+    ],
+    "calories": 43,
+    "price": null,
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Ponzu Sauce",
+    "description": "Ponzu Sauce",
+    "station": "Fresh",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Vegan",
+      "Contains Soy",
+      "Contains Sesame",
+      "Sustainability"
+    ],
+    "calories": 24,
+    "price": null,
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Sauce, Spicy Mayo",
+    "description": "Sauce, Spicy Mayo",
+    "station": "Fresh",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Vegan",
+      "Contains Soy",
+      "Sustainability"
+    ],
+    "calories": 173,
+    "price": null,
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Wasabi Creme",
+    "description": "Creme, Wasabi",
+    "station": "Fresh",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Eggs"
+    ],
+    "calories": 141,
+    "price": null,
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Chicken Pozole Verde Soup",
+    "description": "Rich green soup with chicken, and hominy topped with cabbage, diced onion cilantro, and shredded radish",
+    "station": "Fresh",
+    "meal_period": "Lunch",
+    "allergens": [],
+    "calories": 174,
+    "price": "$4.75",
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Beef Patty",
+    "description": "Halal ground beef smash patty",
+    "station": "Fusion Grill",
+    "meal_period": "Lunch",
+    "allergens": [],
+    "calories": 360,
+    "price": null,
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Grilled Chicken Breast",
+    "description": "Chicken, Grilled Breast Halal",
+    "station": "Fusion Grill",
+    "meal_period": "Lunch",
+    "allergens": [],
+    "calories": 151,
+    "price": null,
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Patty, Plant Based Smash",
+    "description": "Patty, Plant Based Smash",
+    "station": "Fusion Grill",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Vegan",
+      "Contains Wheat",
+      "Contains Gluten",
+      "Sustainability"
+    ],
+    "calories": 109,
+    "price": null,
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Beef Smash Burger",
+    "description": "Beef smash burger with cheddar cheese, caramelized onions, and pickled sweet bell peppers",
+    "station": "Fusion Grill",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten"
+    ],
+    "calories": 880,
+    "price": "$9.50",
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Birria Dip Burger",
+    "description": "Beef birria with toasted mozzarella cheese, pickled jalapenos, fried tortilla strips, lime crema, and seasoned avocado on bun of choice served with a side of birria consomme",
+    "station": "Fusion Grill",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten"
+    ],
+    "calories": 674,
+    "price": "$11.50",
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Breakfast Smash Burger",
+    "description": "Grilled smash patty of your choice, fried egg, cheddar cheese and hash brown on a bun",
+    "station": "Fusion Grill",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten"
+    ],
+    "calories": 894,
+    "price": "$8.00",
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Korean BBQ Smash Burger",
+    "description": "Smash burger with your choice of patty seasoned with Korean spices, served with pickled onion, kimchi slaw and Korean BBQ sauce",
+    "station": "Fusion Grill",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Fish",
+      "Contains Eggs",
+      "Contains Gluten",
+      "Contains Sesame"
+    ],
+    "calories": 829,
+    "price": "$9.00",
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Plant Based Smash Burger",
+    "description": "House made quinoa plant based burger patty with caramelized onions, sweet peppers, and CV aioli on a bun",
+    "station": "Fusion Grill",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Vegan",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten",
+      "Sustainability"
+    ],
+    "calories": 511,
+    "price": "$7.50",
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Beef Smash Burger Combo",
+    "description": "Beef smash burger with cheddar cheese, caramelized onions, and pickled sweet bell peppers served with a side of fries and a fountain drink",
+    "station": "Fusion Grill",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten"
+    ],
+    "calories": 1261,
+    "price": "$14.00",
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Chicken Tenders Combo",
+    "description": "Crispy breaded chicken tenders served with a side of french fries and a fountain drink",
+    "station": "Fusion Grill",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten"
+    ],
+    "calories": 900,
+    "price": "$12.00",
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Crispy Chicken Sandwich Combo",
+    "description": "Crispy fried breaded chicken with achiote aioli and cucumber ribbons served with a side of french fries and a fountain drink",
+    "station": "Fusion Grill",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten"
+    ],
+    "calories": 1282,
+    "price": "$14.00",
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Plant Based Smash Burger Combo",
+    "description": "House made quinoa plant based burger patty with caramelized onions, sweet peppers, and CV aioli on a bun served with a side of fries and a fountain drink",
+    "station": "Fusion Grill",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Vegan",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten",
+      "Sustainability"
+    ],
+    "calories": 893,
+    "price": "$14.00",
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Avocado, Seasoned",
+    "description": "Seasoned Avocado",
+    "station": "Fusion Grill",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Vegan",
+      "Sustainability"
+    ],
+    "calories": 57,
+    "price": "$1.50",
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Cheddar Cheese",
+    "description": "Cheese, Cheddar Slice",
+    "station": "Fusion Grill",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Contains Dairy"
+    ],
+    "calories": 81,
+    "price": "$1.00",
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Swiss Cheese",
+    "description": "Cheese, Swiss Slice",
+    "station": "Fusion Grill",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Contains Dairy"
+    ],
+    "calories": 81,
+    "price": "$1.00",
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Korean Beef Loaded Fries",
+    "description": "French fries topped with a Korean beef smash patty, jalapenos, pickled daikon and carrots, Korean bbq sauce, spicy mayo, a fried egg and green onions",
+    "station": "Fusion Grill",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Contains Soy",
+      "Contains Eggs",
+      "Contains Sesame"
+    ],
+    "calories": 980,
+    "price": "$10.00",
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Korean Chicken Loaded Fries",
+    "description": "French fries topped with a Korean chicken thigh patty, jalapenos, pickled daikon and carrots, Korean bbq sauce, spicy mayo, a fried egg and green onions",
+    "station": "Fusion Grill",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Contains Soy",
+      "Contains Eggs",
+      "Contains Sesame"
+    ],
+    "calories": 858,
+    "price": "$11.50",
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Plant Based Korean Loaded Fries",
+    "description": "French fries topped with a Korean plant based smash patty, jalapenos, pickled daikon and carrots, Korean bbq sauce, spicy mayo, a fried egg and green onions",
+    "station": "Fusion Grill",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Vegan",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten",
+      "Contains Sesame",
+      "Sustainability"
+    ],
+    "calories": 832,
+    "price": "$10.00",
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Chicken Banh Mi Sandwich",
+    "description": "Sourdough bread with marinated chicken thigh, green leaf lettuce, pickled carrots & daikon radish, jalapenos, cilantro and banh mi sauce",
+    "station": "Fusion Grill",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten",
+      "Contains Sesame"
+    ],
+    "calories": 449,
+    "price": "$7.00",
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Crispy Chicken Sandwich",
+    "description": "Crispy chicken fritter sandwich with pickled cucumber ribbons and achiote aioli",
+    "station": "Fusion Grill",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten"
+    ],
+    "calories": 900,
+    "price": "$9.25",
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Grilled Cheese Sandwich",
+    "description": "Sandwich, Grilled Cheese Halal",
+    "station": "Fusion Grill",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten"
+    ],
+    "calories": 660,
+    "price": "$7.00",
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Grilled Chicken Breast",
+    "description": "Chicken, Marinated Halal Breast",
+    "station": "Fusion Grill",
+    "meal_period": "Lunch",
+    "allergens": [],
+    "calories": 159,
+    "price": "$6.75",
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Grilled Salmon Sandwich",
+    "description": "Grilled salmon filet on grilled sourdough bread with roasted garlic aioli, avocado, pickled daikon carrot, and lettuce",
+    "station": "Fusion Grill",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Fish",
+      "Contains Gluten",
+      "Sustainability"
+    ],
+    "calories": 856,
+    "price": "$13.00",
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Korean Crispy Chicken Sandwich",
+    "description": "Chicken tenders tossed in korean BBQ sauce and served on a toasted bun with pickled carrot & daikon",
+    "station": "Fusion Grill",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten",
+      "Contains Sesame"
+    ],
+    "calories": 725,
+    "price": "$9.25",
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Achiote Aioli",
+    "description": "Spread, Achiote Aioli",
+    "station": "Fusion Grill",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Contains Soy",
+      "Contains Eggs",
+      "Sustainability"
+    ],
+    "calories": 156,
+    "price": null,
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Cilantro Aioli",
+    "description": "Sauce, Cilantro Aioli",
+    "station": "Fusion Grill",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Contains Soy",
+      "Sustainability"
+    ],
+    "calories": 134,
+    "price": null,
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "CV Sauce",
+    "description": "CV Sauce",
+    "station": "Fusion Grill",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Vegan",
+      "Contains Soy",
+      "Sustainability"
+    ],
+    "calories": 135,
+    "price": null,
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Jalapeno Cilantro Ranch",
+    "description": "Dressing, Jalapeno Cilantro Ranch",
+    "station": "Fusion Grill",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Vegetarian",
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Eggs"
+    ],
+    "calories": 100,
+    "price": null,
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Korean BBQ Sauce",
+    "description": "Sauce, Korean BBQ",
+    "station": "Fusion Grill",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Vegan",
+      "Contains Soy",
+      "Contains Sesame",
+      "Sustainability"
+    ],
+    "calories": 58,
+    "price": null,
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Chicken Tenders",
+    "description": "Crispy breaded halal chicken tenders",
+    "station": "Fusion Grill",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten"
+    ],
+    "calories": 2965,
+    "price": "$9.00",
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "French Fries",
+    "description": "Crispy Golden French Fries.",
+    "station": "Fusion Grill",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Vegan",
+      "Contains Soy",
+      "Sustainability"
+    ],
+    "calories": 362,
+    "price": "$4.00",
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Grilled Asparagus with Vegan Garlic Aioli",
+    "description": "Grilled asparagus with vegan garlic aioli",
+    "station": "Fusion Grill",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Vegan",
+      "Contains Soy",
+      "Sustainability"
+    ],
+    "calories": 161,
+    "price": "$4.00",
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Buffalo Wings Basket",
+    "description": "Chicken wings tossed in buffalo sauce and served with fries and ranch dressing",
+    "station": "Fusion Grill",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Eggs"
+    ],
+    "calories": 1626,
+    "price": "$12.00",
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Korean Chicken Wings Basket",
+    "description": "Crispy chicken wings tossed in a Korean BBQ sauce served with french fries",
+    "station": "Fusion Grill",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Contains Soy",
+      "Contains Sesame"
+    ],
+    "calories": 1575,
+    "price": "$12.00",
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Noodles, Yakisoba",
+    "description": "Noodles, Yakisoba",
+    "station": "Three Sixty",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Vegan",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten",
+      "Sustainability"
+    ],
+    "calories": 405,
+    "price": null,
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Mongolian BBQ Beef Bowl",
+    "description": "Build your own Mongolian bowl with yakisoba noodles, halal beef, vegetables, and sauce",
+    "station": "Three Sixty",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten",
+      "Contains Sesame"
+    ],
+    "calories": 934,
+    "price": "$10.00",
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Mongolian BBQ Chicken Bowl",
+    "description": "Build your own Mongolian bowl with yakisoba noodles, halal chicken, vegetables, and sauce",
+    "station": "Three Sixty",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten",
+      "Contains Sesame"
+    ],
+    "calories": 845,
+    "price": "$10.00",
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Mongolian BBQ Tofu Bowl",
+    "description": "Build your own Mongolian bowl with yakisoba noodles, seared tofu, vegetables, and sauce",
+    "station": "Three Sixty",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten",
+      "Contains Sesame",
+      "Sustainability"
+    ],
+    "calories": 940,
+    "price": "$9.50",
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Mongolian BBQ Vegetable Bowl",
+    "description": "Build your own Mongolian bowl with yakisoba noodles, vegetables, and sauce",
+    "station": "Three Sixty",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten",
+      "Contains Sesame",
+      "Sustainability"
+    ],
+    "calories": 770,
+    "price": "$7.00",
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Baby Corn",
+    "description": "Corn, Baby",
+    "station": "Three Sixty",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Sustainability"
+    ],
+    "calories": 9,
+    "price": null,
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Bamboo Shoots",
+    "description": "Bamboo, Shoots Sliced",
+    "station": "Three Sixty",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Vegan",
+      "Sustainability"
+    ],
+    "calories": 4,
+    "price": null,
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Bean Sprouts",
+    "description": "Sprouts, Bean",
+    "station": "Three Sixty",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Sustainability"
+    ],
+    "calories": 9,
+    "price": null,
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Chinese Long Beans",
+    "description": "Vegetable, Chinese Long Beans Blanched",
+    "station": "Three Sixty",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Vegan",
+      "Sustainability"
+    ],
+    "calories": 12,
+    "price": null,
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Rice Noodles",
+    "description": "Noodles, Rice Pad Thai",
+    "station": "Three Sixty",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Vegan",
+      "Sustainability"
+    ],
+    "calories": 303,
+    "price": null,
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Shiitake Mushrooms",
+    "description": "Mushrooms, Blanched Shiitake Sliced",
+    "station": "Three Sixty",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Vegan",
+      "Sustainability"
+    ],
+    "calories": 6,
+    "price": null,
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Shredded Napa Cabbage",
+    "description": "Shredded Napa Cabbage",
+    "station": "Three Sixty",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Vegan",
+      "Sustainability"
+    ],
+    "calories": 3,
+    "price": null,
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Sliced Carrot",
+    "description": "Carrot, Sliced",
+    "station": "Three Sixty",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Sustainability"
+    ],
+    "calories": 11,
+    "price": null,
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Sliced Green Onion",
+    "description": "Green Onion, Sliced",
+    "station": "Three Sixty",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Vegan",
+      "Sustainability"
+    ],
+    "calories": 9,
+    "price": null,
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Sliced Jalapeno",
+    "description": "Jalapeno, Sliced Fresh",
+    "station": "Three Sixty",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Sustainability"
+    ],
+    "calories": 8,
+    "price": null,
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Sliced Red Bell Pepper",
+    "description": "Pepper, Red Bell Sliced",
+    "station": "Three Sixty",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Sustainability"
+    ],
+    "calories": 8,
+    "price": null,
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Sliced Red Onion",
+    "description": "Onion, Red Sliced",
+    "station": "Three Sixty",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Sustainability"
+    ],
+    "calories": 12,
+    "price": null,
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Snap Peas",
+    "description": "Peas, Snap",
+    "station": "Three Sixty",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Sustainability"
+    ],
+    "calories": 8,
+    "price": null,
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Steamed Broccoli",
+    "description": "Broccoli, Steamed",
+    "station": "Three Sixty",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Sustainability"
+    ],
+    "calories": 9,
+    "price": null,
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Water Chestnuts",
+    "description": "Water Chestnut, Sliced",
+    "station": "Three Sixty",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Sustainability"
+    ],
+    "calories": 11,
+    "price": null,
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Milk Tea Pudding",
+    "description": "Milk tea pudding topped with boba",
+    "station": "Three Sixty",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Vegetarian",
+      "Contains Dairy",
+      "Contains Eggs"
+    ],
+    "calories": 446,
+    "price": "$4.00",
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Sticky Rice Crackle",
+    "description": "A crunchy rice cracker flavored with as coconut caramel sauce and topped with a mango puree",
+    "station": "Three Sixty",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Vegan",
+      "Sustainability"
+    ],
+    "calories": 287,
+    "price": "$3.00",
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "House Mongolian Sauce",
+    "description": "Sauce, House Mongolian",
+    "station": "Three Sixty",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Vegan",
+      "Contains Soy",
+      "Sustainability"
+    ],
+    "calories": 5,
+    "price": null,
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Lemongrass Ginger Stir Fry Sauce",
+    "description": "Sauce, Lemongrass Ginger Stir Fry",
+    "station": "Three Sixty",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Sustainability"
+    ],
+    "calories": 76,
+    "price": null,
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Oil, Chili Garlic",
+    "description": "Oil, Chili Garlic",
+    "station": "Three Sixty",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Sustainability"
+    ],
+    "calories": 223,
+    "price": null,
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Spicy Chili Dragon Sauce",
+    "description": "Sauce, Spicy Chili Dragon",
+    "station": "Three Sixty",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Contains Soy",
+      "Sustainability"
+    ],
+    "calories": 38,
+    "price": null,
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Spring Mix",
+    "description": "Greens, Spring Mix",
+    "station": "Fresh",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Sustainability"
+    ],
+    "calories": 4,
+    "price": null,
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Steamed Calrose Rice",
+    "description": "Steamed Calrose Rice",
+    "station": "Fresh",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegan",
+      "Sustainability"
+    ],
+    "calories": 295,
+    "price": null,
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "BYO Poke Bowl",
+    "description": "choose your own base, protein, toppings and sauce",
+    "station": "Fresh",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Soy",
+      "Contains Fish",
+      "Contains Sesame",
+      "Sustainability"
+    ],
+    "calories": 872,
+    "price": "$13.00",
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Avocado",
+    "description": "Side Of Avocado (1/4 of a whole avocado or 2 oz.)",
+    "station": "Fresh",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegan",
+      "Sustainability"
+    ],
+    "calories": 90,
+    "price": "$1.50",
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Corn Kernels",
+    "description": "Corn, Kernels",
+    "station": "Fresh",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegan",
+      "Sustainability"
+    ],
+    "calories": 24,
+    "price": null,
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Crispy Onions",
+    "description": "Onion, Crispy Topping",
+    "station": "Fresh",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegan",
+      "Contains Wheat",
+      "Contains Gluten",
+      "Sustainability"
+    ],
+    "calories": 162,
+    "price": null,
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Edamame",
+    "description": "Edamame, Shell Off",
+    "station": "Fresh",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegan",
+      "Contains Soy",
+      "Sustainability"
+    ],
+    "calories": 30,
+    "price": null,
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Mango Chunks",
+    "description": "Mango, Chunks",
+    "station": "Fresh",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Sustainability"
+    ],
+    "calories": 16,
+    "price": null,
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Pickle, Daikon and Carrots",
+    "description": "Pickle, Daikon and Carrots",
+    "station": "Fresh",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegan",
+      "Sustainability"
+    ],
+    "calories": 12,
+    "price": null,
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Pickled Red Onion",
+    "description": "Onion, Pickled Red",
+    "station": "Fresh",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegan",
+      "Sustainability"
+    ],
+    "calories": 13,
+    "price": null,
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Roasted Red Beets",
+    "description": "Beet, Roasted Red",
+    "station": "Fresh",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Sustainability"
+    ],
+    "calories": 25,
+    "price": null,
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Shredded Radish",
+    "description": "Radish, Side",
+    "station": "Fresh",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegan",
+      "Sustainability"
+    ],
+    "calories": 4,
+    "price": null,
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Shredded Red Cabbage",
+    "description": "Cabbage, Red Shredded",
+    "station": "Fresh",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegan",
+      "Sustainability"
+    ],
+    "calories": 8,
+    "price": null,
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Sliced Cucumber",
+    "description": "Cucumbers, Sliced",
+    "station": "Fresh",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegan",
+      "Sustainability"
+    ],
+    "calories": 2,
+    "price": null,
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Sliced Green Onion",
+    "description": "Green Onion, Sliced",
+    "station": "Fresh",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegan",
+      "Sustainability"
+    ],
+    "calories": 9,
+    "price": null,
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Sliced Jalapeno",
+    "description": "Jalapeno, Sliced Fresh",
+    "station": "Fresh",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Sustainability"
+    ],
+    "calories": 8,
+    "price": null,
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Soy Crunchy Seeds",
+    "description": "Seeds, Crunchy Soy",
+    "station": "Fresh",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegan",
+      "Contains Soy",
+      "Sustainability"
+    ],
+    "calories": 168,
+    "price": null,
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Wonton Strips",
+    "description": "Topping, Wonton Strips",
+    "station": "Fresh",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten",
+      "Sustainability"
+    ],
+    "calories": 14,
+    "price": null,
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Bibingka",
+    "description": "Rice flour cake stuffed with a spiced mango topping",
+    "station": "Fresh",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegetarian",
+      "Contains Dairy",
+      "Contains Eggs",
+      "Sustainability"
+    ],
+    "calories": 487,
+    "price": "$3.25",
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Smores Pie",
+    "description": "Graham cracker crust filled with creamy chocolate ganache and topped with marshmallow meringue",
+    "station": "Fresh",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten"
+    ],
+    "calories": 431,
+    "price": "$3.75",
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Makai Ahi Tuna",
+    "description": "Cubed Ahi Yellowfin Tuna",
+    "station": "Fresh",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Fish",
+      "Sustainability"
+    ],
+    "calories": 30,
+    "price": "$5.00",
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Salmon Poke",
+    "description": "Add On, Atlantic Salmon Cubes",
+    "station": "Fresh",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Fish",
+      "Sustainability"
+    ],
+    "calories": 59,
+    "price": "$5.00",
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Sunomono Tofu",
+    "description": "Tofu, Sunomono",
+    "station": "Fresh",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Soy",
+      "Sustainability"
+    ],
+    "calories": 43,
+    "price": null,
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Kale Caesar Salad",
+    "description": "Kale & romaine topped with shredded parmesan and croutons. Dressed in a creamy caesar before being finished with cherry tomatoes.",
+    "station": "Fresh",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegetarian",
+      "Contains Dairy",
+      "Contains Wheat",
+      "Contains Gluten",
+      "Sustainability"
+    ],
+    "calories": 626,
+    "price": "$8.00",
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Salad, Char Siu Chicken Chop Salad",
+    "description": "Romaine with edamame, red cabbage, broccolini, carrots, green onion, sesame seeds, toarashi wontons, and char siu chicken tossed with sesame dressing",
+    "station": "Fresh",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten",
+      "Contains Sesame"
+    ],
+    "calories": 441,
+    "price": "$9.00",
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Salmon Chop Salad",
+    "description": "Chopped romaine lettuce, tomatoes, white corn, cucumber, hardboiled egg, red onion and salmon tossed in buttermilk ranch dressing",
+    "station": "Fresh",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Fish",
+      "Contains Eggs"
+    ],
+    "calories": 570,
+    "price": "$13.00",
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Vietnamese Rice Noodle Salad",
+    "description": "Rice noodles tossed with spring mix, napa cabbage, red onion, cucumber, bean sprouts, carrots, mint, and cilantro in goi ga dressing then topped with toasted cashews and thai basil",
+    "station": "Fresh",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegan",
+      "Contains TreeNuts",
+      "Contains Soy",
+      "Sustainability"
+    ],
+    "calories": 20,
+    "price": "$7.50",
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Beef Salpicon Sandwich",
+    "description": "Salpicon beef with tomatillo sauce, avocado, lettuce, tomato, and pickled jalapenos on multigrain bread",
+    "station": "Fresh",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten",
+      "Contains Sesame"
+    ],
+    "calories": 825,
+    "price": "$12.00",
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Char Siu Chicken Banh Mi",
+    "description": "Char siu chicken with spring mix, cucumber, jalapenos, pickled carrots and daikon, cilantro, and spicy mayo on a Hawaiian bun",
+    "station": "Fresh",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten",
+      "Contains Sesame"
+    ],
+    "calories": 402,
+    "price": "$10.00",
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Huli Huli Tofu Sandwich",
+    "description": "Huli huli tofu with grilled pineapple, napa slaw, and spicy mayo on a Hawaiian bun",
+    "station": "Fresh",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegetarian",
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten",
+      "Contains Sesame",
+      "Sustainability"
+    ],
+    "calories": 717,
+    "price": "$9.00",
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Pastrami Crusted Chicken Sandwich",
+    "description": "Pastrami crusted chicken with apple napa slaw, cucumber, spicy mustard mayo, and Swiss cheese on toasted rye bread",
+    "station": "Fresh",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten"
+    ],
+    "calories": 782,
+    "price": "$12.00",
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Salpicon Beef Lettuce Wrap",
+    "description": "Salpicon beef with tomatillo sauce, avocado, tomato, pickled jalapenos, tortilla strips, and lime crema in a lettuce wrap",
+    "station": "Fresh",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Eggs"
+    ],
+    "calories": 419,
+    "price": "$12.00",
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Lava Sauce",
+    "description": "Sweet chile and garlic soy.",
+    "station": "Fresh",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegan",
+      "Contains Soy",
+      "Sustainability"
+    ],
+    "calories": 43,
+    "price": null,
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Ponzu Sauce",
+    "description": "Ponzu Sauce",
+    "station": "Fresh",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegan",
+      "Contains Soy",
+      "Contains Sesame",
+      "Sustainability"
+    ],
+    "calories": 24,
+    "price": null,
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Sauce, Spicy Mayo",
+    "description": "Sauce, Spicy Mayo",
+    "station": "Fresh",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegan",
+      "Contains Soy",
+      "Sustainability"
+    ],
+    "calories": 173,
+    "price": null,
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Wasabi Creme",
+    "description": "Creme, Wasabi",
+    "station": "Fresh",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Eggs"
+    ],
+    "calories": 141,
+    "price": null,
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Chicken Pozole Verde Soup",
+    "description": "Rich green soup with chicken, and hominy topped with cabbage, diced onion cilantro, and shredded radish",
+    "station": "Fresh",
+    "meal_period": "Dinner",
+    "allergens": [],
+    "calories": 174,
+    "price": "$4.75",
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Beef Patty",
+    "description": "Halal ground beef smash patty",
+    "station": "Fusion Grill",
+    "meal_period": "Dinner",
+    "allergens": [],
+    "calories": 360,
+    "price": null,
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Grilled Chicken Breast",
+    "description": "Chicken, Grilled Breast Halal",
+    "station": "Fusion Grill",
+    "meal_period": "Dinner",
+    "allergens": [],
+    "calories": 151,
+    "price": null,
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Patty, Plant Based Smash",
+    "description": "Patty, Plant Based Smash",
+    "station": "Fusion Grill",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegan",
+      "Contains Wheat",
+      "Contains Gluten",
+      "Sustainability"
+    ],
+    "calories": 109,
+    "price": null,
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Beef Smash Burger",
+    "description": "Beef smash burger with cheddar cheese, caramelized onions, and pickled sweet bell peppers",
+    "station": "Fusion Grill",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten"
+    ],
+    "calories": 880,
+    "price": "$9.50",
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Birria Dip Burger",
+    "description": "Beef birria with toasted mozzarella cheese, pickled jalapenos, fried tortilla strips, lime crema, and seasoned avocado on bun of choice served with a side of birria consomme",
+    "station": "Fusion Grill",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten"
+    ],
+    "calories": 674,
+    "price": "$11.50",
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Breakfast Smash Burger",
+    "description": "Grilled smash patty of your choice, fried egg, cheddar cheese and hash brown on a bun",
+    "station": "Fusion Grill",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten"
+    ],
+    "calories": 894,
+    "price": "$8.00",
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Korean BBQ Smash Burger",
+    "description": "Smash burger with your choice of patty seasoned with Korean spices, served with pickled onion, kimchi slaw and Korean BBQ sauce",
+    "station": "Fusion Grill",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Fish",
+      "Contains Eggs",
+      "Contains Gluten",
+      "Contains Sesame"
+    ],
+    "calories": 829,
+    "price": "$9.00",
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Plant Based Smash Burger",
+    "description": "House made quinoa plant based burger patty with caramelized onions, sweet peppers, and CV aioli on a bun",
+    "station": "Fusion Grill",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegan",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten",
+      "Sustainability"
+    ],
+    "calories": 511,
+    "price": "$7.50",
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Chicken Tenders Combo",
+    "description": "Crispy breaded chicken tenders served with a side of french fries and a fountain drink",
+    "station": "Fusion Grill",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten"
+    ],
+    "calories": 900,
+    "price": "$12.00",
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Crispy Chicken Sandwich Combo",
+    "description": "Crispy fried breaded chicken with achiote aioli and cucumber ribbons served with a side of french fries and a fountain drink",
+    "station": "Fusion Grill",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten"
+    ],
+    "calories": 1282,
+    "price": "$14.00",
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Plant Based Smash Burger Combo",
+    "description": "House made quinoa plant based burger patty with caramelized onions, sweet peppers, and CV aioli on a bun served with a side of fries and a fountain drink",
+    "station": "Fusion Grill",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegan",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten",
+      "Sustainability"
+    ],
+    "calories": 893,
+    "price": "$14.00",
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Beef Smash Burger Combo",
+    "description": "Beef smash burger with cheddar cheese, caramelized onions, and pickled sweet bell peppers served with a side of fries and a fountain drink",
+    "station": "Fusion Grill",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten"
+    ],
+    "calories": 1261,
+    "price": "$14.00",
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Avocado, Seasoned",
+    "description": "Seasoned Avocado",
+    "station": "Fusion Grill",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegan",
+      "Sustainability"
+    ],
+    "calories": 57,
+    "price": "$1.50",
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Cheddar Cheese",
+    "description": "Cheese, Cheddar Slice",
+    "station": "Fusion Grill",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Dairy"
+    ],
+    "calories": 81,
+    "price": "$1.00",
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Swiss Cheese",
+    "description": "Cheese, Swiss Slice",
+    "station": "Fusion Grill",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Dairy"
+    ],
+    "calories": 81,
+    "price": "$1.00",
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Korean Beef Loaded Fries",
+    "description": "French fries topped with a Korean beef smash patty, jalapenos, pickled daikon and carrots, Korean bbq sauce, spicy mayo, a fried egg and green onions",
+    "station": "Fusion Grill",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Soy",
+      "Contains Eggs",
+      "Contains Sesame"
+    ],
+    "calories": 980,
+    "price": "$10.00",
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Korean Chicken Loaded Fries",
+    "description": "French fries topped with a Korean chicken thigh patty, jalapenos, pickled daikon and carrots, Korean bbq sauce, spicy mayo, a fried egg and green onions",
+    "station": "Fusion Grill",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Soy",
+      "Contains Eggs",
+      "Contains Sesame"
+    ],
+    "calories": 858,
+    "price": "$11.50",
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Plant Based Korean Loaded Fries",
+    "description": "French fries topped with a Korean plant based smash patty, jalapenos, pickled daikon and carrots, Korean bbq sauce, spicy mayo, a fried egg and green onions",
+    "station": "Fusion Grill",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegan",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten",
+      "Contains Sesame",
+      "Sustainability"
+    ],
+    "calories": 832,
+    "price": "$10.00",
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Grilled Cheese Sandwich",
+    "description": "Sandwich, Grilled Cheese Halal",
+    "station": "Fusion Grill",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten"
+    ],
+    "calories": 660,
+    "price": "$7.00",
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Grilled Chicken Breast",
+    "description": "Chicken, Marinated Halal Breast",
+    "station": "Fusion Grill",
+    "meal_period": "Dinner",
+    "allergens": [],
+    "calories": 159,
+    "price": "$6.75",
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Grilled Salmon Sandwich",
+    "description": "Grilled salmon filet on grilled sourdough bread with roasted garlic aioli, avocado, pickled daikon carrot, and lettuce",
+    "station": "Fusion Grill",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Fish",
+      "Contains Gluten",
+      "Sustainability"
+    ],
+    "calories": 856,
+    "price": "$13.00",
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Korean Crispy Chicken Sandwich",
+    "description": "Chicken tenders tossed in korean BBQ sauce and served on a toasted bun with pickled carrot & daikon",
+    "station": "Fusion Grill",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten",
+      "Contains Sesame"
+    ],
+    "calories": 725,
+    "price": "$9.25",
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Chicken Banh Mi Sandwich",
+    "description": "Sourdough bread with marinated chicken thigh, green leaf lettuce, pickled carrots & daikon radish, jalapenos, cilantro and banh mi sauce",
+    "station": "Fusion Grill",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten",
+      "Contains Sesame"
+    ],
+    "calories": 449,
+    "price": "$7.00",
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Crispy Chicken Sandwich",
+    "description": "Crispy chicken fritter sandwich with pickled cucumber ribbons and achiote aioli",
+    "station": "Fusion Grill",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten"
+    ],
+    "calories": 900,
+    "price": "$9.25",
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Achiote Aioli",
+    "description": "Spread, Achiote Aioli",
+    "station": "Fusion Grill",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Soy",
+      "Contains Eggs",
+      "Sustainability"
+    ],
+    "calories": 156,
+    "price": null,
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Cilantro Aioli",
+    "description": "Sauce, Cilantro Aioli",
+    "station": "Fusion Grill",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Soy",
+      "Sustainability"
+    ],
+    "calories": 134,
+    "price": null,
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "CV Sauce",
+    "description": "CV Sauce",
+    "station": "Fusion Grill",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegan",
+      "Contains Soy",
+      "Sustainability"
+    ],
+    "calories": 135,
+    "price": null,
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Jalapeno Cilantro Ranch",
+    "description": "Dressing, Jalapeno Cilantro Ranch",
+    "station": "Fusion Grill",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegetarian",
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Eggs"
+    ],
+    "calories": 100,
+    "price": null,
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Korean BBQ Sauce",
+    "description": "Sauce, Korean BBQ",
+    "station": "Fusion Grill",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegan",
+      "Contains Soy",
+      "Contains Sesame",
+      "Sustainability"
+    ],
+    "calories": 58,
+    "price": null,
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Chicken Tenders",
+    "description": "Crispy breaded halal chicken tenders",
+    "station": "Fusion Grill",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten"
+    ],
+    "calories": 2965,
+    "price": "$9.00",
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "French Fries",
+    "description": "Crispy Golden French Fries.",
+    "station": "Fusion Grill",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegan",
+      "Contains Soy",
+      "Sustainability"
+    ],
+    "calories": 362,
+    "price": "$4.00",
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Grilled Asparagus with Vegan Garlic Aioli",
+    "description": "Grilled asparagus with vegan garlic aioli",
+    "station": "Fusion Grill",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegan",
+      "Contains Soy",
+      "Sustainability"
+    ],
+    "calories": 161,
+    "price": "$4.00",
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Buffalo Wings Basket",
+    "description": "Chicken wings tossed in buffalo sauce and served with fries and ranch dressing",
+    "station": "Fusion Grill",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Eggs"
+    ],
+    "calories": 1626,
+    "price": "$12.00",
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Korean Chicken Wings Basket",
+    "description": "Crispy chicken wings tossed in a Korean BBQ sauce served with french fries",
+    "station": "Fusion Grill",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Soy",
+      "Contains Sesame"
+    ],
+    "calories": 1575,
+    "price": "$12.00",
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Noodles, Yakisoba",
+    "description": "Noodles, Yakisoba",
+    "station": "Three Sixty",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegan",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten",
+      "Sustainability"
+    ],
+    "calories": 405,
+    "price": null,
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Mongolian BBQ Beef Bowl",
+    "description": "Build your own Mongolian bowl with yakisoba noodles, halal beef, vegetables, and sauce",
+    "station": "Three Sixty",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten",
+      "Contains Sesame"
+    ],
+    "calories": 934,
+    "price": "$10.00",
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Mongolian BBQ Chicken Bowl",
+    "description": "Build your own Mongolian bowl with yakisoba noodles, halal chicken, vegetables, and sauce",
+    "station": "Three Sixty",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten",
+      "Contains Sesame"
+    ],
+    "calories": 845,
+    "price": "$10.00",
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Mongolian BBQ Tofu Bowl",
+    "description": "Build your own Mongolian bowl with yakisoba noodles, seared tofu, vegetables, and sauce",
+    "station": "Three Sixty",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten",
+      "Contains Sesame",
+      "Sustainability"
+    ],
+    "calories": 940,
+    "price": "$9.50",
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Mongolian BBQ Vegetable Bowl",
+    "description": "Build your own Mongolian bowl with yakisoba noodles, vegetables, and sauce",
+    "station": "Three Sixty",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten",
+      "Contains Sesame",
+      "Sustainability"
+    ],
+    "calories": 770,
+    "price": "$7.00",
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Baby Corn",
+    "description": "Corn, Baby",
+    "station": "Three Sixty",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Sustainability"
+    ],
+    "calories": 9,
+    "price": null,
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Bamboo Shoots",
+    "description": "Bamboo, Shoots Sliced",
+    "station": "Three Sixty",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegan",
+      "Sustainability"
+    ],
+    "calories": 4,
+    "price": null,
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Bean Sprouts",
+    "description": "Sprouts, Bean",
+    "station": "Three Sixty",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Sustainability"
+    ],
+    "calories": 9,
+    "price": null,
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Chinese Long Beans",
+    "description": "Vegetable, Chinese Long Beans Blanched",
+    "station": "Three Sixty",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegan",
+      "Sustainability"
+    ],
+    "calories": 12,
+    "price": null,
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Rice Noodles",
+    "description": "Noodles, Rice Pad Thai",
+    "station": "Three Sixty",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegan",
+      "Sustainability"
+    ],
+    "calories": 303,
+    "price": null,
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Shiitake Mushrooms",
+    "description": "Mushrooms, Blanched Shiitake Sliced",
+    "station": "Three Sixty",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegan",
+      "Sustainability"
+    ],
+    "calories": 6,
+    "price": null,
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Shredded Napa Cabbage",
+    "description": "Shredded Napa Cabbage",
+    "station": "Three Sixty",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegan",
+      "Sustainability"
+    ],
+    "calories": 3,
+    "price": null,
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Sliced Carrot",
+    "description": "Carrot, Sliced",
+    "station": "Three Sixty",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Sustainability"
+    ],
+    "calories": 11,
+    "price": null,
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Sliced Green Onion",
+    "description": "Green Onion, Sliced",
+    "station": "Three Sixty",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegan",
+      "Sustainability"
+    ],
+    "calories": 9,
+    "price": null,
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Sliced Jalapeno",
+    "description": "Jalapeno, Sliced Fresh",
+    "station": "Three Sixty",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Sustainability"
+    ],
+    "calories": 8,
+    "price": null,
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Sliced Red Bell Pepper",
+    "description": "Pepper, Red Bell Sliced",
+    "station": "Three Sixty",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Sustainability"
+    ],
+    "calories": 8,
+    "price": null,
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Sliced Red Onion",
+    "description": "Onion, Red Sliced",
+    "station": "Three Sixty",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Sustainability"
+    ],
+    "calories": 12,
+    "price": null,
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Snap Peas",
+    "description": "Peas, Snap",
+    "station": "Three Sixty",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Sustainability"
+    ],
+    "calories": 8,
+    "price": null,
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Steamed Broccoli",
+    "description": "Broccoli, Steamed",
+    "station": "Three Sixty",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Sustainability"
+    ],
+    "calories": 9,
+    "price": null,
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Water Chestnuts",
+    "description": "Water Chestnut, Sliced",
+    "station": "Three Sixty",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Sustainability"
+    ],
+    "calories": 11,
+    "price": null,
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Milk Tea Pudding",
+    "description": "Milk tea pudding topped with boba",
+    "station": "Three Sixty",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegetarian",
+      "Contains Dairy",
+      "Contains Eggs"
+    ],
+    "calories": 446,
+    "price": "$4.00",
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Sticky Rice Crackle",
+    "description": "A crunchy rice cracker flavored with as coconut caramel sauce and topped with a mango puree",
+    "station": "Three Sixty",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegan",
+      "Sustainability"
+    ],
+    "calories": 287,
+    "price": "$3.00",
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "House Mongolian Sauce",
+    "description": "Sauce, House Mongolian",
+    "station": "Three Sixty",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegan",
+      "Contains Soy",
+      "Sustainability"
+    ],
+    "calories": 5,
+    "price": null,
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Lemongrass Ginger Stir Fry Sauce",
+    "description": "Sauce, Lemongrass Ginger Stir Fry",
+    "station": "Three Sixty",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Sustainability"
+    ],
+    "calories": 76,
+    "price": null,
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Oil, Chili Garlic",
+    "description": "Oil, Chili Garlic",
+    "station": "Three Sixty",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Sustainability"
+    ],
+    "calories": 223,
+    "price": null,
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Spicy Chili Dragon Sauce",
+    "description": "Sauce, Spicy Chili Dragon",
+    "station": "Three Sixty",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Soy",
+      "Sustainability"
+    ],
+    "calories": 38,
+    "price": null,
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "BYO Yogurt Parfait",
+    "description": "Plain Greek yogurt served with your preference of 4 toppings.",
+    "station": "Fresh",
+    "meal_period": "Brunch",
+    "allergens": [
+      "Contains Dairy",
+      "Contains TreeNuts"
+    ],
+    "calories": 329,
+    "price": "$7.75",
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Acai Banana Smoothie",
+    "description": "Smoothie made with acai berry sorbet, banana, strawberries, blueberries, and yogurt garnished with coconut flakes and hemp seeds",
+    "station": "Fresh",
+    "meal_period": "Brunch",
+    "allergens": [
+      "Contains Dairy",
+      "Sustainability"
+    ],
+    "calories": 379,
+    "price": "$8.00",
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Matcha Mango Smoothie",
+    "description": "Smoothie made with green tea matcha, banana, mango, oat milk, and vanilla extract garnished with coconut flakes",
+    "station": "Fresh",
+    "meal_period": "Brunch",
+    "allergens": [
+      "Sustainability"
+    ],
+    "calories": 287,
+    "price": "$8.00",
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Steel Cut Oatmeal",
+    "description": "Hot steel cut oats with your choice of toppings",
+    "station": "Fresh",
+    "meal_period": "Brunch",
+    "allergens": [
+      "Vegan",
+      "Sustainability"
+    ],
+    "calories": 115,
+    "price": "$3.50",
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Acai Bowl",
+    "description": "Acai sorbet with strawberry, mango, banana, blueberry, coconut and granola",
+    "station": "Fresh",
+    "meal_period": "Brunch",
+    "allergens": [
+      "Sustainability"
+    ],
+    "calories": 440,
+    "price": "$10.50",
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Chicken Congee Power Bowl",
+    "description": "Congee topped with char siu chicken, smoky mushrooms, half of a ramen egg, garlic chili crunch oil and sliced green onions",
+    "station": "Fresh",
+    "meal_period": "Brunch",
+    "allergens": [
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten",
+      "Contains Sesame"
+    ],
+    "calories": 644,
+    "price": "$9.50",
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Sunbutter and Jelly Overnight Oats",
+    "description": "Sunbuter overnight oats topped with macerated berries and cobbler crumble",
+    "station": "Fresh",
+    "meal_period": "Brunch",
+    "allergens": [
+      "Vegetarian",
+      "Contains Dairy",
+      "Contains Wheat",
+      "Contains Gluten",
+      "Sustainability"
+    ],
+    "calories": 475,
+    "price": "$5.50",
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Apple, Wedge",
+    "description": "Apple, Wedge",
+    "station": "Fresh",
+    "meal_period": "Brunch",
+    "allergens": [
+      "Sustainability"
+    ],
+    "calories": 10,
+    "price": null,
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Mango Chunks",
+    "description": "Mango, Chunks",
+    "station": "Fresh",
+    "meal_period": "Brunch",
+    "allergens": [
+      "Sustainability"
+    ],
+    "calories": 16,
+    "price": null,
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Pineapple",
+    "description": "Pineapple, Fresh Cut",
+    "station": "Fresh",
+    "meal_period": "Brunch",
+    "allergens": [
+      "Sustainability"
+    ],
+    "calories": 14,
+    "price": null,
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Pomegranate Seeds",
+    "description": "Pomegranate, Seeds",
+    "station": "Fresh",
+    "meal_period": "Brunch",
+    "allergens": [
+      "Sustainability"
+    ],
+    "calories": 23,
+    "price": null,
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Sliced Bananas",
+    "description": "Sliced Bananas",
+    "station": "Fresh",
+    "meal_period": "Brunch",
+    "allergens": [
+      "Sustainability"
+    ],
+    "calories": 25,
+    "price": null,
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Spiced Crunchy Quinoa",
+    "description": "Grain, Spiced Crunchy Quinoa",
+    "station": "Fresh",
+    "meal_period": "Brunch",
+    "allergens": [
+      "Vegan",
+      "Sustainability"
+    ],
+    "calories": 47,
+    "price": null,
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Fresh Fruit Salad",
+    "description": "Mix of fresh seasonal fruits",
+    "station": "Fusion Grill",
+    "meal_period": "Brunch",
+    "allergens": [
+      "Vegan",
+      "Sustainability"
+    ],
+    "calories": 44,
+    "price": "$3.75",
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Fried Egg",
+    "description": "Whole egg, cooked to order.",
+    "station": "Fusion Grill",
+    "meal_period": "Brunch",
+    "allergens": [
+      "Vegetarian",
+      "Contains Eggs"
+    ],
+    "calories": 78,
+    "price": "$2.25",
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Hash Brown Triangles",
+    "description": "Crispy fried potato hash brown triangles",
+    "station": "Fusion Grill",
+    "meal_period": "Brunch",
+    "allergens": [
+      "Vegan",
+      "Contains Soy",
+      "Sustainability"
+    ],
+    "calories": 324,
+    "price": "$4.00",
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Herbed Beef Sausage",
+    "description": "Sausage, Halal Herbed Beef",
+    "station": "Fusion Grill",
+    "meal_period": "Brunch",
+    "allergens": [
+      "Contains Dairy"
+    ],
+    "calories": 339,
+    "price": "$3.75",
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Scrambled Egg Whites",
+    "description": "Scrambled egg whites",
+    "station": "Fusion Grill",
+    "meal_period": "Brunch",
+    "allergens": [
+      "Vegetarian",
+      "Contains Eggs"
+    ],
+    "calories": 51,
+    "price": "$3.00",
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Scrambled Eggs",
+    "description": "Scrambled Eggs",
+    "station": "Fusion Grill",
+    "meal_period": "Brunch",
+    "allergens": [
+      "Vegetarian",
+      "Contains Eggs"
+    ],
+    "calories": 132,
+    "price": "$3.00",
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Tater Tots",
+    "description": "Side, Fried Tater Tots",
+    "station": "Fusion Grill",
+    "meal_period": "Brunch",
+    "allergens": [
+      "Vegan",
+      "Contains Soy",
+      "Sustainability"
+    ],
+    "calories": 398,
+    "price": "$4.00",
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Toast (Sourdough, Wheat, English Muffin)",
+    "description": "Side, Assorted Toast",
+    "station": "Fusion Grill",
+    "meal_period": "Brunch",
+    "allergens": [
+      "Vegan",
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten",
+      "Contains Sesame",
+      "Sustainability"
+    ],
+    "calories": 178,
+    "price": "$1.50",
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Veggie Sausage",
+    "description": "Vegan sausage patty.",
+    "station": "Fusion Grill",
+    "meal_period": "Brunch",
+    "allergens": [
+      "Vegan",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten",
+      "Sustainability"
+    ],
+    "calories": 139,
+    "price": "$2.00",
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Beef Sausage Breakfast Burrito",
+    "description": "Burrito, Breakfast CV Beef Sausage",
+    "station": "Fusion Grill",
+    "meal_period": "Brunch",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten"
+    ],
+    "calories": 1119,
+    "price": "$9.00",
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Breakfast Burrito",
+    "description": "Burrito, Breakfast CV No Protein",
+    "station": "Fusion Grill",
+    "meal_period": "Brunch",
+    "allergens": [
+      "Vegetarian",
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten"
+    ],
+    "calories": 794,
+    "price": "$7.50",
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Spinach Soyrizo Breakfast Burrito",
+    "description": "Burrito, Breakfast CV Spinach Soyrizo",
+    "station": "Fusion Grill",
+    "meal_period": "Brunch",
+    "allergens": [
+      "Vegetarian",
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten"
+    ],
+    "calories": 897,
+    "price": "$9.00",
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Avocado Toast",
+    "description": "Grilled hoagie roll with avocado, tomato, feta cheese, and a pepita gremolata",
+    "station": "Fusion Grill",
+    "meal_period": "Brunch",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten",
+      "Sustainability"
+    ],
+    "calories": 167,
+    "price": "$5.75",
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Biscuits and Gravy with Sausage",
+    "description": "House made buttermilk cheddar biscuits with beef sausage gravy",
+    "station": "Fusion Grill",
+    "meal_period": "Brunch",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten"
+    ],
+    "calories": 517,
+    "price": "$4.75",
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Buttermilk Pancakes",
+    "description": "3 Buttermilk Pancakes",
+    "station": "Fusion Grill",
+    "meal_period": "Brunch",
+    "allergens": [
+      "Vegetarian",
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten"
+    ],
+    "calories": 92,
+    "price": "$6.00",
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Challah French Toast",
+    "description": "Grilled custard battered Challah French toast with a sprinkle of powdered sugar.",
+    "station": "Fusion Grill",
+    "meal_period": "Brunch",
+    "allergens": [
+      "Vegetarian",
+      "Contains Dairy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten"
+    ],
+    "calories": 486,
+    "price": "$6.00",
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Loco Moco Plate",
+    "description": "Plate, Loco Moco Halal",
+    "station": "Fusion Grill",
+    "meal_period": "Brunch",
+    "allergens": [
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten"
+    ],
+    "calories": 615,
+    "price": "$9.50",
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Sweet Potato Pancakes",
+    "description": "Pancake, Sweet Potato",
+    "station": "Fusion Grill",
+    "meal_period": "Brunch",
+    "allergens": [
+      "Vegetarian",
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten"
+    ],
+    "calories": 368,
+    "price": "$7.00",
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "King Triton Beef Sausage Breakfast Sandwich",
+    "description": "Sandwich, King Triton Breakfast Beef Sausage",
+    "station": "Fusion Grill",
+    "meal_period": "Brunch",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten"
+    ],
+    "calories": 1081,
+    "price": "$9.50",
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "King Triton Breakfast Sandwich",
+    "description": "Sandwich, King Triton Breakfast CV",
+    "station": "Fusion Grill",
+    "meal_period": "Brunch",
+    "allergens": [
+      "Vegetarian",
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten"
+    ],
+    "calories": 786,
+    "price": "$8.00",
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "King Triton Veggie Sausage Breakfast Sandwich",
+    "description": "Veggie sausage patty, a fried egg, Cheddar cheese, and Triton sauce on grilled Hawaiian bread",
+    "station": "Fusion Grill",
+    "meal_period": "Brunch",
+    "allergens": [
+      "Vegetarian",
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten"
+    ],
+    "calories": 925,
+    "price": "$9.50",
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "California Burrito",
+    "description": "Grilled carne asada, fries, guacamole, sour cream, pico de gallo and cheddar jack cheese in a tortilla",
+    "station": "Fusion Grill",
+    "meal_period": "Brunch",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten"
+    ],
+    "calories": 720,
+    "price": "$10.50",
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Sweet Cream Cheese Cinnamon Roll",
+    "description": "Cinnamon roll with sweet cream cheese icing",
+    "station": "Fusion Grill",
+    "meal_period": "Brunch",
+    "allergens": [
+      "Vegetarian",
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten"
+    ],
+    "calories": 605,
+    "price": "$5.00",
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Avocado",
+    "description": "Avocado, Pulp",
+    "station": "Fusion Grill",
+    "meal_period": "Brunch",
+    "allergens": [
+      "Sustainability"
+    ],
+    "calories": 62,
+    "price": "$1.50",
+    "location": "Canyon Vista Marketplace",
+    "date": "Sunday, June 07 2026"
+  }
+]

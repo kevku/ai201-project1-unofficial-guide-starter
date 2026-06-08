@@ -1,0 +1,4029 @@
+[
+  {
+    "name": "Berry Tart",
+    "description": "Tart shell filled with vanilla creme topped with mixed berry filling and garnished with spiced crunchy quinoa",
+    "station": "Crave",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Vegetarian",
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten"
+    ],
+    "calories": 349,
+    "price": "$4.75",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Chocolate Chunk Cookie",
+    "description": "David's Double Chocolate Chip Cookie",
+    "station": "Crave",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Vegetarian",
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten"
+    ],
+    "calories": 369,
+    "price": "$2.75",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Oatmeal Raisin Cookie",
+    "description": "David's Oatmeal Raisin Cookie",
+    "station": "Crave",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Vegetarian",
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten"
+    ],
+    "calories": 350,
+    "price": "$2.75",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "White Chocolate Macadamia Cookie",
+    "description": "David's White Chocolate Chip Macadamia Nut Cookie",
+    "station": "Crave",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Vegetarian",
+      "Contains Dairy",
+      "Contains TreeNuts",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten"
+    ],
+    "calories": 400,
+    "price": "$2.75",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Grilled Salmon",
+    "description": "Fish, Grilled Salmon 3oz",
+    "station": "Crave",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Contains Fish",
+      "Sustainability"
+    ],
+    "calories": 190,
+    "price": "$2.00",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Seared Ahi Tuna",
+    "description": "Tuna, Seared Ahi",
+    "station": "Crave",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Contains Fish",
+      "Contains Sesame",
+      "Sustainability"
+    ],
+    "calories": 107,
+    "price": "$1.00",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Mediterranean Grain Salad with Chicken",
+    "description": "Winter grain mix and greens with roasted yams, red bell peppers, cauliflower, with choice of dressing and stinging chicken",
+    "station": "Crave",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Contains Dairy",
+      "Contains TreeNuts",
+      "Contains Wheat",
+      "Contains Gluten"
+    ],
+    "calories": 354,
+    "price": "$11.00",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Mediterranean Grain Salad with Galbi Tempeh",
+    "description": "Grain mix with roasted vegetables and galbi tempeh with choice of dressing",
+    "station": "Crave",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Vegetarian",
+      "Contains Dairy",
+      "Contains TreeNuts",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten",
+      "Contains Sesame",
+      "Sustainability"
+    ],
+    "calories": 393,
+    "price": "$11.00",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Spring Bounty Bowl with Galbi Tempeh",
+    "description": "Arugula, kale, ratatouille mixed with grains, pickled red cabbage, grilled avocado, cucumber, tomato confit, feta cheese, and galbi tempeh garnished with crunchy chickpeas",
+    "station": "Crave",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Vegetarian",
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten",
+      "Contains Sesame",
+      "Sustainability"
+    ],
+    "calories": 415,
+    "price": "$11.00",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Spring Bounty Chicken Bowl",
+    "description": "Arugula, kale, ratatouille mixed with grains, pickled red cabbagge, grilled avocado, cucumber, tomato confit, feta cheese, and stinging chicken garnished with crunchy chickpeas",
+    "station": "Crave",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Wheat",
+      "Contains Gluten"
+    ],
+    "calories": 376,
+    "price": "$11.00",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Udon Noodle Salad with Chicken",
+    "description": "Udon noodles, spring mix, arugula, baby kale, grilled pear, pepitas and dried cranberries with stinging chicken and choice of dressing",
+    "station": "Crave",
+    "meal_period": "Lunch",
+    "allergens": [],
+    "calories": 471,
+    "price": "$10.00",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Udon Noodle Salad with Galbi Tempeh",
+    "description": "Udon noodles, spring mix, arugula, baby kale, grilled pear, pepitas and dried cranberries with galbi tempeh and choice of dressing",
+    "station": "Crave",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Vegan",
+      "Contains Soy",
+      "Contains Sesame",
+      "Sustainability"
+    ],
+    "calories": 508,
+    "price": "$11.00",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Galbi Tempeh Banh Mi Sandwich",
+    "description": "Toasted Amoroso roll with hoisin aioli, pickled banh mi slaad, cilantro, Thai basil, and galbi tempeh",
+    "station": "Crave",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Vegan",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten",
+      "Contains Sesame",
+      "Sustainability"
+    ],
+    "calories": 588,
+    "price": "$9.50",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Stinging Chicken Banh Mi Sandwich",
+    "description": "Toasted Amoroso roll with hoisin aioli, pickled banh mi slaad, cilantro, Thai basil, and stinging chicken",
+    "station": "Crave",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten",
+      "Contains Sesame"
+    ],
+    "calories": 535,
+    "price": "$11.00",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Strawberry Fields Wrap with Chicken",
+    "description": "Wrap with pickled red cabbage, arugula, kale, strawberries, feta cheese, broccoli slaw, dried cranberries, roasted beets, and stinging chicken",
+    "station": "Crave",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Contains Dairy",
+      "Contains TreeNuts",
+      "Contains Wheat",
+      "Contains Gluten"
+    ],
+    "calories": 687,
+    "price": "$10.00",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Strawberry Fields Wrap with Galbi Tempeh",
+    "description": "Wrap with pickled red cabbage, arugula, kale, strawberries, feta cheese, broccoli slaw, dried cranberries, roasted beets, and galbi tempeh",
+    "station": "Crave",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Vegetarian",
+      "Contains Dairy",
+      "Contains TreeNuts",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten",
+      "Contains Sesame",
+      "Sustainability"
+    ],
+    "calories": 726,
+    "price": "$9.50",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Dressing, Avocado",
+    "description": "Dressing, Avocado",
+    "station": "Crave",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Sustainability"
+    ],
+    "calories": 65,
+    "price": null,
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Dressing, Balsamic Vinaigrette",
+    "description": "Dressing, Balsamic Vinaigrette",
+    "station": "Crave",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Vegan",
+      "Sustainability"
+    ],
+    "calories": 176,
+    "price": null,
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Sesame Ginger Vinaigrette",
+    "description": "Dressing, Sesame Ginger Vinaigrette",
+    "station": "Crave",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Vegan",
+      "Contains Soy",
+      "Contains Sesame",
+      "Sustainability"
+    ],
+    "calories": 80,
+    "price": null,
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Steamed Calrose Rice",
+    "description": "Steamed Calrose Rice",
+    "station": "Makai",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Vegan",
+      "Sustainability"
+    ],
+    "calories": 197,
+    "price": "$2.50",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Cali Poke Bowl with Greens",
+    "description": "Salmon, krab, cucumber, seaweed, pickled carrots,  avocado, lava sauce and spicy mayo",
+    "station": "Makai",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Fish",
+      "Contains Eggs",
+      "Contains Gluten",
+      "Contains Sesame",
+      "Sustainability"
+    ],
+    "calories": 537,
+    "price": "$11.50",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Cali Poke Bowl with Rice",
+    "description": "Salmon, krab, cucumber, seaweed, pickled carrots,  avocado, lava sauce and spicy mayo served over rice",
+    "station": "Makai",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Fish",
+      "Contains Eggs",
+      "Contains Gluten",
+      "Contains Sesame",
+      "Sustainability"
+    ],
+    "calories": 826,
+    "price": "$11.50",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Chimichurri Octopus Bowl with Rice",
+    "description": "Rice with chimichurri octopus, radish, carrots, green onions, kimchi, cucumber, sliced jalapenos and spicy mayo",
+    "station": "Makai",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Contains Soy",
+      "Contains Shellfish",
+      "Sustainability"
+    ],
+    "calories": 961,
+    "price": "$16.00",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Chumuchurri Octopus Bowl with Greens",
+    "description": "Mixed greens with chimichurri octopus, radish, carrots, green onions, kimchi, cucumber, sliced jalapenos and spicy mayo",
+    "station": "Makai",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Contains Soy",
+      "Contains Shellfish",
+      "Sustainability"
+    ],
+    "calories": 670,
+    "price": "$16.00",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Lava Poke Bowl with Greens",
+    "description": "Ahi tuna, spicy tuna, spicy krab with cucumber, pickled ginger, radish, edamame, jalapeno, spicy lava sauce and cilantro served over mixed greens",
+    "station": "Makai",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Fish",
+      "Contains Eggs",
+      "Contains Gluten",
+      "Contains Sesame",
+      "Sustainability"
+    ],
+    "calories": 318,
+    "price": "$11.50",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Lava Poke Bowl with Rice",
+    "description": "Ahi tuna, spicy tuna, spicy krab with cucumber, pickled ginger, radish, edamame, jalapeno, spicy lava sauce and cilantro served over rice",
+    "station": "Makai",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Fish",
+      "Contains Eggs",
+      "Contains Gluten",
+      "Contains Sesame",
+      "Sustainability"
+    ],
+    "calories": 611,
+    "price": "$11.50",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Lilo Poke Bowl with Greens",
+    "description": "Tofu, cucumbers, seaweed salad, edamame, avocado, red cabbage, carrots and cilantro with ponzu sauce served over mixed greens",
+    "station": "Makai",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Vegan",
+      "Contains Soy",
+      "Contains Sesame",
+      "Sustainability"
+    ],
+    "calories": 318,
+    "price": "$11.50",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Lilo Poke Bowl with Rice",
+    "description": "Tofu, cucumbers, seaweed salad, edamame, avocado, red cabbage, carrots and cilantro with ponzu sauce served over rice",
+    "station": "Makai",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Vegan",
+      "Contains Soy",
+      "Contains Sesame",
+      "Sustainability"
+    ],
+    "calories": 606,
+    "price": "$11.50",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Makai BYO Poke Bowl",
+    "description": "Choose your own base, protein, toppings and sauce",
+    "station": "Makai",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Fish",
+      "Contains Eggs",
+      "Contains Gluten",
+      "Contains Sesame",
+      "Sustainability"
+    ],
+    "calories": 892,
+    "price": "$14.00",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Makai Poke Bowl with Greens",
+    "description": "Ahi tuna, salmon, red cabbage, cucumber, carrot, edamame and seaweed salad with makai house sauce and sesame seeds served over mixed greens",
+    "station": "Makai",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Contains Soy",
+      "Contains Fish",
+      "Contains Sesame",
+      "Sustainability"
+    ],
+    "calories": 347,
+    "price": "$11.50",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Makai Poke Bowl with Rice",
+    "description": "Ahi tuna, salmon, red cabbage, cucumber, carrot, edamame and seaweed salad with Makai house sauce and sesame seeds served over rice",
+    "station": "Makai",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Fish",
+      "Contains Gluten",
+      "Contains Sesame",
+      "Sustainability"
+    ],
+    "calories": 661,
+    "price": "$11.50",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Cilantro",
+    "description": "Cilantro, Chopped",
+    "station": "Makai",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Vegan",
+      "Sustainability"
+    ],
+    "calories": 1,
+    "price": null,
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Crispy Onions",
+    "description": "Onion, Crispy Topping",
+    "station": "Makai",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Vegan",
+      "Contains Wheat",
+      "Contains Gluten",
+      "Sustainability"
+    ],
+    "calories": 81,
+    "price": null,
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Cubed Tofu",
+    "description": "Cubed Firm Tofu",
+    "station": "Makai",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Vegan",
+      "Contains Soy",
+      "Sustainability"
+    ],
+    "calories": 61,
+    "price": "$3.00",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Edamame",
+    "description": "Edamame, Shell Off",
+    "station": "Makai",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Vegan",
+      "Contains Soy",
+      "Sustainability"
+    ],
+    "calories": 30,
+    "price": null,
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Jalapeno",
+    "description": "Jalapeno, Sliced",
+    "station": "Makai",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Vegan",
+      "Sustainability"
+    ],
+    "calories": 8,
+    "price": null,
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Makai Grilled Octopus",
+    "description": "Octopus, Makai Grilled",
+    "station": "Makai",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Contains Shellfish",
+      "Sustainability"
+    ],
+    "calories": 47,
+    "price": "$5.00",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Makai Sauce",
+    "description": "Sauce, House Makai",
+    "station": "Makai",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Vegan",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten",
+      "Contains Sesame",
+      "Sustainability"
+    ],
+    "calories": 57,
+    "price": null,
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Mixed Greens",
+    "description": "Base, Mixed Greens",
+    "station": "Makai",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Vegan",
+      "Sustainability"
+    ],
+    "calories": 4,
+    "price": null,
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Pickled Ginger",
+    "description": "Ginger, Pickled",
+    "station": "Makai",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Sustainability"
+    ],
+    "calories": 10,
+    "price": null,
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Pickled Red Onion",
+    "description": "Onion, Pickled Red",
+    "station": "Makai",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Vegan",
+      "Sustainability"
+    ],
+    "calories": 12,
+    "price": null,
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Seafood, Krab Mix",
+    "description": "Seafood, Krab Mix",
+    "station": "Makai",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Fish",
+      "Contains Eggs",
+      "Contains Gluten",
+      "Sustainability"
+    ],
+    "calories": 56,
+    "price": "$2.00",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Seafood, Spicy Krab Mix",
+    "description": "Seafood, Spicy Krab Mix",
+    "station": "Makai",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Fish",
+      "Contains Eggs",
+      "Contains Gluten",
+      "Sustainability"
+    ],
+    "calories": 54,
+    "price": "$1.75",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Seaweed Salad",
+    "description": "Seaweed Salad, Pre Made",
+    "station": "Makai",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Vegan",
+      "Contains Sesame",
+      "Sustainability"
+    ],
+    "calories": 30,
+    "price": "$1.75",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Shredded Carrots",
+    "description": "Carrot, Matchstick",
+    "station": "Makai",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Vegan",
+      "Sustainability"
+    ],
+    "calories": 11,
+    "price": null,
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Shredded Radish",
+    "description": "Radish, Side",
+    "station": "Makai",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Vegan",
+      "Sustainability"
+    ],
+    "calories": 4,
+    "price": null,
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Sliced Cucumber",
+    "description": "Cucumbers, Sliced",
+    "station": "Makai",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Vegan",
+      "Sustainability"
+    ],
+    "calories": 4,
+    "price": null,
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Sliced Green Onion",
+    "description": "Green Onion, Sliced",
+    "station": "Makai",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Vegan",
+      "Sustainability"
+    ],
+    "calories": 4,
+    "price": null,
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Spicy Tuna",
+    "description": "Spicy Tuna Mix",
+    "station": "Makai",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Contains Soy",
+      "Contains Fish",
+      "Contains Sesame",
+      "Sustainability"
+    ],
+    "calories": 53,
+    "price": "$3.00",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Steamed Brown Rice",
+    "description": "Steamed brown rice",
+    "station": "Makai",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Vegan",
+      "Sustainability"
+    ],
+    "calories": 145,
+    "price": null,
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Wonton Strips",
+    "description": "Topping, Wonton Strips",
+    "station": "Makai",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten",
+      "Sustainability"
+    ],
+    "calories": 14,
+    "price": null,
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Avocado",
+    "description": "Avocado, Pulp",
+    "station": "Makai",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Sustainability"
+    ],
+    "calories": 62,
+    "price": "$1.50",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Makai Ahi Tuna",
+    "description": "Cubed Ahi Yellowfin Tuna",
+    "station": "Makai",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Contains Fish",
+      "Sustainability"
+    ],
+    "calories": 46,
+    "price": "$5.00",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Salmon Poke",
+    "description": "Add On, Atlantic Salmon Cubes",
+    "station": "Makai",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Contains Fish",
+      "Sustainability"
+    ],
+    "calories": 88,
+    "price": "$5.00",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Lava Sauce",
+    "description": "Sweet chile and garlic soy.",
+    "station": "Makai",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Vegan",
+      "Contains Soy",
+      "Sustainability"
+    ],
+    "calories": 43,
+    "price": null,
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Ponzu Sauce",
+    "description": "Ponzu Sauce",
+    "station": "Makai",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Vegan",
+      "Contains Soy",
+      "Contains Sesame",
+      "Sustainability"
+    ],
+    "calories": 24,
+    "price": null,
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Sauce, Spicy Mayo",
+    "description": "Sauce, Spicy Mayo",
+    "station": "Makai",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Vegan",
+      "Contains Soy",
+      "Sustainability"
+    ],
+    "calories": 173,
+    "price": null,
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Wasabi Creme",
+    "description": "Creme, Wasabi",
+    "station": "Makai",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Eggs"
+    ],
+    "calories": 141,
+    "price": null,
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Chips and Guacamole",
+    "description": "Side, Chips and Guacamole",
+    "station": "Wolftown Latin",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Vegan",
+      "Sustainability"
+    ],
+    "calories": 258,
+    "price": "$3.50",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Tortilla Chips",
+    "description": "Chips, Tortilla",
+    "station": "Wolftown Latin",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Vegan",
+      "Sustainability"
+    ],
+    "calories": 168,
+    "price": "$2.00",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Wolftown Bowl",
+    "description": "Bowl with choice of protein, rice, beans, toppings, and extras",
+    "station": "Wolftown Latin",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy"
+    ],
+    "calories": 525,
+    "price": "$9.00",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Wolftown Burrito",
+    "description": "Burrito with choice of tortilla, rice, beans, protein, toppings, and extras",
+    "station": "Wolftown Latin",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten"
+    ],
+    "calories": 905,
+    "price": "$10.00",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Wolftown Nachos",
+    "description": "Tortilla chips with cheese sauce and choice of protein, beans, toppings, and extras",
+    "station": "Wolftown Latin",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy"
+    ],
+    "calories": 770,
+    "price": "$10.50",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Horchata",
+    "description": "Sweetened rice beverage with almond milk and cinnamon",
+    "station": "Wolftown Latin",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Vegan",
+      "Contains TreeNuts",
+      "Sustainability"
+    ],
+    "calories": 125,
+    "price": "$3.75",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Corn Salsa",
+    "description": "Salsa, Corn",
+    "station": "Wolftown Latin",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Vegan",
+      "Sustainability"
+    ],
+    "calories": 23,
+    "price": null,
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Crispy Onions",
+    "description": "Onion, Crispy Topping",
+    "station": "Wolftown Latin",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Vegan",
+      "Contains Wheat",
+      "Contains Gluten",
+      "Sustainability"
+    ],
+    "calories": 81,
+    "price": null,
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Guacamole",
+    "description": "Mashed avocado, tomatoes, onions, cilantro, jalapeno peppers, lime juice, and salt",
+    "station": "Wolftown Latin",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Vegan",
+      "Sustainability"
+    ],
+    "calories": 44,
+    "price": "$1.50",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Shredded Cheddar Jack Cheese",
+    "description": "Cheese, Shredded Cheddar Jack",
+    "station": "Wolftown Latin",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Vegetarian",
+      "Contains Dairy"
+    ],
+    "calories": 111,
+    "price": null,
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Shredded Lettuce",
+    "description": "Lettuce, Shredded",
+    "station": "Wolftown Latin",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Vegan",
+      "Sustainability"
+    ],
+    "calories": 4,
+    "price": null,
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Sour Cream",
+    "description": "Sour Cream",
+    "station": "Wolftown Latin",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Vegetarian",
+      "Contains Dairy"
+    ],
+    "calories": 56,
+    "price": "$1.00",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Takis",
+    "description": "Takis",
+    "station": "Wolftown Latin",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Vegan",
+      "Contains Soy",
+      "Sustainability"
+    ],
+    "calories": 36,
+    "price": null,
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Churro",
+    "description": "Baked churro coated in cinnamon sugar",
+    "station": "Wolftown Latin",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Vegetarian",
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten"
+    ],
+    "calories": 224,
+    "price": "$3.50",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Achiote Chicken",
+    "description": "Chicken, Achiote",
+    "station": "Wolftown Latin",
+    "meal_period": "Lunch",
+    "allergens": [],
+    "calories": 132,
+    "price": null,
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Beef Carne Asada",
+    "description": "Beef, Carne Asada",
+    "station": "Wolftown Latin",
+    "meal_period": "Lunch",
+    "allergens": [],
+    "calories": 198,
+    "price": "$1.00",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Mushroom Fajitas",
+    "description": "Fajitas, Mushroom",
+    "station": "Wolftown Latin",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Sustainability"
+    ],
+    "calories": 38,
+    "price": null,
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Pork Adobada",
+    "description": "Pork, Adobada",
+    "station": "Wolftown Latin",
+    "meal_period": "Lunch",
+    "allergens": [],
+    "calories": 244,
+    "price": "$1.00",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Jalapeno Cheese Sauce",
+    "description": "Sauce, Cheese Jalapeno",
+    "station": "Wolftown Latin",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Vegetarian",
+      "Contains Dairy",
+      "Contains Soy"
+    ],
+    "calories": 26,
+    "price": "$1.75",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Cantina Beans",
+    "description": "Pinto and refried beans stewed with onion, jalapeno, tomato, soyrizo, and spices",
+    "station": "Wolftown Latin",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Vegan",
+      "Contains Soy",
+      "Sustainability"
+    ],
+    "calories": 118,
+    "price": "$3.75",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Spanish Rice",
+    "description": "Traditional Spanish rice",
+    "station": "Wolftown Latin",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Vegan",
+      "Sustainability"
+    ],
+    "calories": 174,
+    "price": "$2.50",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Horchata",
+    "description": "Sweetened rice beverage with almond milk and cinnamon",
+    "station": "Wolftown Street",
+    "meal_period": "Lunch",
+    "allergens": [
+      "Vegan",
+      "Contains TreeNuts",
+      "Sustainability"
+    ],
+    "calories": 125,
+    "price": "$3.75",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Berry Tart",
+    "description": "Tart shell filled with vanilla creme topped with mixed berry filling and garnished with spiced crunchy quinoa",
+    "station": "Crave",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegetarian",
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten"
+    ],
+    "calories": 349,
+    "price": "$4.75",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Chocolate Chunk Cookie",
+    "description": "David's Double Chocolate Chip Cookie",
+    "station": "Crave",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegetarian",
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten"
+    ],
+    "calories": 369,
+    "price": "$2.75",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Oatmeal Raisin Cookie",
+    "description": "David's Oatmeal Raisin Cookie",
+    "station": "Crave",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegetarian",
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten"
+    ],
+    "calories": 350,
+    "price": "$2.75",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "White Chocolate Macadamia Cookie",
+    "description": "David's White Chocolate Chip Macadamia Nut Cookie",
+    "station": "Crave",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegetarian",
+      "Contains Dairy",
+      "Contains TreeNuts",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten"
+    ],
+    "calories": 400,
+    "price": "$2.75",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Grilled Salmon",
+    "description": "Fish, Grilled Salmon 3oz",
+    "station": "Crave",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Fish",
+      "Sustainability"
+    ],
+    "calories": 190,
+    "price": "$2.00",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Seared Ahi Tuna",
+    "description": "Tuna, Seared Ahi",
+    "station": "Crave",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Fish",
+      "Contains Sesame",
+      "Sustainability"
+    ],
+    "calories": 107,
+    "price": "$1.00",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Mediterranean Grain Salad with Chicken",
+    "description": "Winter grain mix and greens with roasted yams, red bell peppers, cauliflower, with choice of dressing and stinging chicken",
+    "station": "Crave",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Dairy",
+      "Contains TreeNuts",
+      "Contains Wheat",
+      "Contains Gluten"
+    ],
+    "calories": 354,
+    "price": "$11.00",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Mediterranean Grain Salad with Galbi Tempeh",
+    "description": "Grain mix with roasted vegetables and galbi tempeh with choice of dressing",
+    "station": "Crave",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegetarian",
+      "Contains Dairy",
+      "Contains TreeNuts",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten",
+      "Contains Sesame",
+      "Sustainability"
+    ],
+    "calories": 393,
+    "price": "$11.00",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Spring Bounty Bowl with Galbi Tempeh",
+    "description": "Arugula, kale, ratatouille mixed with grains, pickled red cabbage, grilled avocado, cucumber, tomato confit, feta cheese, and galbi tempeh garnished with crunchy chickpeas",
+    "station": "Crave",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegetarian",
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten",
+      "Contains Sesame",
+      "Sustainability"
+    ],
+    "calories": 415,
+    "price": "$11.00",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Spring Bounty Chicken Bowl",
+    "description": "Arugula, kale, ratatouille mixed with grains, pickled red cabbagge, grilled avocado, cucumber, tomato confit, feta cheese, and stinging chicken garnished with crunchy chickpeas",
+    "station": "Crave",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Wheat",
+      "Contains Gluten"
+    ],
+    "calories": 376,
+    "price": "$11.00",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Udon Noodle Salad with Chicken",
+    "description": "Udon noodles, spring mix, arugula, baby kale, grilled pear, pepitas and dried cranberries with stinging chicken and choice of dressing",
+    "station": "Crave",
+    "meal_period": "Dinner",
+    "allergens": [],
+    "calories": 471,
+    "price": "$10.00",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Udon Noodle Salad with Galbi Tempeh",
+    "description": "Udon noodles, spring mix, arugula, baby kale, grilled pear, pepitas and dried cranberries with galbi tempeh and choice of dressing",
+    "station": "Crave",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegan",
+      "Contains Soy",
+      "Contains Sesame",
+      "Sustainability"
+    ],
+    "calories": 508,
+    "price": "$11.00",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Galbi Tempeh Banh Mi Sandwich",
+    "description": "Toasted Amoroso roll with hoisin aioli, pickled banh mi slaad, cilantro, Thai basil, and galbi tempeh",
+    "station": "Crave",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegan",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten",
+      "Contains Sesame",
+      "Sustainability"
+    ],
+    "calories": 588,
+    "price": "$9.50",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Stinging Chicken Banh Mi Sandwich",
+    "description": "Toasted Amoroso roll with hoisin aioli, pickled banh mi slaad, cilantro, Thai basil, and stinging chicken",
+    "station": "Crave",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten",
+      "Contains Sesame"
+    ],
+    "calories": 535,
+    "price": "$11.00",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Strawberry Fields Wrap with Chicken",
+    "description": "Wrap with pickled red cabbage, arugula, kale, strawberries, feta cheese, broccoli slaw, dried cranberries, roasted beets, and stinging chicken",
+    "station": "Crave",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Dairy",
+      "Contains TreeNuts",
+      "Contains Wheat",
+      "Contains Gluten"
+    ],
+    "calories": 687,
+    "price": "$10.00",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Strawberry Fields Wrap with Galbi Tempeh",
+    "description": "Wrap with pickled red cabbage, arugula, kale, strawberries, feta cheese, broccoli slaw, dried cranberries, roasted beets, and galbi tempeh",
+    "station": "Crave",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegetarian",
+      "Contains Dairy",
+      "Contains TreeNuts",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten",
+      "Contains Sesame",
+      "Sustainability"
+    ],
+    "calories": 726,
+    "price": "$9.50",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Dressing, Avocado",
+    "description": "Dressing, Avocado",
+    "station": "Crave",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Sustainability"
+    ],
+    "calories": 65,
+    "price": null,
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Dressing, Balsamic Vinaigrette",
+    "description": "Dressing, Balsamic Vinaigrette",
+    "station": "Crave",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegan",
+      "Sustainability"
+    ],
+    "calories": 176,
+    "price": null,
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Sesame Ginger Vinaigrette",
+    "description": "Dressing, Sesame Ginger Vinaigrette",
+    "station": "Crave",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegan",
+      "Contains Soy",
+      "Contains Sesame",
+      "Sustainability"
+    ],
+    "calories": 80,
+    "price": null,
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Steamed Calrose Rice",
+    "description": "Steamed Calrose Rice",
+    "station": "Makai",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegan",
+      "Sustainability"
+    ],
+    "calories": 197,
+    "price": "$2.50",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Cali Poke Bowl with Greens",
+    "description": "Salmon, krab, cucumber, seaweed, pickled carrots,  avocado, lava sauce and spicy mayo",
+    "station": "Makai",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Fish",
+      "Contains Eggs",
+      "Contains Gluten",
+      "Contains Sesame",
+      "Sustainability"
+    ],
+    "calories": 537,
+    "price": "$11.50",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Chumuchurri Octopus Bowl with Greens",
+    "description": "Mixed greens with chimichurri octopus, radish, carrots, green onions, kimchi, cucumber, sliced jalapenos and spicy mayo",
+    "station": "Makai",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Soy",
+      "Contains Shellfish",
+      "Sustainability"
+    ],
+    "calories": 670,
+    "price": "$16.00",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Lava Poke Bowl with Greens",
+    "description": "Ahi tuna, spicy tuna, spicy krab with cucumber, pickled ginger, radish, edamame, jalapeno, spicy lava sauce and cilantro served over mixed greens",
+    "station": "Makai",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Fish",
+      "Contains Eggs",
+      "Contains Gluten",
+      "Contains Sesame",
+      "Sustainability"
+    ],
+    "calories": 318,
+    "price": "$11.50",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Lava Poke Bowl with Rice",
+    "description": "Ahi tuna, spicy tuna, spicy krab with cucumber, pickled ginger, radish, edamame, jalapeno, spicy lava sauce and cilantro served over rice",
+    "station": "Makai",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Fish",
+      "Contains Eggs",
+      "Contains Gluten",
+      "Contains Sesame",
+      "Sustainability"
+    ],
+    "calories": 611,
+    "price": "$11.50",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Lilo Poke Bowl with Greens",
+    "description": "Tofu, cucumbers, seaweed salad, edamame, avocado, red cabbage, carrots and cilantro with ponzu sauce served over mixed greens",
+    "station": "Makai",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegan",
+      "Contains Soy",
+      "Contains Sesame",
+      "Sustainability"
+    ],
+    "calories": 318,
+    "price": "$11.50",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Lilo Poke Bowl with Rice",
+    "description": "Tofu, cucumbers, seaweed salad, edamame, avocado, red cabbage, carrots and cilantro with ponzu sauce served over rice",
+    "station": "Makai",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegan",
+      "Contains Soy",
+      "Contains Sesame",
+      "Sustainability"
+    ],
+    "calories": 606,
+    "price": "$11.50",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Makai BYO Poke Bowl",
+    "description": "Choose your own base, protein, toppings and sauce",
+    "station": "Makai",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Fish",
+      "Contains Eggs",
+      "Contains Gluten",
+      "Contains Sesame",
+      "Sustainability"
+    ],
+    "calories": 892,
+    "price": "$14.00",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Makai Poke Bowl with Greens",
+    "description": "Ahi tuna, salmon, red cabbage, cucumber, carrot, edamame and seaweed salad with makai house sauce and sesame seeds served over mixed greens",
+    "station": "Makai",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Soy",
+      "Contains Fish",
+      "Contains Sesame",
+      "Sustainability"
+    ],
+    "calories": 347,
+    "price": "$11.50",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Makai Poke Bowl with Rice",
+    "description": "Ahi tuna, salmon, red cabbage, cucumber, carrot, edamame and seaweed salad with Makai house sauce and sesame seeds served over rice",
+    "station": "Makai",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Fish",
+      "Contains Gluten",
+      "Contains Sesame",
+      "Sustainability"
+    ],
+    "calories": 661,
+    "price": "$11.50",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Cali Poke Bowl with Rice",
+    "description": "Salmon, krab, cucumber, seaweed, pickled carrots,  avocado, lava sauce and spicy mayo served over rice",
+    "station": "Makai",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Fish",
+      "Contains Eggs",
+      "Contains Gluten",
+      "Contains Sesame",
+      "Sustainability"
+    ],
+    "calories": 826,
+    "price": "$11.50",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Chimichurri Octopus Bowl with Rice",
+    "description": "Rice with chimichurri octopus, radish, carrots, green onions, kimchi, cucumber, sliced jalapenos and spicy mayo",
+    "station": "Makai",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Soy",
+      "Contains Shellfish",
+      "Sustainability"
+    ],
+    "calories": 961,
+    "price": "$16.00",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Cilantro",
+    "description": "Cilantro, Chopped",
+    "station": "Makai",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegan",
+      "Sustainability"
+    ],
+    "calories": 6,
+    "price": null,
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Crispy Onions",
+    "description": "Onion, Crispy Topping",
+    "station": "Makai",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegan",
+      "Contains Wheat",
+      "Contains Gluten",
+      "Sustainability"
+    ],
+    "calories": 81,
+    "price": null,
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Cubed Tofu",
+    "description": "Cubed Firm Tofu",
+    "station": "Makai",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegan",
+      "Contains Soy",
+      "Sustainability"
+    ],
+    "calories": 61,
+    "price": "$3.00",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Edamame",
+    "description": "Edamame, Shell Off",
+    "station": "Makai",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegan",
+      "Contains Soy",
+      "Sustainability"
+    ],
+    "calories": 30,
+    "price": null,
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Jalapeno",
+    "description": "Jalapeno, Sliced",
+    "station": "Makai",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegan",
+      "Sustainability"
+    ],
+    "calories": 8,
+    "price": null,
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Makai Grilled Octopus",
+    "description": "Octopus, Makai Grilled",
+    "station": "Makai",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Shellfish",
+      "Sustainability"
+    ],
+    "calories": 47,
+    "price": "$5.00",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Makai Sauce",
+    "description": "Sauce, House Makai",
+    "station": "Makai",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegan",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten",
+      "Contains Sesame",
+      "Sustainability"
+    ],
+    "calories": 57,
+    "price": null,
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Mixed Greens",
+    "description": "Base, Mixed Greens",
+    "station": "Makai",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegan",
+      "Sustainability"
+    ],
+    "calories": 4,
+    "price": null,
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Pickled Ginger",
+    "description": "Ginger, Pickled",
+    "station": "Makai",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Sustainability"
+    ],
+    "calories": 10,
+    "price": null,
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Pickled Red Onion",
+    "description": "Onion, Pickled Red",
+    "station": "Makai",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegan",
+      "Sustainability"
+    ],
+    "calories": 12,
+    "price": null,
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Seafood, Krab Mix",
+    "description": "Seafood, Krab Mix",
+    "station": "Makai",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Fish",
+      "Contains Eggs",
+      "Contains Gluten",
+      "Sustainability"
+    ],
+    "calories": 56,
+    "price": "$2.00",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Seafood, Spicy Krab Mix",
+    "description": "Seafood, Spicy Krab Mix",
+    "station": "Makai",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Fish",
+      "Contains Eggs",
+      "Contains Gluten",
+      "Sustainability"
+    ],
+    "calories": 54,
+    "price": "$1.75",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Seaweed Salad",
+    "description": "Seaweed Salad, Pre Made",
+    "station": "Makai",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegan",
+      "Contains Sesame",
+      "Sustainability"
+    ],
+    "calories": 30,
+    "price": "$1.75",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Shredded Carrots",
+    "description": "Carrot, Matchstick",
+    "station": "Makai",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegan",
+      "Sustainability"
+    ],
+    "calories": 11,
+    "price": null,
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Shredded Radish",
+    "description": "Radish, Side",
+    "station": "Makai",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegan",
+      "Sustainability"
+    ],
+    "calories": 4,
+    "price": null,
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Sliced Cucumber",
+    "description": "Cucumbers, Sliced",
+    "station": "Makai",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegan",
+      "Sustainability"
+    ],
+    "calories": 4,
+    "price": null,
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Sliced Green Onion",
+    "description": "Green Onion, Sliced",
+    "station": "Makai",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegan",
+      "Sustainability"
+    ],
+    "calories": 4,
+    "price": null,
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Spicy Tuna",
+    "description": "Spicy Tuna Mix",
+    "station": "Makai",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Soy",
+      "Contains Fish",
+      "Contains Sesame",
+      "Sustainability"
+    ],
+    "calories": 53,
+    "price": "$3.00",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Steamed Brown Rice",
+    "description": "Steamed brown rice",
+    "station": "Makai",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegan",
+      "Sustainability"
+    ],
+    "calories": 145,
+    "price": null,
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Wonton Strips",
+    "description": "Topping, Wonton Strips",
+    "station": "Makai",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten",
+      "Sustainability"
+    ],
+    "calories": 14,
+    "price": null,
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Avocado",
+    "description": "Avocado, Pulp",
+    "station": "Makai",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Sustainability"
+    ],
+    "calories": 62,
+    "price": "$1.50",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Makai Ahi Tuna",
+    "description": "Cubed Ahi Yellowfin Tuna",
+    "station": "Makai",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Fish",
+      "Sustainability"
+    ],
+    "calories": 46,
+    "price": "$5.00",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Salmon Poke",
+    "description": "Add On, Atlantic Salmon Cubes",
+    "station": "Makai",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Fish",
+      "Sustainability"
+    ],
+    "calories": 88,
+    "price": "$5.00",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Lava Sauce",
+    "description": "Sweet chile and garlic soy.",
+    "station": "Makai",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegan",
+      "Contains Soy",
+      "Sustainability"
+    ],
+    "calories": 43,
+    "price": null,
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Ponzu Sauce",
+    "description": "Ponzu Sauce",
+    "station": "Makai",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegan",
+      "Contains Soy",
+      "Contains Sesame",
+      "Sustainability"
+    ],
+    "calories": 24,
+    "price": null,
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Sauce, Spicy Mayo",
+    "description": "Sauce, Spicy Mayo",
+    "station": "Makai",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegan",
+      "Contains Soy",
+      "Sustainability"
+    ],
+    "calories": 173,
+    "price": null,
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Wasabi Creme",
+    "description": "Creme, Wasabi",
+    "station": "Makai",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Eggs"
+    ],
+    "calories": 141,
+    "price": null,
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Chicken Ramen",
+    "description": "Tonkotsu pork broth with ramen noodles, char siu chicken, shiitake mushroom, carrots, broccolini, marinated egg, jalapeno and togarashi",
+    "station": "Noodles",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten",
+      "Contains Sesame"
+    ],
+    "calories": 465,
+    "price": "$11.50",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Miso Tofu Ramen",
+    "description": "Miso broth with ramen noodles, marinated tofu, broccolini, shitake mushroom, red cabbage, marinated egg and nori",
+    "station": "Noodles",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Fish",
+      "Contains Eggs",
+      "Contains Gluten",
+      "Contains Sesame",
+      "Sustainability"
+    ],
+    "calories": 496,
+    "price": "$11.50",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Tonkotsu Pork Ramen",
+    "description": "Tonkotsu pork broth with ramen noodles, roasted pork belly, baby bok choy, bamboo shoots, green onions, marinated egg, nori and togarashi",
+    "station": "Noodles",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten",
+      "Contains Sesame"
+    ],
+    "calories": 748,
+    "price": "$12.50",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Char Siu Chicken",
+    "description": "Chicken, Char Siu",
+    "station": "Noodles",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten",
+      "Contains Sesame"
+    ],
+    "calories": 93,
+    "price": "$5.00",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Char Siu Tofu",
+    "description": "Tofu, Char Siu",
+    "station": "Noodles",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegetarian",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten",
+      "Contains Sesame",
+      "Sustainability"
+    ],
+    "calories": 80,
+    "price": "$4.00",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Roasted Pork Belly",
+    "description": "Pork Belly, Roasted",
+    "station": "Noodles",
+    "meal_period": "Dinner",
+    "allergens": [],
+    "calories": 381,
+    "price": "$5.00",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Citrus Chili Paste",
+    "description": "Sauce, Citrus Chili Paste",
+    "station": "Noodles",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegan",
+      "Sustainability"
+    ],
+    "calories": 24,
+    "price": null,
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Sriracha",
+    "description": "Sauce, Sriracha",
+    "station": "Noodles",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegan",
+      "Sustainability"
+    ],
+    "calories": 26,
+    "price": null,
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Xian Spicy Oil",
+    "description": "Sauce, Xian Spicy Oil",
+    "station": "Noodles",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegan",
+      "Contains Soy",
+      "Sustainability"
+    ],
+    "calories": 165,
+    "price": null,
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Iced Arnold Palmer",
+    "description": "Black tea mixed with lemonade served over ice",
+    "station": "Rooftop",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegan",
+      "Sustainability"
+    ],
+    "calories": 101,
+    "price": "$3.75",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Iced Southern Sweet Tea",
+    "description": "Black tea sweetened with simple syrup served over ice",
+    "station": "Rooftop",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Sustainability"
+    ],
+    "calories": 53,
+    "price": "$3.75",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Bacon Slice",
+    "description": "Pork bacon",
+    "station": "Rooftop",
+    "meal_period": "Dinner",
+    "allergens": [],
+    "calories": 156,
+    "price": "$1.75",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "American Cheese",
+    "description": "American Cheese",
+    "station": "Rooftop",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegetarian",
+      "Contains Dairy"
+    ],
+    "calories": 75,
+    "price": "$1.00",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "California Burger",
+    "description": "Brioche bun with a smashed beef patty, jalapeno crème, avocado, crispy fried onions, and tomato jam",
+    "station": "Rooftop",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten"
+    ],
+    "calories": 966,
+    "price": "$11.00",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Plant Based Beyond Burger Plate",
+    "description": "Plant based Beyond Beef patty on a vegan bun with lettuce, tomato, pickles and tangy aioli sauce",
+    "station": "Rooftop",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegan",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten",
+      "Sustainability"
+    ],
+    "calories": 594,
+    "price": "$9.00",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Plant Based Crispy Chikn Sandwich",
+    "description": "Crispy breaded beyond chickn with pickles and vegan chipotle aioli on a bun",
+    "station": "Rooftop",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegan",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten",
+      "Sustainability"
+    ],
+    "calories": 582,
+    "price": "$9.00",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Triton Cheeseburger",
+    "description": "Brioche bun with tangy sauce, a smashed beef patty, American cheese, lettuce, tomato and pickles",
+    "station": "Rooftop",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten"
+    ],
+    "calories": 872,
+    "price": "$9.75",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Chicken Tender Combo",
+    "description": "Crispy breaded chicken tenders served with a side of lattice cut fries and a fountain drink",
+    "station": "Rooftop",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten"
+    ],
+    "calories": 944,
+    "price": "$12.00",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Crispy Chicken Sandwich Combo",
+    "description": "Crispy breaded chicken breast with tangy sauce, pickles, and tomato on a brioche bun served with a side of lattice cut fries and a fountain drink",
+    "station": "Rooftop",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten"
+    ],
+    "calories": 1460,
+    "price": "$14.00",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Triton Cheeseburger Combo",
+    "description": "Brioche bun with tangy sauce, a smashed beef patty, American cheese, lettuce, tomato and pickles served with a side of lattice cut fries and a fountain drink",
+    "station": "Rooftop",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten"
+    ],
+    "calories": 1303,
+    "price": "$14.00",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Apple Cobbler",
+    "description": "Dessert, Apple Cobbler",
+    "station": "Rooftop",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten"
+    ],
+    "calories": 276,
+    "price": "$4.50",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Chocolate Chunk Cookie",
+    "description": "David's Double Chocolate Chip Cookie",
+    "station": "Rooftop",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegetarian",
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten"
+    ],
+    "calories": 369,
+    "price": "$2.75",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Dozen Cookies",
+    "description": "One dozen cookies",
+    "station": "Rooftop",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegetarian",
+      "Contains Dairy",
+      "Contains TreeNuts",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten"
+    ],
+    "calories": 4483,
+    "price": "$28.00",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "White Chocolate Macadamia Cookie",
+    "description": "David's White Chocolate Chip Macadamia Nut Cookie",
+    "station": "Rooftop",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegetarian",
+      "Contains Dairy",
+      "Contains TreeNuts",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten"
+    ],
+    "calories": 400,
+    "price": "$2.75",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Avocado",
+    "description": "Avocado, Pulp",
+    "station": "Rooftop",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Sustainability"
+    ],
+    "calories": 62,
+    "price": "$1.50",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Family Style Ancho Lime Chicken",
+    "description": "Family style platter with smoked ancho lime chicken served with choice of two sides and BBQ sauce. Serves 4.",
+    "station": "Rooftop",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten"
+    ],
+    "calories": 6311,
+    "price": "$40.00",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Family Style Brisket",
+    "description": "One pound of sliced smoked brisket served with choice of two sides and BBQ sauce. Serves 4.",
+    "station": "Rooftop",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten"
+    ],
+    "calories": 3654,
+    "price": "$60.00",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Family Style Pulled Pork",
+    "description": "One pound of smoked pulled pork served with choice of two sides and BBQ sauce. Serves 4.",
+    "station": "Rooftop",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten"
+    ],
+    "calories": 3327,
+    "price": "$40.00",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Family Style Sides",
+    "description": "Choice of four sides. Serves 4.",
+    "station": "Rooftop",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten"
+    ],
+    "calories": 4921,
+    "price": "$35.00",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Loaded Pork Chili Verde Mac and Cheese",
+    "description": "Mac and cheese topped with pulled pork chili verde, nacho velveeta sauce, chipotle lime crema, cilantro, and crispy onions",
+    "station": "Rooftop",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Wheat",
+      "Contains Gluten"
+    ],
+    "calories": 718,
+    "price": "$7.50",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Pulled Pork Chili Verde Loaded Fries",
+    "description": "Waffle fries topped with smoked chile verde pulled pork, velveeta nacho cheese, chipotle lime crema, sliced green onion and crispy onion topping",
+    "station": "Rooftop",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten"
+    ],
+    "calories": 798,
+    "price": "$7.50",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Ancho Lime Chicken Plate",
+    "description": "Smoked ancho lime chicken quarter with two sides of customer's choice",
+    "station": "Rooftop",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten"
+    ],
+    "calories": 1380,
+    "price": "$13.50",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Pulled Pork Plate",
+    "description": "Shredded smoked pork with choice of BBQ sauce and choice of 2 sides",
+    "station": "Rooftop",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten"
+    ],
+    "calories": 808,
+    "price": "$11.50",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Smoked Beef Brisket Plate",
+    "description": "Slow smoked spice rubbed beef brisket with choice of BBQ sauce and choice of 2 sides",
+    "station": "Rooftop",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten"
+    ],
+    "calories": 890,
+    "price": "$12.50",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Brisket Sandwich Plate",
+    "description": "Smoked brisket sandwich in a hoagie roll with jalapeno cilantro slaw, Texas bbq sauce and cheese sauce served with side of your choice",
+    "station": "Rooftop",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten"
+    ],
+    "calories": 1098,
+    "price": "$12.50",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Crispy Chicken Sandwich",
+    "description": "Crispy breaded chicken breast with pickles, tangy Pines sauce and tomato on a brioche bun.",
+    "station": "Rooftop",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten"
+    ],
+    "calories": 1034,
+    "price": "$9.25",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Pulled Pork Sandwich Plate",
+    "description": "Carolina pulled pork sandwich with side of customer's choice",
+    "station": "Rooftop",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten"
+    ],
+    "calories": 1013,
+    "price": "$11.00",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "House BBQ Sauce",
+    "description": "Sauce, House BBQ",
+    "station": "Rooftop",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegan",
+      "Sustainability"
+    ],
+    "calories": 59,
+    "price": null,
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Peach BBQ Sauce",
+    "description": "Sauce, Peach BBQ",
+    "station": "Rooftop",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Sustainability"
+    ],
+    "calories": 40,
+    "price": null,
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Chicken Tenders",
+    "description": "Crispy breaded chicken tenders",
+    "station": "Rooftop",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten"
+    ],
+    "calories": 536,
+    "price": "$9.00",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Cilantro Garlic Spring Vegetables",
+    "description": "Seared snap peas, broccolini, sweet mini peppers, and asparagus drizzled with cilantro garlic sauce",
+    "station": "Rooftop",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegan",
+      "Sustainability"
+    ],
+    "calories": 142,
+    "price": "$3.75",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Coleslaw",
+    "description": "Shredded cabbage and carrots in a light creamy dressing",
+    "station": "Rooftop",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegetarian",
+      "Contains Soy",
+      "Contains Eggs",
+      "Sustainability"
+    ],
+    "calories": 158,
+    "price": "$4.00",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Jalapeno Cheddar Cornbread",
+    "description": "Cornbread baked with jalapeno, cheddar jack cheese and corn kernels",
+    "station": "Rooftop",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegetarian",
+      "Contains Dairy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten"
+    ],
+    "calories": 257,
+    "price": "$3.00",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Mac and Cheese",
+    "description": "Macaroni noodles in a cheesy sauce with a parmesan panko crust",
+    "station": "Rooftop",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegetarian",
+      "Contains Dairy",
+      "Contains Wheat",
+      "Contains Gluten"
+    ],
+    "calories": 363,
+    "price": "$4.00",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Side Sampler Plate",
+    "description": "Side dish sampler plate with waffle fries, mac and cheese, slaw and cornbread",
+    "station": "Rooftop",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegetarian",
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten"
+    ],
+    "calories": 1055,
+    "price": "$8.00",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Waffle Fries",
+    "description": "Potato, Waffle Fries",
+    "station": "Rooftop",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegan",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten",
+      "Sustainability"
+    ],
+    "calories": 436,
+    "price": "$4.00",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Chips and Guacamole",
+    "description": "Side, Chips and Guacamole",
+    "station": "Wolftown Latin",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegan",
+      "Sustainability"
+    ],
+    "calories": 258,
+    "price": "$3.50",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Tortilla Chips",
+    "description": "Chips, Tortilla",
+    "station": "Wolftown Latin",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegan",
+      "Sustainability"
+    ],
+    "calories": 168,
+    "price": "$2.00",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Wolftown Bowl",
+    "description": "Bowl with choice of protein, rice, beans, toppings, and extras",
+    "station": "Wolftown Latin",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy"
+    ],
+    "calories": 525,
+    "price": "$9.00",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Wolftown Burrito",
+    "description": "Burrito with choice of tortilla, rice, beans, protein, toppings, and extras",
+    "station": "Wolftown Latin",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten"
+    ],
+    "calories": 905,
+    "price": "$10.00",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Wolftown Nachos",
+    "description": "Tortilla chips with cheese sauce and choice of protein, beans, toppings, and extras",
+    "station": "Wolftown Latin",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy"
+    ],
+    "calories": 770,
+    "price": "$10.50",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Horchata",
+    "description": "Sweetened rice beverage with almond milk and cinnamon",
+    "station": "Wolftown Latin",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegan",
+      "Contains TreeNuts",
+      "Sustainability"
+    ],
+    "calories": 125,
+    "price": "$3.75",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Shredded Cheddar Jack Cheese",
+    "description": "Cheese, Shredded Cheddar Jack",
+    "station": "Wolftown Latin",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegetarian",
+      "Contains Dairy"
+    ],
+    "calories": 111,
+    "price": "$1.00",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Shredded Lettuce",
+    "description": "Lettuce, Shredded",
+    "station": "Wolftown Latin",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegan",
+      "Sustainability"
+    ],
+    "calories": 4,
+    "price": null,
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Sour Cream",
+    "description": "Sour Cream",
+    "station": "Wolftown Latin",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegetarian",
+      "Contains Dairy"
+    ],
+    "calories": 56,
+    "price": "$1.00",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Takis",
+    "description": "Takis",
+    "station": "Wolftown Latin",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegan",
+      "Contains Soy",
+      "Sustainability"
+    ],
+    "calories": 36,
+    "price": null,
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Corn Salsa",
+    "description": "Salsa, Corn",
+    "station": "Wolftown Latin",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegan",
+      "Sustainability"
+    ],
+    "calories": 23,
+    "price": null,
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Crispy Onions",
+    "description": "Onion, Crispy Topping",
+    "station": "Wolftown Latin",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegan",
+      "Contains Wheat",
+      "Contains Gluten",
+      "Sustainability"
+    ],
+    "calories": 81,
+    "price": null,
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Guacamole",
+    "description": "Mashed avocado, tomatoes, onions, cilantro, jalapeno peppers, lime juice, and salt",
+    "station": "Wolftown Latin",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegan",
+      "Sustainability"
+    ],
+    "calories": 44,
+    "price": "$1.50",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Churro",
+    "description": "Baked churro coated in cinnamon sugar",
+    "station": "Wolftown Latin",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegetarian",
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten"
+    ],
+    "calories": 224,
+    "price": "$3.50",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Achiote Chicken",
+    "description": "Chicken, Achiote",
+    "station": "Wolftown Latin",
+    "meal_period": "Dinner",
+    "allergens": [],
+    "calories": 132,
+    "price": null,
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Beef Carne Asada",
+    "description": "Beef, Carne Asada",
+    "station": "Wolftown Latin",
+    "meal_period": "Dinner",
+    "allergens": [],
+    "calories": 198,
+    "price": "$2.00",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Mushroom Fajitas",
+    "description": "Fajitas, Mushroom",
+    "station": "Wolftown Latin",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Sustainability"
+    ],
+    "calories": 38,
+    "price": null,
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Pork Adobada",
+    "description": "Pork, Adobada",
+    "station": "Wolftown Latin",
+    "meal_period": "Dinner",
+    "allergens": [],
+    "calories": 244,
+    "price": "$1.00",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Jalapeno Cheese Sauce",
+    "description": "Sauce, Cheese Jalapeno",
+    "station": "Wolftown Latin",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegetarian",
+      "Contains Dairy",
+      "Contains Soy"
+    ],
+    "calories": 26,
+    "price": "$1.75",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Cantina Beans",
+    "description": "Pinto and refried beans stewed with onion, jalapeno, tomato, soyrizo, and spices",
+    "station": "Wolftown Latin",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegan",
+      "Contains Soy",
+      "Sustainability"
+    ],
+    "calories": 29,
+    "price": "$3.75",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Spanish Rice",
+    "description": "Traditional Spanish rice",
+    "station": "Wolftown Latin",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegan",
+      "Sustainability"
+    ],
+    "calories": 177,
+    "price": "$2.50",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Horchata",
+    "description": "Sweetened rice beverage with almond milk and cinnamon",
+    "station": "Wolftown Street",
+    "meal_period": "Dinner",
+    "allergens": [
+      "Vegan",
+      "Contains TreeNuts",
+      "Sustainability"
+    ],
+    "calories": 125,
+    "price": "$3.75",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Bacon",
+    "description": "Side, Bacon (2)",
+    "station": "Rooftop",
+    "meal_period": "Brunch",
+    "allergens": [],
+    "calories": 313,
+    "price": "$3.50",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Fresh Fruit Salad",
+    "description": "Mix of fresh seasonal fruits",
+    "station": "Rooftop",
+    "meal_period": "Brunch",
+    "allergens": [
+      "Vegan",
+      "Sustainability"
+    ],
+    "calories": 44,
+    "price": "$3.75",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Fried Egg",
+    "description": "Whole egg, cooked to order.",
+    "station": "Rooftop",
+    "meal_period": "Brunch",
+    "allergens": [
+      "Vegetarian",
+      "Contains Eggs"
+    ],
+    "calories": 78,
+    "price": "$2.25",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "House Potatoes",
+    "description": "Diced potatoes with garlic, onion, peppers, onion, and herbs",
+    "station": "Rooftop",
+    "meal_period": "Brunch",
+    "allergens": [
+      "Vegan",
+      "Sustainability"
+    ],
+    "calories": 109,
+    "price": "$4.00",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "JUST Scrambled Vegan Eggs",
+    "description": "Vegan scrambled 'JUST' eggs",
+    "station": "Rooftop",
+    "meal_period": "Brunch",
+    "allergens": [
+      "Vegan",
+      "Sustainability"
+    ],
+    "calories": 169,
+    "price": "$4.00",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Toast (Sourdough, Wheat, English Muffin)",
+    "description": "Side, Assorted Toast",
+    "station": "Rooftop",
+    "meal_period": "Brunch",
+    "allergens": [
+      "Vegan",
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten",
+      "Contains Sesame",
+      "Sustainability"
+    ],
+    "calories": 178,
+    "price": "$1.50",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Veggie Sausage",
+    "description": "Vegan sausage patty.",
+    "station": "Rooftop",
+    "meal_period": "Brunch",
+    "allergens": [
+      "Vegan",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten",
+      "Sustainability"
+    ],
+    "calories": 139,
+    "price": "$2.00",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Pork Sausage Links",
+    "description": "Ground pork, herbs and spices in a natural casing.",
+    "station": "Rooftop",
+    "meal_period": "Brunch",
+    "allergens": [],
+    "calories": 171,
+    "price": "$2.00",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Scrambled Egg Whites",
+    "description": "Scrambled egg whites",
+    "station": "Rooftop",
+    "meal_period": "Brunch",
+    "allergens": [
+      "Vegetarian",
+      "Contains Eggs"
+    ],
+    "calories": 51,
+    "price": "$3.00",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Scrambled Eggs",
+    "description": "Scrambled Eggs",
+    "station": "Rooftop",
+    "meal_period": "Brunch",
+    "allergens": [
+      "Vegetarian",
+      "Contains Eggs"
+    ],
+    "calories": 132,
+    "price": "$3.00",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Steel Cut Oatmeal",
+    "description": "Hot steel cut oats with your choice of toppings",
+    "station": "Rooftop",
+    "meal_period": "Brunch",
+    "allergens": [
+      "Vegan",
+      "Sustainability"
+    ],
+    "calories": 115,
+    "price": "$3.50",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Tater Tots",
+    "description": "Side, Fried Tater Tots",
+    "station": "Rooftop",
+    "meal_period": "Brunch",
+    "allergens": [
+      "Vegan",
+      "Contains Soy",
+      "Sustainability"
+    ],
+    "calories": 398,
+    "price": "$4.00",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Buttermilk Pancakes",
+    "description": "3 Buttermilk Pancakes",
+    "station": "Rooftop",
+    "meal_period": "Brunch",
+    "allergens": [
+      "Vegetarian",
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten"
+    ],
+    "calories": 92,
+    "price": "$6.00",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Challah French Toast",
+    "description": "Grilled custard battered Challah French toast with a sprinkle of powdered sugar.",
+    "station": "Rooftop",
+    "meal_period": "Brunch",
+    "allergens": [
+      "Vegetarian",
+      "Contains Dairy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten"
+    ],
+    "calories": 486,
+    "price": "$6.00",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Cucumber Avocado Toast",
+    "description": "Avocado toast with seasoned cucumbers, tomato, feta cheese",
+    "station": "Rooftop",
+    "meal_period": "Brunch",
+    "allergens": [
+      "Vegetarian",
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten",
+      "Contains Sesame",
+      "Sustainability"
+    ],
+    "calories": 502,
+    "price": "$6.50",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Peach Cobbler Pancakes",
+    "description": "Pancakes topped with peach compote and cobbler crumble",
+    "station": "Rooftop",
+    "meal_period": "Brunch",
+    "allergens": [
+      "Vegetarian",
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten"
+    ],
+    "calories": 461,
+    "price": "$6.00",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Ube Pancakes",
+    "description": "Ube pancakes topped with strawberry butter and ube drizzle",
+    "station": "Rooftop",
+    "meal_period": "Brunch",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten"
+    ],
+    "calories": 402,
+    "price": "$6.00",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Veg Sausage Spinach & Egg White Sandwich",
+    "description": "Scrambled egg whites with spinach and mozzarella cheese on a whole wheat English muffin",
+    "station": "Rooftop",
+    "meal_period": "Brunch",
+    "allergens": [
+      "Vegetarian",
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten"
+    ],
+    "calories": 338,
+    "price": "$6.50",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Egg Muffin",
+    "description": "Fried egg with American cheese on toasted English muffin",
+    "station": "Rooftop",
+    "meal_period": "Brunch",
+    "allergens": [
+      "Vegetarian",
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten"
+    ],
+    "calories": 309,
+    "price": "$5.00",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Sausage Egg & Cheese Croissant",
+    "description": "Fried egg with American cheese on toasted buttered croissant",
+    "station": "Rooftop",
+    "meal_period": "Brunch",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten"
+    ],
+    "calories": 564,
+    "price": "$8.00",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Sausage Egg Muffin",
+    "description": "Fried egg and turkey sausage patty with American cheese on toasted English muffin.",
+    "station": "Rooftop",
+    "meal_period": "Brunch",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten"
+    ],
+    "calories": 398,
+    "price": "$6.50",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Sausage Spinach & Egg White Sandwich",
+    "description": "Scrambled egg whites and sausage with spinach and mozzarella cheese on a whole wheat English muffin",
+    "station": "Rooftop",
+    "meal_period": "Brunch",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten"
+    ],
+    "calories": 288,
+    "price": "$6.50",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Spinach & Egg White Sandwich",
+    "description": "Scrambled egg whites with spinach and mozzarella cheese on a whole wheat English muffin",
+    "station": "Rooftop",
+    "meal_period": "Brunch",
+    "allergens": [
+      "Vegetarian",
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten"
+    ],
+    "calories": 199,
+    "price": "$5.00",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Veg Sausage Cheese Croissant",
+    "description": "Plant based sausage patty, fried egg, and American cheese on a buttered croissant",
+    "station": "Rooftop",
+    "meal_period": "Brunch",
+    "allergens": [
+      "Vegetarian",
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten"
+    ],
+    "calories": 614,
+    "price": "$8.00",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Bacon Cheese Croissant",
+    "description": "Bacon, fried egg, and American cheese on a buttered croissant.",
+    "station": "Rooftop",
+    "meal_period": "Brunch",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten"
+    ],
+    "calories": 555,
+    "price": "$8.00",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Bacon Spinach & Egg White Sandwich",
+    "description": "Scrambled egg whites with spinach and mozzarella cheese on a whole wheat English muffin",
+    "station": "Rooftop",
+    "meal_period": "Brunch",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten"
+    ],
+    "calories": 279,
+    "price": "$6.50",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Brisket Brunch Sandwich",
+    "description": "French toast breakfast sandwich with beef brisket, American cheese, BBQ sauce, jalapeno jam, and a fried egg",
+    "station": "Rooftop",
+    "meal_period": "Brunch",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten"
+    ],
+    "calories": 913,
+    "price": "$14.00",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Egg Cheese Croissant",
+    "description": "Fried egg with American cheese on toasted buttered croissant",
+    "station": "Rooftop",
+    "meal_period": "Brunch",
+    "allergens": [
+      "Vegetarian",
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten"
+    ],
+    "calories": 475,
+    "price": "$6.50",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Triton Breakfast Combo",
+    "description": "2 eggs your way with 2 buttermilk pancakes and your choice of meat.",
+    "station": "Rooftop",
+    "meal_period": "Brunch",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten"
+    ],
+    "calories": 612,
+    "price": "$9.00",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Café Breakfast Combo",
+    "description": "2 eggs cooked your way with tater tots, choice of protein, and toast",
+    "station": "Rooftop",
+    "meal_period": "Brunch",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten",
+      "Contains Sesame"
+    ],
+    "calories": 936,
+    "price": "$9.50",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Bacon",
+    "description": "Side, Bacon (2)",
+    "station": "Wolftown Street",
+    "meal_period": "Brunch",
+    "allergens": [],
+    "calories": 313,
+    "price": "$3.50",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Fresh Fruit Salad",
+    "description": "Mix of fresh seasonal fruits",
+    "station": "Wolftown Street",
+    "meal_period": "Brunch",
+    "allergens": [
+      "Vegan",
+      "Sustainability"
+    ],
+    "calories": 44,
+    "price": "$3.75",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Scrambled Eggs",
+    "description": "Scrambled Eggs",
+    "station": "Wolftown Street",
+    "meal_period": "Brunch",
+    "allergens": [
+      "Vegetarian",
+      "Contains Eggs"
+    ],
+    "calories": 132,
+    "price": "$3.00",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Tater Tots",
+    "description": "Side, Fried Tater Tots",
+    "station": "Wolftown Street",
+    "meal_period": "Brunch",
+    "allergens": [
+      "Vegan",
+      "Contains Soy",
+      "Sustainability"
+    ],
+    "calories": 398,
+    "price": "$4.00",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Turkey Sausage Patty",
+    "description": "Turkey sausage patty.",
+    "station": "Wolftown Street",
+    "meal_period": "Brunch",
+    "allergens": [],
+    "calories": 89,
+    "price": "$2.00",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Carne Asada Breakfast Burrito",
+    "description": "Seasoned beef carne asada, scrambled eggs, tater tots, and cheddar jack cheese wrapped in a tortilla",
+    "station": "Wolftown Street",
+    "meal_period": "Brunch",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten"
+    ],
+    "calories": 988,
+    "price": "$10.50",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Egg Bean and Cheese Breakfast Burrito",
+    "description": "Burrito with eggs, cheddar jack cheese, refried beans, tater tots on choice of tortilla",
+    "station": "Wolftown Street",
+    "meal_period": "Brunch",
+    "allergens": [
+      "Vegetarian",
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten"
+    ],
+    "calories": 1025,
+    "price": "$7.00",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Soyrizo Spinach Breakfast Burrito",
+    "description": "Scrambled eggs, tater tots, sauteed spinach & soyrizo, cheddar jack cheese in a tortilla",
+    "station": "Wolftown Street",
+    "meal_period": "Brunch",
+    "allergens": [
+      "Vegetarian",
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten"
+    ],
+    "calories": 863,
+    "price": "$9.00",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Turkey Sausage Breakfast Burrito",
+    "description": "Turkey sausage, scrambled eggs, tater tots, and cheddar jack cheese wrapped in a tortilla",
+    "station": "Wolftown Street",
+    "meal_period": "Brunch",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten"
+    ],
+    "calories": 879,
+    "price": "$8.50",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Pork Belly Breakfast Burrito",
+    "description": "Roasted pork belly, scrambled eggs, tater tots, cheddar jack cheese, wrapped in a tortilla",
+    "station": "Wolftown Street",
+    "meal_period": "Brunch",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten"
+    ],
+    "calories": 1363,
+    "price": "$10.00",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Carne Asada Loaded Tots",
+    "description": "Tater tots topped with beef carne asada, scrambled eggs, cheese, chipotle lime crema, and pico de gallo",
+    "station": "Wolftown Street",
+    "meal_period": "Brunch",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Eggs"
+    ],
+    "calories": 1063,
+    "price": "$12.00",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Longaniza Sausage Loaded Tots",
+    "description": "Tater tots topped with longaniza sausage, scrambled eggs, cheese, chipotle lime crema, and pico de gallo",
+    "station": "Wolftown Street",
+    "meal_period": "Brunch",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Eggs"
+    ],
+    "calories": 1260,
+    "price": "$11.00",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Pulled Pork Loaded Tots",
+    "description": "Tater tots topped with pulled pork, scrambled eggs, cheese, chipotle lime crema and pico de gallo",
+    "station": "Wolftown Street",
+    "meal_period": "Brunch",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Eggs"
+    ],
+    "calories": 1161,
+    "price": "$11.00",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Spinach Soyrizo Loaded Tots",
+    "description": "Tater tots topped with spinach and soyrizo mix, scrambled eggs, cheese, chipotle lime crema, and pico de gallo",
+    "station": "Wolftown Street",
+    "meal_period": "Brunch",
+    "allergens": [
+      "Vegetarian",
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Eggs"
+    ],
+    "calories": 1003,
+    "price": "$11.00",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Cantina Beans",
+    "description": "Pinto and refried beans stewed with onion, jalapeno, tomato, soyrizo, and spices",
+    "station": "Wolftown Street",
+    "meal_period": "Brunch",
+    "allergens": [
+      "Vegan",
+      "Contains Soy",
+      "Sustainability"
+    ],
+    "calories": 29,
+    "price": "$3.75",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Tater Tots",
+    "description": "Side, Fried Tater Tots",
+    "station": "Wolftown Street",
+    "meal_period": "Late Night",
+    "allergens": [
+      "Vegan",
+      "Contains Soy",
+      "Sustainability"
+    ],
+    "calories": 398,
+    "price": "$4.00",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Egg Bean and Cheese Breakfast Burrito",
+    "description": "Burrito with eggs, cheddar jack cheese, refried beans, tater tots on choice of tortilla",
+    "station": "Wolftown Street",
+    "meal_period": "Late Night",
+    "allergens": [
+      "Vegetarian",
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten"
+    ],
+    "calories": 1025,
+    "price": "$7.00",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Carne Asada Takis Burrito",
+    "description": "Carne asada, Spanish rice, Takis, nacho cheese sauce, pico de gallo and house hot sauce wrapped in a tortilla",
+    "station": "Wolftown Street",
+    "meal_period": "Late Night",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten"
+    ],
+    "calories": 752,
+    "price": "$10.50",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Kung Pao Tofu Burrito",
+    "description": "Kung pao tofu stir fry and kimchi fried rice wrapped  in a tortilla",
+    "station": "Wolftown Street",
+    "meal_period": "Late Night",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten",
+      "Contains Sesame",
+      "Sustainability"
+    ],
+    "calories": 788,
+    "price": "$8.00",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Pork Belly Breakfast Burrito",
+    "description": "Roasted pork belly, scrambled eggs, tater tots, cheddar jack cheese, wrapped in a tortilla",
+    "station": "Wolftown Street",
+    "meal_period": "Late Night",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Eggs",
+      "Contains Gluten"
+    ],
+    "calories": 1363,
+    "price": "$10.00",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Taquito Burrito",
+    "description": "Tortilla with fried chicken taquitos, lettuce, guacamole, cotija cheese, spicy lime crema and chile de arbol salsa",
+    "station": "Wolftown Street",
+    "meal_period": "Late Night",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten"
+    ],
+    "calories": 868,
+    "price": "$9.50",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  },
+  {
+    "name": "Taquitos Supreme",
+    "description": "5 rolled chicken tacos fried topped with lettuce, Chipotle crema, cheddar jack cheese, guacamole",
+    "station": "Wolftown Street",
+    "meal_period": "Late Night",
+    "allergens": [
+      "Contains Dairy",
+      "Contains Soy",
+      "Contains Wheat",
+      "Contains Gluten"
+    ],
+    "calories": 798,
+    "price": "$11.00",
+    "location": "Restaurants at Sixth College",
+    "date": "Sunday, June 07 2026"
+  }
+]

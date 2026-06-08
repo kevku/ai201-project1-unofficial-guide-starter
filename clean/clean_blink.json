@@ -1,0 +1,1208 @@
+[
+  {
+    "name": "64 Degrees",
+    "description": "Good mood food (think burritos, sushi, burgers and milkshakes), private relaxation rooms, outdoor lounge space, and our Food Lab where you can learn how to make our culinary team’s favorite meals! Offering a modern vibe, choose from six stations featuring Triton Grill, Wok This Way, Taqueria, Garden Bar, al Dente and our new Sushi bar UMI.",
+    "location": null,
+    "phone": "(858) 246-1802",
+    "hours": "Mon-Thu: 7:00am-11:00am | Fri: 7:00am-8:00am | Sat: 10:00am-8:00am | Sun: 10:00am-11:00am",
+    "payments": [
+      "Dining Dollars"
+    ]
+  },
+  {
+    "name": "Al Dente",
+    "description": "Authentic pastas and house made sauces.",
+    "location": null,
+    "phone": "858-555-6464",
+    "hours": "Mon-Thu: 7:00am-11:00am | Fri: 7:00am-8:00am | Sat: 10:00am-8:00am | Sun: 10:00am-11:00am",
+    "payments": [
+      "Dining Dollars"
+    ]
+  },
+  {
+    "name": "Art of Espresso Café",
+    "description": "Serves coffee, smoothies, pastries, sandwiches, salads, desserts, and great service.",
+    "location": "Mandeville Center",
+    "phone": null,
+    "hours": "Mon-Fri: 7:00am-4:00pm | Sat-Sun: Closed",
+    "payments": [
+      "Cash",
+      "Credit Card",
+      "Triton Cash"
+    ]
+  },
+  {
+    "name": "Audrey’s Café",
+    "description": "Serves coffee, Bread & Cie pastries and packaged foods on the 2nd floor of Geisel Library.",
+    "location": "Geisel Library",
+    "phone": "(858) 534-8040",
+    "hours": "Mon-Thu: 8:00am-6:00pm | Fri: 8:00am-4:00pm | Sat-Sun: Closed",
+    "payments": [
+      "Cash",
+      "Credit Card",
+      "Triton Cash"
+    ]
+  },
+  {
+    "name": "Bella Vista Social Club",
+    "description": "and Caffé A hybrid of French and Italian cuisine and offers a multitude of salads, paninis, pastas, and other delicacies.",
+    "location": "Sanford Consortium",
+    "phone": "(858) 534-9624",
+    "hours": "Mon-Fri: 7:30am-9:00pm | Sat-Sun: 8:00am-3:00pm",
+    "payments": [
+      "Cash",
+      "Credit Card"
+    ]
+  },
+  {
+    "name": "Bird Rock",
+    "description": "Offers award winning coffees, house made flavored lattes, classic cappuccinos, local pastries and an assortment of grab and go options.",
+    "location": "Innovation Lane and Lyman Drive",
+    "phone": "(619) 272-0204",
+    "hours": "Mon-Fri: 8:00am-3:00pm | Sat: 8:00am-1:00pm | Sun: Closed",
+    "payments": [
+      "Credit cards",
+      "Apple Pay",
+      "Android Pay"
+    ]
+  },
+  {
+    "name": "Bistro",
+    "description": "A modern eatery featuring an open kitchen, sushi bar, and an exciting Pacific Rim-inspired menu. Our chefs draw from various Asian cultures to serve up the freshest seafood, crisp greens, local produce inspired vegetarian fare, and noodle dishes.",
+    "location": null,
+    "phone": "858-822-4277",
+    "hours": "Mon-Thu: 11:00am-9:00am | Fri: 11:00am-8:00am | Sat-Sun: ",
+    "payments": [
+      "Dining Dollars"
+    ]
+  },
+  {
+    "name": "Blue Bowl",
+    "description": "Customizable superfood smoothie bowls with a wide array of superfood base and topping selections.",
+    "location": "North Torrey Pines Living & Learning Neighborhood",
+    "phone": null,
+    "hours": "Mon-Thu: 9:00am-7:00pm | Fri: 9:00am-6:00pm | Sat: 10:00am-4:00pm | Sun: Closed",
+    "payments": [
+      "Cash",
+      "Triton cash",
+      "Apple pay",
+      "and all major credit cards"
+    ]
+  },
+  {
+    "name": "Blue Pepper Asian",
+    "description": "Cuisine Features healthy Thai and vegetarian offerings.",
+    "location": "Student Center",
+    "phone": "(858) 558-4606",
+    "hours": "Mon-Fri: 9:00am-8:00pm | Sat-Sun: Closed",
+    "payments": [
+      "Cash",
+      "Credit Card",
+      "Grubhub",
+      "Triton Cash"
+    ]
+  },
+  {
+    "name": "Burger King",
+    "description": "Offers flame-grilled burgers and fries, crisp salads, and more at student-friendly prices.",
+    "location": "Price Center East",
+    "phone": "(858) 247-0498",
+    "hours": "Mon-Thu: Open 24 Hours | Fri: 7:00am-1:00am | Sat: 8:00am-12:00am | Sun: 9:30am-12:00am",
+    "payments": [
+      "Cash",
+      "Credit Card",
+      "Triton Cash"
+    ]
+  },
+  {
+    "name": "Café Olé",
+    "description": "Coffee cart provides coffee, drinks, snacks, and desserts.",
+    "location": "UCSD Extension campus",
+    "phone": null,
+    "hours": "Mon-Fri: 4:00pm-8:00pm | Sat-Sun: Closed",
+    "payments": [
+      "Cash"
+    ]
+  },
+  {
+    "name": "Canyon Vista",
+    "description": "Marketplace Canyon Vista Marketplace is the largest halal-certified residential dining facility in the nation. Canyon Vista Marketplace features menus designed around our Rooted in Flavor principles of healthy, sustainable meals. Stations include Fusion Grill, Fresh, Three-Sixty and Earl's Coffee House. Shop for groceries, snacks, grab and go and household items at Marketplace.",
+    "location": null,
+    "phone": "(858) 534-8003",
+    "hours": "Mon-Thu: 7:00am-9:00am | Fri: 7:00am-8:00am | Sat-Sun: 10:00am-8:00am",
+    "payments": [
+      "Dining Dollars"
+    ]
+  },
+  {
+    "name": "Caroline's Seaside Cafe",
+    "description": "Brunch menu all day featuring classic American breakfast, salads, hot and cold sandwiches, burgers and griddled items, healthy seasonal cuisine using fresh local and often organic ingredients, we offer great espresso and coffee drinks, beer, wine and classic brunch cocktails",
+    "location": "Scripps Seaside Forum",
+    "phone": "(858) 202-0569",
+    "hours": "Mon-Sun: 8:00am-3:00pm",
+    "payments": [
+      "credit cards",
+      "cash",
+      "apple pay; UCSD Students and FACULTY receive 30% DISCOUNT"
+    ]
+  },
+  {
+    "name": "Club Med",
+    "description": "Located in the heart of the School of Medicine, Club Med offers made-to- order salads, sandwiches, flatbread pizzas, soups, lunch combos, and tasty desserts.",
+    "location": null,
+    "phone": "(858) 534-9108",
+    "hours": "Mon-Fri: 7:00am-2:00am | Sat-Sun: ",
+    "payments": [
+      "Cash",
+      "Visa",
+      "MasterCard",
+      "American Express",
+      "Dining Dollars",
+      "Triton Cash",
+      "Dept Recharge",
+      "Community Dining"
+    ]
+  },
+  {
+    "name": "Copa Vida",
+    "description": "Offers a variety of coffee, tea, and specialized beverages as well as quick bites to eat such as breakfast sandwiches, breakfast burritos, and more.",
+    "location": "Muir College Drive",
+    "phone": null,
+    "hours": "Mon-Fri: 8:00am-4:00pm | Sat: 8:00am-2:00pm | Sun: Closed",
+    "payments": [
+      "Credit Card",
+      "Triton Cash"
+    ]
+  },
+  {
+    "name": "Counter Culture",
+    "description": "Enjoy freshly brewed coffee, sweets, and bagels, along with refreshing açaí and passion fruit bowls.",
+    "location": null,
+    "phone": "(858) 534-4924",
+    "hours": "Mon-Thu: 8:00am-9:00am | Fri: 8:00am-4:00am | Sat-Sun: ",
+    "payments": [
+      "Cash",
+      "Visa",
+      "MasterCard",
+      "American Express",
+      "Dining Dollars",
+      "Triton Cash",
+      "Dept Recharge",
+      "Community Dining"
+    ]
+  },
+  {
+    "name": "Crafted @ Minerva's Cafe",
+    "description": "We provide fresh, organic food with a focus on sustainability. Dine in, take out and catering for breakfast, lunch and dinner. Customized catering menus available. Menu includes soups, salads, pasta, wraps, sandwiches, burgers, burritos, and rice bowls and several vegetarian options. Boba drinks and an extensive coffee menu also available. Enjoy beer and wine on our patio with a beautiful view!",
+    "location": "Franklin Antonio Hall",
+    "phone": null,
+    "hours": "Mon-Fri: 8:00am-7:00pm | Sat-Sun: Closed",
+    "payments": [
+      "Credit Card",
+      "online ordering",
+      "Triton cash"
+    ]
+  },
+  {
+    "name": "Crave",
+    "description": "Seasonal grain bowls, salads, and stuffed Pita choices of proteins and toppings plus a BYO option.",
+    "location": null,
+    "phone": "858-555-1112",
+    "hours": "Mon-Thu: 8:00am-11:00am | Fri: 8:00am-8:00am | Sat: 10:00am-8:00am | Sun: 10:00am-11:00am",
+    "payments": [
+      "Dining Dollars"
+    ]
+  },
+  {
+    "name": "Croutons",
+    "description": "Open 9/23: Serves fresh made-to-order salads, panini sandwiches, and homemade soups.",
+    "location": "Student Services Center, 2nd floor",
+    "phone": null,
+    "hours": "Mon-Fri: 10:00am-3:00pm | Sat-Sun: Closed",
+    "payments": [
+      "Cash",
+      "Credit Card",
+      "Triton Cash"
+    ]
+  },
+  {
+    "name": "Cups Coffee",
+    "description": "Serves organic and free- trade coffee, blended drinks, pastries, smoothies, sandwiches, salads, desserts, and vegetarian specialties.",
+    "location": "Jacobs",
+    "phone": "(619) 283-5252",
+    "hours": "Mon-Thu: 7:30am-4:00pm | Fri: 7:30am-4:00am | Sat-Sun: Closed",
+    "payments": [
+      "Cash",
+      "Check",
+      "Credit Card",
+      "Triton Cash"
+    ]
+  },
+  {
+    "name": "Cups Outdoor Café",
+    "description": "Serves organic and free- trade coffee, blended drinks, pastries, smoothies, sandwiches, salads, desserts, and vegetarian specialties.",
+    "location": "Jacobs School of Engineering Courtyard",
+    "phone": "(619) 283-5252",
+    "hours": "Mon-Fri: 6:30am-4:30pm | Sat-Sun: Closed",
+    "payments": [
+      "Cash",
+      "Check",
+      "Credit Card",
+      "Triton Cash"
+    ]
+  },
+  {
+    "name": "Curry Up Now",
+    "description": "Indian Street Food",
+    "location": "Price Center East",
+    "phone": "(858) 234-3404",
+    "hours": "Mon-Thu: 10:00am-10:00pm | Fri: 10:00am-9:00pm | Sat-Sun: 11:00am-8:00pm",
+    "payments": [
+      "cash",
+      "credit",
+      "Triton cash accepted"
+    ]
+  },
+  {
+    "name": "Dirty Birds",
+    "description": "A locally owned restaurant and sports bar, proudly serving some of the best wings in San Diego and pizza by the slice.",
+    "location": "Price Center West",
+    "phone": "(858) 750-2121",
+    "hours": "Mon-Fri: 10:00am-9:00pm | Sat-Sun: 12:00pm-5:00pm",
+    "payments": [
+      "Cash",
+      "Credit Card",
+      "Grubhub",
+      "Triton Card"
+    ]
+  },
+  {
+    "name": "Earl’s Coffee House",
+    "description": "Coffee, specialty drinks, doughnuts, sweets, Boba and more!",
+    "location": null,
+    "phone": "(858) 534-8003",
+    "hours": "Mon-Thu: 7:00am-9:00am | Fri: 7:00am-8:00am | Sat-Sun: 10:00am-8:00am",
+    "payments": [
+      "Dining Dollars"
+    ]
+  },
+  {
+    "name": "Fairbanks Coffee",
+    "description": "Full-service coffee and espresso bar with grab and go sandwiches, pastries, snacks and assorted beverages.",
+    "location": "https://map.concept3d.com/? id=1005#!ce/18012? m/165689",
+    "phone": null,
+    "hours": "Mon-Fri: 7:30am-4:00pm | Sat-Sun: Closed",
+    "payments": [
+      "All types accepted"
+    ]
+  },
+  {
+    "name": "Fan Fan",
+    "description": "UC San Diego Rady School MBA alumnus, hopes to transform the culinary experience on campus by offering the best in Asian cuisine with a warm and friendly environment for anyone to call their home away from home.",
+    "location": "North Torrey Pines Living & Learning Neighborhood",
+    "phone": "(858) 750-2058",
+    "hours": "Mon-Fri: 10:30am-8:30pm | Sat: Closed | Sun: 11:00am-8:00am",
+    "payments": [
+      "Major credit cards",
+      "UnionPay",
+      "Apple Pay",
+      "Google Pay and Triton Cash"
+    ]
+  },
+  {
+    "name": "Farmer's Market",
+    "description": "Choose from specialty salads or build-your-own options, seasonal fruit and vegetable cups, and made-to-order sandwiches.",
+    "location": null,
+    "phone": "(858) 534-5167",
+    "hours": "Mon-Sun: ",
+    "payments": [
+      "Cash",
+      "Visa",
+      "MasterCard",
+      "American Express",
+      "Dining Dollars",
+      "Triton Cash",
+      "Dept Recharge",
+      "Community Dining"
+    ]
+  },
+  {
+    "name": "FlavorFull",
+    "description": "Brings offers fresh delicious healthy macro bowls.",
+    "location": "Price Center East",
+    "phone": "(858) 492-0300",
+    "hours": "Mon-Fri: 10:00am-8:00pm | Sat: 11:00am-6:00pm | Sun: 11:00am-8:00pm",
+    "payments": [
+      "Cash",
+      "Credit Card",
+      "Triton Cash"
+    ]
+  },
+  {
+    "name": "Foodworx",
+    "description": "Enjoy personal pizzas made to order, fresh garden salads, and a sandwich bar. You can also find snacks and grocery staples to prepare your own meals. Join us on the patio for grill specials including tacos, burgers, steak and salmon.",
+    "location": null,
+    "phone": "(858) 822-0824",
+    "hours": "Mon-Fri: 9:00am-8:00am | Sat-Sun: ",
+    "payments": [
+      "Cash",
+      "Visa",
+      "MasterCard",
+      "American Express",
+      "Dining Dollars",
+      "Triton Cash",
+      "Dept Recharge",
+      "Community Dining"
+    ]
+  },
+  {
+    "name": "Fresh",
+    "description": "",
+    "location": null,
+    "phone": "(858) 534-8003",
+    "hours": "Mon-Thu: 7:00am-9:00am | Fri: 7:00am-8:00am | Sat-Sun: 10:00am-8:00am",
+    "payments": [
+      "Dining Dollars"
+    ]
+  },
+  {
+    "name": "Fusion Grill",
+    "description": "Classic burger joint with expanded globally inspired options. Featuring breakfast, lunch, dinner and late- night options. Halal Certified.",
+    "location": null,
+    "phone": "(858) 534-8003",
+    "hours": "Mon-Thu: 7:00am-9:00am | Fri: 7:00am-8:00am | Sat-Sun: 10:00am-8:00am",
+    "payments": [
+      "Dining Dollars"
+    ]
+  },
+  {
+    "name": "Garden Bar",
+    "description": "Salads and soups made with fresh seasonal ingredients. Try one of our specialty salads or build your own.",
+    "location": null,
+    "phone": "858-555-6464",
+    "hours": "Mon-Thu: 7:00am-11:00am | Fri: 7:00am-8:00am | Sat: 10:00am-8:00am | Sun: 10:00am-11:00am",
+    "payments": [
+      "Dining Dollars"
+    ]
+  },
+  {
+    "name": "Goody's Marketplace",
+    "description": "Offers a wide selection of groceries and meals on the go.",
+    "location": null,
+    "phone": "(858) 534-9383",
+    "hours": "Mon-Thu: 8:00am-4:00am | Fri:  | Sat: 9:00am-8:00am | Sun: 9:00am-11:00am",
+    "payments": [
+      "Dining Dollars"
+    ]
+  },
+  {
+    "name": "HaPi",
+    "description": "Sweet and Savory hand pies from around the world!",
+    "location": null,
+    "phone": "(858) 534-0567",
+    "hours": "Mon-Thu: 7:00am-11:00am | Fri: 7:00am-8:00am | Sat: 10:00am-8:00am | Sun: 10:00am-11:00am",
+    "payments": [
+      "Cash",
+      "Visa",
+      "MasterCard",
+      "American Express",
+      "Dining Dollars",
+      "Triton Cash",
+      "Dept Recharge",
+      "Community Dining"
+    ]
+  },
+  {
+    "name": "hEAT",
+    "description": "Enjoy a curated selection of Asian-inspired signature dishes and flavorful sides.",
+    "location": null,
+    "phone": "(858) 534-5167",
+    "hours": "Mon-Sun: ",
+    "payments": [
+      "Cash",
+      "Visa",
+      "MasterCard",
+      "American Express",
+      "Dining Dollars",
+      "Triton Cash",
+      "Dept Recharge",
+      "Community Dining"
+    ]
+  },
+  {
+    "name": "IPO Fusion BBQ",
+    "description": "Get ready for fresh, bold island comfort eats. Serving up high-quality favorites like smoky BBQ combos, garlic shrimp, authentic mac salad, and our signature Spam musubi in various styles! Come hungry for massive portions.",
+    "location": "Student Center",
+    "phone": "(858) 999-0018",
+    "hours": "Mon-Fri: 11:00am-9:00pm | Sat: 11:00am-8:00pm | Sun: Closed",
+    "payments": [
+      "Credit cards",
+      "Apple Pay",
+      "Triton Cash - Coming Soon"
+    ]
+  },
+  {
+    "name": "Jamba Juice",
+    "description": "Serves blended smoothies, fresh- squeezed juices, and nutritious breads.",
+    "location": "Price Center West",
+    "phone": "(858) 622-2020",
+    "hours": "Mon-Sat: 9:00am-7:00pm | Sun: Closed",
+    "payments": [
+      "Cash",
+      "Check",
+      "Credit Card",
+      "Grubhub",
+      "Triton Cash"
+    ]
+  },
+  {
+    "name": "Journey",
+    "description": "African diasporic foods with choices of stews, rice bowls, fry bowls with choice of proteins and Chapati.",
+    "location": null,
+    "phone": "(858) 534-0567",
+    "hours": "Mon-Thu: 7:00am-11:00am | Fri: 7:00am-8:00am | Sat: 10:00am-8:00am | Sun: 10:00am-11:00am",
+    "payments": [
+      "Cash",
+      "Visa",
+      "MasterCard",
+      "American Express",
+      "Dining Dollars",
+      "Triton Cash",
+      "Dept Recharge",
+      "Community Dining"
+    ]
+  },
+  {
+    "name": "Kaldi",
+    "description": "Coffee, Specialty Drinks, doughnuts and Baked Sweets.",
+    "location": null,
+    "phone": "(858) 534-0567",
+    "hours": "Mon-Thu: 7:00am-11:00am | Fri: 7:00am-8:00am | Sat: 10:00am-8:00am | Sun: 10:00am-11:00am",
+    "payments": [
+      "Cash",
+      "Visa",
+      "MasterCard",
+      "American Express",
+      "Dining Dollars",
+      "Triton Cash",
+      "Dept Recharge",
+      "Community Dining"
+    ]
+  },
+  {
+    "name": "Lemongrass Farm Fresh",
+    "description": "Plates Serves natural chicken, salmon and tofu with a healthy Asian fusion flair.",
+    "location": "Price Center West",
+    "phone": "(858) 455-6465",
+    "hours": "Mon-Thu: 9:00am-8:00pm | Fri: 9:00am-6:00pm | Sat: 10:00am-3:00pm | Sun: Closed",
+    "payments": [
+      "Cash",
+      "Credit Card",
+      "Triton Cash"
+    ]
+  },
+  {
+    "name": "M.O.M. & P.O.P./ Muir",
+    "description": "College Center Offers snack foods, cold drinks, sandwiches/salads, Muir College apparel, and other sundries within a large student lounge. (Store)",
+    "location": "MOM (Middle of Muir), downstairs from Pines",
+    "phone": "(858) 534-4418",
+    "hours": "Mon-Tue: 8:30am-10:00pm | Wed-Thu: 8:30am-10:30pm | Fri: 8:30am-7:00pm | Sat: 10:00am-5:00pm | Sun: Closed",
+    "payments": [
+      "Cash",
+      "Check",
+      "Credit Card",
+      "Triton Cash"
+    ]
+  },
+  {
+    "name": "Makai",
+    "description": "Selection of Signature Poke bowls & BYO Poke Bar.",
+    "location": null,
+    "phone": "858-555-1112",
+    "hours": "Mon-Thu: 8:00am-11:00am | Fri: 8:00am-8:00am | Sat: 10:00am-8:00am | Sun: 10:00am-11:00am",
+    "payments": [
+      "Dining Dollars"
+    ]
+  },
+  {
+    "name": "Muir Woods",
+    "description": "Provides an intimate coffeehouse atmosphere with fresh pastries, custom coffee and espresso drinks, and teas.",
+    "location": "MOM (Middle of Muir), downstairs from Pines",
+    "phone": null,
+    "hours": "Mon-Thu: 7:30am-9:00pm | Fri: 7:30am-6:00pm | Sat: 10:00am-5:00pm | Sun: Closed",
+    "payments": [
+      "Cash",
+      "Check",
+      "Credit Card",
+      "Triton Cash"
+    ]
+  },
+  {
+    "name": "Noodles",
+    "description": "Traditional Ramen and Pho Rotations.",
+    "location": null,
+    "phone": "858-555-1112",
+    "hours": "Mon-Thu: 8:00am-11:00am | Fri: 8:00am-8:00am | Sat: 10:00am-8:00am | Sun: 10:00am-11:00am",
+    "payments": [
+      "Dining Dollars"
+    ]
+  },
+  {
+    "name": "Northside Deli at Seventh",
+    "description": "Market Made to order sandwiches, wraps, soup, and bowls for breakfast, lunch, and dinner.",
+    "location": null,
+    "phone": "(858) 822-5577",
+    "hours": "Mon-Fri: 7:00am-11:00am | Sat-Sun: 9:00am-11:00am",
+    "payments": [
+      "Dining Dollars"
+    ]
+  },
+  {
+    "name": "OceanView",
+    "description": "This fifth-floor restaurant offers a delightful culinary experience with Mediterranean specialties, stone-fired pizzas, pasta bakes, sandwiches, and salads. Indulge in fresh-baked desserts and coffee while enjoying beautiful ocean views from our patio.",
+    "location": null,
+    "phone": "(858) 534-4924",
+    "hours": "Mon-Thu: 8:00am-9:00am | Fri: 8:00am-4:00am | Sat-Sun: ",
+    "payments": [
+      "Cash",
+      "Visa",
+      "MasterCard",
+      "American Express",
+      "Dining Dollars",
+      "Triton Cash",
+      "Dept Recharge",
+      "Community Dining"
+    ]
+  },
+  {
+    "name": "Pacific Café & Catering",
+    "description": "We provide fresh, organic food with a focus on sustainability. Serving fresh breakfast, including egg scrambles, breakfast burritos, and bagels. Extensive specialty espresso and coffee menu. Menu includes soups, salads, pasta, wraps, sandwiches, burgers, burritos, and rice bowls and several vegetarian options. Customized catering menus available.",
+    "location": "Altman Clinical and Translational Research Institute",
+    "phone": null,
+    "hours": "Mon-Fri: 7:00am-3:00pm | Sat-Sun: Closed",
+    "payments": [
+      "Credit Card",
+      "Online Ordering"
+    ]
+  },
+  {
+    "name": "Panda Express",
+    "description": "Provides a variety of Chinese dishes.",
+    "location": "Price Center West",
+    "phone": "(858) 638-0106",
+    "hours": "Mon-Fri: 9:00am-8:00pm | Sat: 10:00am-6:00pm | Sun: Closed",
+    "payments": [
+      "Cash",
+      "Credit Card",
+      "Triton Cash"
+    ]
+  },
+  {
+    "name": "Pinpoint Cafe",
+    "description": "Eco-Friendly Cafe offering coffee and specialty drinks, pastries, smoothies, pre-packed breakfast and lunch options.",
+    "location": "SIO",
+    "phone": "(858) 952-2550",
+    "hours": "Mon-Fri: 7:30am-3:00pm | Sat-Sun: Closed",
+    "payments": [
+      "Cash",
+      "Credit Card",
+      "Contactless"
+    ]
+  },
+  {
+    "name": "Plant Power",
+    "description": "Fast-casual vegan chain focused on health and sustainability. Offerings include burgers, 'chicken' sandwiches, salads, shakes, and more.",
+    "location": "North Torrey Pines Living & Learning Neighborhood",
+    "phone": "(858) 750-2058",
+    "hours": "Mon-Fri: 10:30am-8:00pm | Sat-Sun: Closed",
+    "payments": [
+      "Credit/debit card",
+      "Apple and Google pay and Tritoncash"
+    ]
+  },
+  {
+    "name": "Restaurants at Sixth",
+    "description": "College The Restaurants at Sixth College encompass five exciting and unique platforms as well as the largest retail market on campus. Enjoy plant- based entrees, poke bowls, all kinds of noodles, global street food, BBQ, and so much more!",
+    "location": null,
+    "phone": "858-555-1112",
+    "hours": "Mon-Thu: 8:00am-11:00am | Fri: 8:00am-8:00am | Sat: 10:00am-8:00am | Sun: 10:00am-11:00am",
+    "payments": [
+      "Dining Dollars"
+    ]
+  },
+  {
+    "name": "Ridge Walk Social",
+    "description": "Fresh gourmet burgers, hand-cut fries, healthy salads & wraps, 12 beer taps, wine & spiked seltzer.",
+    "location": "RIMAC",
+    "phone": "(858) 412-3212",
+    "hours": "Mon-Fri: 10:30am-9:00pm | Sat: 11:00am-7:00pm | Sun: Closed",
+    "payments": [
+      "Credit/Debit Card",
+      "Cash",
+      "Triton Cash"
+    ]
+  },
+  {
+    "name": "Roger's Market",
+    "description": "Looking for something to keep you energized for the day? This market has a fully stocked espresso bar, fresh pastries and desserts, and a wide variety of grab-and-go snacks and meals. Featuring Amazon Just Walk Out Technology for an automated shopping experience. No lines, no seriously!",
+    "location": null,
+    "phone": "(858) 822-4118",
+    "hours": "Mon-Fri: 7:00am-11:00am | Sat-Sun: 9:00am-11:00am",
+    "payments": [
+      "Dining Dollars"
+    ]
+  },
+  {
+    "name": "Rooftop",
+    "description": "BBQ menu during the week highlighting in- house rubs, smoked items, and sauces with a weekend brunch and sandwich menu.",
+    "location": null,
+    "phone": "858-555-1112",
+    "hours": "Mon-Thu: 8:00am-11:00am | Fri: 8:00am-8:00am | Sat: 10:00am-8:00am | Sun: 10:00am-11:00am",
+    "payments": [
+      "Dining Dollars"
+    ]
+  },
+  {
+    "name": "Santorini Greek Island",
+    "description": "Grill Offers fare from around the Aegean, the Mediterranean, and beyond...",
+    "location": "Price Center East",
+    "phone": null,
+    "hours": "Mon-Fri: 8:00am-9:00pm | Sat: 10:00am-6:00pm | Sun: 11:00am-8:00pm",
+    "payments": [
+      "Cash",
+      "Credit Card",
+      "Triton Cash"
+    ]
+  },
+  {
+    "name": "Scholars Italian",
+    "description": "Savor a variety of pastas, hot subs, fresh salads, and authentic Detroit- style pizza.",
+    "location": null,
+    "phone": "(858) 534-4924",
+    "hours": "Mon-Thu: 8:00am-9:00am | Fri: 8:00am-4:00am | Sat-Sun: ",
+    "payments": [
+      "Cash",
+      "Visa",
+      "MasterCard",
+      "American Express",
+      "Dining Dollars",
+      "Triton Cash",
+      "Dept Recharge",
+      "Community Dining"
+    ]
+  },
+  {
+    "name": "Scholars Pizza",
+    "description": "Enjoy handcrafted, made- from-scratch pizza cooked to perfection in our stone-fired oven.",
+    "location": null,
+    "phone": "(858) 534-4924",
+    "hours": "Mon-Thu: 8:00am-9:00am | Fri: 8:00am-4:00am | Sat-Sun: ",
+    "payments": [
+      "Cash",
+      "Visa",
+      "MasterCard",
+      "American Express",
+      "Dining Dollars",
+      "Triton Cash",
+      "Dept Recharge",
+      "Community Dining"
+    ]
+  },
+  {
+    "name": "Seventh Market",
+    "description": "Known for a large variety of groceries and snacks, including a full espresso bar and specialty sandwiches made at the Northside deli counter. Featuring Amazon Just Walk Out Technology for an automated shopping experience. No lines, no seriously!",
+    "location": null,
+    "phone": "(858) 822-5577",
+    "hours": "Mon-Fri: 7:00am-11:00am | Sat-Sun: 9:00am-11:00am",
+    "payments": [
+      "Dining Dollars"
+    ]
+  },
+  {
+    "name": "Shake Smart",
+    "description": "Specializes in freshly blended protein shakes, organic Acai bowls, and healthy options for on the go.",
+    "location": "RIMAC",
+    "phone": null,
+    "hours": "Mon-Thu: 7:00am-10:00pm | Fri: 7:00am-8:00pm | Sat-Sun: 7:00am-7:00pm",
+    "payments": [
+      "Credit/ debit card",
+      "Apple Pay",
+      "and Triton Cash"
+    ]
+  },
+  {
+    "name": "Showa Ramen",
+    "description": "We offers a very healthy ramen that contains no msg, ricebowls, and much more with student friendly prices.",
+    "location": "North Torrey Pines Living and Learning Neighborhood",
+    "phone": null,
+    "hours": "Mon-Sat: 11:00am-8:00pm | Sun: Closed",
+    "payments": [
+      "Credit Card",
+      "Triton Cash",
+      "Apple Pay",
+      "Samsung Pay",
+      "Google Pay"
+    ]
+  },
+  {
+    "name": "Sixth Market",
+    "description": "Sixth Market is the largest market on campus, featuring groceries, fresh produce, snacks, grab and go meals, health and beauty options, as well as a full coffee and espresso bar! Featuring Amazon Just Walk Out Technology for an automated shopping experience. No lines, no seriously!",
+    "location": null,
+    "phone": "(858) 246-4512",
+    "hours": "Mon-Thu: 7:00am-2:00am | Fri: 7:00am-10:00am | Sat: 9:00am-11:00am | Sun: 9:00am-2:00am",
+    "payments": [
+      "Dining Dollars"
+    ]
+  },
+  {
+    "name": "Soul",
+    "description": "American Southern influence focusing on the flavors of the South. Homemade biscuit, grits, chicken & waffles, johnnycakes, fried chicken and catfish, fried green tomato and gumbos.",
+    "location": null,
+    "phone": "(858) 534-0567",
+    "hours": "Mon-Thu: 7:00am-11:00am | Fri: 7:00am-8:00am | Sat: 10:00am-8:00am | Sun: 10:00am-11:00am",
+    "payments": [
+      "Cash",
+      "Visa",
+      "MasterCard",
+      "American Express",
+      "Dining Dollars",
+      "Triton Cash",
+      "Dept Recharge",
+      "Community Dining"
+    ]
+  },
+  {
+    "name": "Spice",
+    "description": "A certified Kosher kitchen offering a fresh Mediterranean-inspired menu.",
+    "location": null,
+    "phone": "(858) 534-4924",
+    "hours": "Mon-Thu: 8:00am-9:00am | Fri: 8:00am-4:00am | Sat-Sun: ",
+    "payments": [
+      "Cash",
+      "Visa",
+      "MasterCard",
+      "American Express",
+      "Dining Dollars",
+      "Triton Cash",
+      "Dept Recharge",
+      "Community Dining"
+    ]
+  },
+  {
+    "name": "Splash! Cafe",
+    "description": "The Splash Café is perfectly positioned on the patio outside of the Aquarium. Daily offerings include freshly baked French breakfast rolls and breakfast croissant sandwiches, baguette sandwiches, hand cut Truffle and carne asada fries, salads, soupe du jour, hamburgers, and hot dogs. Vegan and vegetarian options are also available. Beverages include coffee, assorted soft drinks, beer, wine, and cocktails.",
+    "location": "Birch Aquarium",
+    "phone": "(858) 488-1725",
+    "hours": "Mon-Sun: 9:30am-4:30pm",
+    "payments": [
+      "Cash",
+      "debit",
+      "and credit cards"
+    ]
+  },
+  {
+    "name": "Starbucks",
+    "description": "Enjoy your favorite iced or hot coffee and tea drinks at the student union.",
+    "location": "Price Center West",
+    "phone": "(858) 534-5562",
+    "hours": "Mon-Thu: 7:00am-8:30pm | Fri: 7:00am-8:00pm | Sat: 7:00am-6:00pm | Sun: 9:00am-6:00pm",
+    "payments": [
+      "Cash",
+      "Credit Card",
+      "Grubhub",
+      "Starbucks Reward Card",
+      "Triton Cash"
+    ]
+  },
+  {
+    "name": "Street Corner",
+    "description": "Offers a wide array of packaged snacks, beverages, sandwiches, salads, wraps as well as other non-food daily essentials. The highlights of the menu are high- quality “Naanwiches” and pizzas crafted and baked to perfection on naan bread in an on-site kitchen.",
+    "location": "Nuevo West",
+    "phone": "(785) 272-8529",
+    "hours": "Mon-Tue: 7:00am-8:00pm | Wed: 7:00am-8:00am | Thu: 7:00am-8:00pm | Fri-Sat: 7:00am-10:00pm | Sun: 7:00am-10:00am",
+    "payments": [
+      "Cash",
+      "Credit",
+      "Triton Cash"
+    ]
+  },
+  {
+    "name": "Su Pan Bakery",
+    "description": "Bakery",
+    "location": "Price Center",
+    "phone": "(858) 372-4410",
+    "hours": "Mon-Fri: 7:00am-7:00pm | Sat-Sun: Closed",
+    "payments": [
+      "Credit",
+      "cash"
+    ]
+  },
+  {
+    "name": "Subway",
+    "description": "Serves submarine and deli sandwiches, salads, chips, drinks and cookies.",
+    "location": "Price Center West",
+    "phone": "(858) 638-8275",
+    "hours": "Mon-Thu: Open 24 Hours | Fri: 7:00am-1:00am | Sat: 8:00am-11:00pm | Sun: 9:30am-11:00pm",
+    "payments": [
+      "Cash",
+      "Credit Card",
+      "Triton Cash"
+    ]
+  },
+  {
+    "name": "Sunshine Market",
+    "description": "Looking for something to keep you energized for the day? This market has a fully stocked espresso bar, fresh pastries and desserts, and a wide variety of grab-and-go snacks and meals. Featuring Amazon Just Walk Out Technology for an automated shopping experience. No lines, no seriously!",
+    "location": null,
+    "phone": "(858) 822-4118",
+    "hours": "Mon:  | Tue-Fri: 8:00am-9:00am | Sat-Sun: 10:00am-5:00am",
+    "payments": [
+      "Dining Dollars"
+    ]
+  },
+  {
+    "name": "Sweets",
+    "description": "A classic grill offering a variety of breakfast, lunch, and dinner options!",
+    "location": null,
+    "phone": "(858) 534-5167",
+    "hours": "Mon-Sun: ",
+    "payments": [
+      "Cash",
+      "Visa",
+      "MasterCard",
+      "American Express",
+      "Dining Dollars",
+      "Triton Cash",
+      "Dept Recharge",
+      "Community Dining"
+    ]
+  },
+  {
+    "name": "Taco Bell",
+    "description": "All of your favorite Mexican inspired foods from classic tacos to burritos, there’s something for everyone. Vegetarian, vegan, gluten- friendly menu options available!",
+    "location": "Price Center",
+    "phone": "(209) 457-8421",
+    "hours": "Mon-Thu: Open 24 Hours | Fri: 7:00am-1:00am | Sat: 8:00am-11:00pm | Sun: 9:30am-11:00pm",
+    "payments": [
+      "Cash",
+      "Credit Card",
+      "Triton Cash"
+    ]
+  },
+  {
+    "name": "Taco Villa",
+    "description": "PERMANENTLY CLOSED",
+    "location": "Student Center",
+    "phone": null,
+    "hours": "Mon-Sun: Closed",
+    "payments": [
+      "n/a"
+    ]
+  },
+  {
+    "name": "Tahini",
+    "description": "Authentic Middle Eastern Street food with a customizable menu serving house baked pita bread, shawarma, falafel, and a variety of sauces all made from scratch.",
+    "location": "North Torrey Pines Living & Learning Neighborhood",
+    "phone": "(858) 203-7145",
+    "hours": "Mon-Fri: 10:30am-8:00pm | Sat-Sun: Closed",
+    "payments": [
+      "Credit Card",
+      "Online Ordering"
+    ]
+  },
+  {
+    "name": "Tandoor",
+    "description": "Classic Indian curries, rice, and dahls, homemade fresh naan from our Tandoor ovens.",
+    "location": null,
+    "phone": "(858) 534-0567",
+    "hours": "Mon-Thu: 7:00am-11:00am | Fri: 7:00am-8:00am | Sat: 10:00am-8:00am | Sun: 10:00am-11:00am",
+    "payments": [
+      "Cash",
+      "Visa",
+      "MasterCard",
+      "American Express",
+      "Dining Dollars",
+      "Triton Cash",
+      "Dept Recharge",
+      "Community Dining"
+    ]
+  },
+  {
+    "name": "Tapioca Express",
+    "description": "Brings a taste of Taiwan to the campus by offering over 150 different varieties of drinks including teas & boba, as well as delicious rice dishes.",
+    "location": "Price Center East",
+    "phone": "(858) 678-8821",
+    "hours": "Mon-Thu: 9:30am-11:00pm | Fri: 9:30am-11:00am | Sat-Sun: 10:30am-11:00pm",
+    "payments": [
+      "Cash",
+      "Credit Card",
+      "Grubhub",
+      "Triton Cash"
+    ]
+  },
+  {
+    "name": "Taqueria",
+    "description": "SoCal classic favorites with breakfast burritos, nachos, carne asada fries, tacos and more!",
+    "location": null,
+    "phone": "858-555-6464",
+    "hours": "Mon-Thu: 7:00am-11:00am | Fri: 7:00am-8:00am | Sat: 10:00am-8:00am | Sun: 10:00am-11:00am",
+    "payments": [
+      "Dining Dollars"
+    ]
+  },
+  {
+    "name": "TEC Cafe",
+    "description": "TEC Cafe offers a wide variety of your cafe favorites, from espresso and matcha to Red Bull infusions and boba, TEC Cafe has it! Also enjoy snacks, sandwiches, and delicious pastries!",
+    "location": "RIMAC Annex",
+    "phone": "(858) 822-6983",
+    "hours": "Mon-Fri: 7:30am-2:30pm | Sat-Sun: Closed",
+    "payments": [
+      "Cash",
+      "Credit Card",
+      "Gift Card",
+      "Recharge",
+      "Triton Cash"
+    ]
+  },
+  {
+    "name": "The Bistro Sushi",
+    "description": "A modern eatery featuring an open kitchen, sushi bar, and an exciting Pacific Rim-inspired menu. Our chefs draw from various Asian cultures to serve up the freshest seafood, crisp greens, local produce inspired vegetarian fare, and noodle dishes.",
+    "location": null,
+    "phone": null,
+    "hours": "Mon-Thu: 11:00am-9:00am | Fri: 11:00am-8:00am | Sat-Sun: ",
+    "payments": [
+      "Dining Dollars"
+    ]
+  },
+  {
+    "name": "The Bistro",
+    "description": "A modern eatery featuring an open kitchen, sushi bar, and an exciting Pacific Rim-inspired menu. Our chefs draw from various Asian cultures to serve up the freshest seafood, crisp greens, local produce inspired vegetarian fare, and noodle dishes.",
+    "location": null,
+    "phone": null,
+    "hours": "Mon-Thu: 11:00am-9:00am | Fri: 11:00am-8:00am | Sat-Sun: ",
+    "payments": [
+      "Dining Dollars"
+    ]
+  },
+  {
+    "name": "The Faculty Club",
+    "description": "Serves weekday lunch buffets and private breakfasts, lunches, and dinners.",
+    "location": "Muir College",
+    "phone": "(858) 534-0876",
+    "hours": "Mon-Fri: 8:00am-4:30pm | Sat-Sun: Closed",
+    "payments": [
+      "Cash",
+      "Check",
+      "Credit Card",
+      "Recharge",
+      "Triton Cash"
+    ]
+  },
+  {
+    "name": "The Food Co-op",
+    "description": "A vegan and vegetarian only student-run food store that features a fresh, organic salad bar, bagels, bulk trail mix, soups, and a variety of other foods and drinks. (Store)",
+    "location": "Student Center",
+    "phone": "(858) 546-8339",
+    "hours": "Mon-Fri: 10:00am-5:00pm | Sat-Sun: Closed",
+    "payments": [
+      "Cash",
+      "Check",
+      "Credit Card"
+    ]
+  },
+  {
+    "name": "The General Store",
+    "description": "A non-profit, student run cooperative committed to offering the campus community with an assortment of school supplies, snacks, apparel, textbooks, and other convenience items at low prices.",
+    "location": "Student Center",
+    "phone": "(858) 450-3080",
+    "hours": "Mon-Thu: 9:00am-6:00pm | Fri: 9:00am-5:00pm | Sat-Sun: Closed",
+    "payments": [
+      "Cash",
+      "Check",
+      "Credit Card",
+      "Triton Cash"
+    ]
+  },
+  {
+    "name": "Three Sixty Suite",
+    "description": "Quick service global cuisine featured at Three Sixty Suite. Halal Certified.",
+    "location": null,
+    "phone": "(858) 534-8003",
+    "hours": "Mon-Thu: 7:00am-9:00am | Fri: 7:00am-8:00am | Sat-Sun: 10:00am-8:00am",
+    "payments": [
+      "Dining Dollars"
+    ]
+  },
+  {
+    "name": "Three Sixty",
+    "description": "Creative made to order 360 Grill noodles choices with flexible sauces and seared protein cuisines. Quick service global cuisine featured at Three Sixty Suite. Halal Certified.",
+    "location": null,
+    "phone": "(858) 534-8003",
+    "hours": "Mon-Thu: 7:00am-9:00am | Fri: 7:00am-8:00am | Sat-Sun: 10:00am-8:00am",
+    "payments": [
+      "Dining Dollars"
+    ]
+  },
+  {
+    "name": "Toasted",
+    "description": "Enjoy delicious pizza and more!",
+    "location": null,
+    "phone": "(858) 534-5167",
+    "hours": "Mon-Sun: ",
+    "payments": [
+      "Cash",
+      "Visa",
+      "MasterCard",
+      "American Express",
+      "Dining Dollars",
+      "Triton Cash",
+      "Dept Recharge",
+      "Community Dining"
+    ]
+  },
+  {
+    "name": "Triton Grill",
+    "description": "A classic grill with breakfast, lunch and dinner options! Also, home to our soft-serve ice cream machines serving milkshakes, sundaes, and soft serve ice cream in waffle cones.",
+    "location": null,
+    "phone": "858-555-6464",
+    "hours": "Mon-Thu: 7:00am-11:00am | Fri: 7:00am-8:00am | Sat: 10:00am-8:00am | Sun: 10:00am-11:00am",
+    "payments": [
+      "Dining Dollars"
+    ]
+  },
+  {
+    "name": "Triton Grill",
+    "description": "A classic grill offering a variety of breakfast, lunch, and dinner options!",
+    "location": null,
+    "phone": "(858) 534-5167",
+    "hours": "Mon-Sun: ",
+    "payments": [
+      "Cash",
+      "Visa",
+      "MasterCard",
+      "American Express",
+      "Dining Dollars",
+      "Triton Cash",
+      "Dept Recharge",
+      "Community Dining"
+    ]
+  },
+  {
+    "name": "Umi",
+    "description": "Our newest location offers sushi rolls, nigiri and handroll varieties. Umi on the go coming soon!",
+    "location": null,
+    "phone": "858-555-6464",
+    "hours": "Mon-Thu: 7:00am-11:00am | Fri: 7:00am-8:00am | Sat: 10:00am-8:00am | Sun: 10:00am-11:00am",
+    "payments": [
+      "Dining Dollars"
+    ]
+  },
+  {
+    "name": "Ventanas",
+    "description": "Breathtaking architectural design includes 30-foot glass walls, open natural wood beam ceilings, and a large outdoor dining patio and amphitheater. Featuring multiple Food Platforms dedicated to cuisine inspired by the African Diaspora.Enjoy Caribbean specials at Vibe, a taste of Africa at Journey, Delicious Soul Food at Soul, Hand Pies from around the world at Hapi and Indian Cuisine from Tandoor, or Coffee from our Coffee House Kaldi.",
+    "location": null,
+    "phone": "(858) 534-0567",
+    "hours": "Mon-Thu: 7:00am-11:00am | Fri: 7:00am-8:00am | Sat: 10:00am-8:00am | Sun: 10:00am-11:00am",
+    "payments": [
+      "Cash",
+      "Visa",
+      "MasterCard",
+      "American Express",
+      "Dining Dollars",
+      "Triton Cash",
+      "Dept Recharge",
+      "Community Dining"
+    ]
+  },
+  {
+    "name": "Vibe",
+    "description": "Caribbean foods following African diasporic influences, ribs, pollo guisados, sofrito chicken and pastas.",
+    "location": null,
+    "phone": "(858) 534-0567",
+    "hours": "Mon-Thu: 7:00am-11:00am | Fri: 7:00am-8:00am | Sat: 10:00am-8:00am | Sun: 10:00am-11:00am",
+    "payments": [
+      "Cash",
+      "Visa",
+      "MasterCard",
+      "American Express",
+      "Dining Dollars",
+      "Triton Cash",
+      "Dept Recharge",
+      "Community Dining"
+    ]
+  },
+  {
+    "name": "Volkan Coffee",
+    "description": "Serves Craft Coffee, Espresso, Specialty Cold Brew, Teas, and Fresh- Roasted Beans To Go. Offers traditional and vegan handmade pastries as well as healthy and quick breakfast options. Modern and chill vibe with plenty of study and work space.",
+    "location": "UCSD Mesa Nueva Cala building",
+    "phone": "(678) 900-5543",
+    "hours": "Mon-Fri: 7:00am-2:30pm | Sat-Sun: 8:00am-2:30pm",
+    "payments": [
+      "Cash",
+      "Credit Card"
+    ]
+  },
+  {
+    "name": "Wok",
+    "description": "Fast service Asian Cuisine featuring bold flavors, fresh ingredients and global influences.",
+    "location": null,
+    "phone": "858-555-6464",
+    "hours": "Mon-Thu: 7:00am-11:00am | Fri: 7:00am-8:00am | Sat: 10:00am-8:00am | Sun: 10:00am-11:00am",
+    "payments": [
+      "Dining Dollars"
+    ]
+  },
+  {
+    "name": "Wolftown Latin",
+    "description": "This funky little taco shop serves Nachos, Burritos, Tacos, and Plates with a Rotation of Global flavors (Korean, Greek, Southern, Filipino).",
+    "location": null,
+    "phone": "858-555-1112",
+    "hours": "Mon-Thu: 8:00am-11:00am | Fri: 8:00am-8:00am | Sat: 10:00am-8:00am | Sun: 10:00am-11:00am",
+    "payments": [
+      "Dining Dollars"
+    ]
+  },
+  {
+    "name": "Wolftown",
+    "description": "This funky little taco shop serves Nachos, Burritos, Tacos, and Plates with a Rotation of Global flavors (Korean, Greek, Southern, Filipino).",
+    "location": null,
+    "phone": "858-555-1112",
+    "hours": "Mon-Thu: 8:00am-11:00am | Fri: 8:00am-8:00am | Sat: 10:00am-8:00am | Sun: 10:00am-11:00am",
+    "payments": [
+      "Dining Dollars"
+    ]
+  },
+  {
+    "name": "YogurtWorld",
+    "description": "Offers do-it-yourself frozen yogurt. Flavors from chocolate to green coconut and toppings from chocolate chips to lychee.",
+    "location": "Student Services Center, 1st Floor",
+    "phone": "(858) 558-8989",
+    "hours": "Mon-Fri: 11:00am-9:00pm | Sat: 11:00am-6:00pm | Sun: 12:00pm-5:00pm",
+    "payments": [
+      "Cash",
+      "Credit Card",
+      "Triton Cash"
+    ]
+  },
+  {
+    "name": "Zanzibar at The Loft",
+    "description": "Offers freshly made artisan sandwiches, salads, pastas and more!",
+    "location": "Price Center East",
+    "phone": "(858) 678-0922",
+    "hours": "Mon-Fri: 10:30am-5:00pm | Sat-Sun: Closed",
+    "payments": [
+      "Cash",
+      "Credit Card",
+      "Triton Cash"
+    ]
+  },
+  {
+    "name": "First",
+    "description": "",
+    "location": "Previous",
+    "phone": null,
+    "hours": "1",
+    "payments": [
+      "Next"
+    ]
+  }
+]
