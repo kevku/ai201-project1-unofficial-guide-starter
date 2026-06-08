@@ -92,7 +92,7 @@ Due to the smaller model, we will only be handling English the best compared to 
 |---|----------|-----------------|
 | 1 |I only eat 1–2 meals a day, what dining plan should I get?|Triton plan ($5,350) — lowest daily spend estimate at $20/day|
 | 2 |What is good at Ventanas?|Chicken and Waffles and a Buffalo fried chicken plate, and Indian Food|
-| 3 |Where can I get Poke?|Makai and Restaurants at Sixth College|
+| 3 |Where can I get Poke?|Makai/Restaurants at Sixth College|
 | 4 |What if I lose my to go container?|You will not be able to get your $5 deposit back for that container. You can continue to check out additional containers by paying the $5 refundable deposit.|
 | 5 |What can I get if I'm allergic to peanuts?|all dining locations are peanut-free; pre-packaged peanuts sold in markets only; cross-contact in outside facilities not guaranteed|
 
