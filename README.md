@@ -25,7 +25,7 @@
 
 | # | Source | Type | URL or file path |
 |---|--------|------|-----------------|
-| 1 |Places to Eat at UCSD|Official Website|https://blink.ucsd.edu/facilities/services/general/personal/dining.html|
+| 1 |Places to Eat at UCSD|PDF of Official Website|documents/Places to Eat at UCSD.pdf|
 | 2 |Incoming Student Dining Plan
 |Official Website|https://hdhdining.ucsd.edu/dining-plans/incoming.html|
 | 3 |Continuing Student Dining Plan|Official Website|https://hdhdining.ucsd.edu/dining-plans/continuing.html|
